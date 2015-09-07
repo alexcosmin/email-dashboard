@@ -1,0 +1,14 @@
+{
+  "name": "email-dashboard",
+  "description": "GAN Integrity Solutions assignment",
+  "version": "1.0.0",
+  "homepage": "change this to my Angular repo",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0",
+    "angular-loader": "~1.4.0",
+    "angular-mocks": "~1.4.0"
+  }
+}
