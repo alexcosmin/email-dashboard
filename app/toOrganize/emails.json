@@ -1,0 +1,8001 @@
+[{
+    "date": "2015-01-03T22:13:18Z",
+    "newsletter": {
+        "email_sent": 20304,
+        "email_delivered": 9081,
+        "email_read": 1387,
+        "email_complaints": 40
+    }
+}, {
+    "date": "2015-06-04T12:20:32Z",
+    "newsletter": {
+        "email_sent": 22116,
+        "email_delivered": 5081,
+        "email_read": 1192,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2014-12-25T10:53:03Z",
+    "newsletter": {
+        "email_sent": 20592,
+        "email_delivered": 19494,
+        "email_read": 686,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2014-10-18T23:02:14Z",
+    "newsletter": {
+        "email_sent": 21164,
+        "email_delivered": 9416,
+        "email_read": 774,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2014-11-10T01:22:13Z",
+    "newsletter": {
+        "email_sent": 22569,
+        "email_delivered": 22795,
+        "email_read": 1924,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2014-12-18T16:40:11Z",
+    "newsletter": {
+        "email_sent": 22536,
+        "email_delivered": 17490,
+        "email_read": 3205,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2015-06-11T20:47:35Z",
+    "newsletter": {
+        "email_sent": 20678,
+        "email_delivered": 13431,
+        "email_read": 3226,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2014-10-23T17:46:29Z",
+    "newsletter": {
+        "email_sent": 22707,
+        "email_delivered": 12381,
+        "email_read": 2382,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2014-08-17T22:01:43Z",
+    "newsletter": {
+        "email_sent": 21531,
+        "email_delivered": 13140,
+        "email_read": 3598,
+        "email_complaints": 25
+    }
+}, {
+    "date": "2015-04-05T07:38:16Z",
+    "newsletter": {
+        "email_sent": 21949,
+        "email_delivered": 21267,
+        "email_read": 337,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2014-07-18T22:50:04Z",
+    "newsletter": {
+        "email_sent": 20638,
+        "email_delivered": 22535,
+        "email_read": 3714,
+        "email_complaints": 9
+    }
+}, {
+    "date": "2015-03-05T22:05:10Z",
+    "newsletter": {
+        "email_sent": 22425,
+        "email_delivered": 22596,
+        "email_read": 810,
+        "email_complaints": 0
+    }
+}, {
+    "date": "2014-07-10T14:27:26Z",
+    "newsletter": {
+        "email_sent": 20479,
+        "email_delivered": 6681,
+        "email_read": 3426,
+        "email_complaints": 19
+    }
+}, {
+    "date": "2015-06-19T11:12:59Z",
+    "newsletter": {
+        "email_sent": 20619,
+        "email_delivered": 9429,
+        "email_read": 856,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2015-06-01T20:02:18Z",
+    "newsletter": {
+        "email_sent": 20253,
+        "email_delivered": 14107,
+        "email_read": 3710,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2014-11-20T05:19:18Z",
+    "newsletter": {
+        "email_sent": 22056,
+        "email_delivered": 12475,
+        "email_read": 220,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2014-08-25T14:58:16Z",
+    "newsletter": {
+        "email_sent": 21813,
+        "email_delivered": 4814,
+        "email_read": 822,
+        "email_complaints": 34
+    }
+}, {
+    "date": "2014-08-19T21:47:52Z",
+    "newsletter": {
+        "email_sent": 22414,
+        "email_delivered": 16139,
+        "email_read": 1487,
+        "email_complaints": 27
+    }
+}, {
+    "date": "2015-03-08T19:47:28Z",
+    "newsletter": {
+        "email_sent": 22126,
+        "email_delivered": 22866,
+        "email_read": 1159,
+        "email_complaints": 27
+    }
+}, {
+    "date": "2014-07-17T10:29:01Z",
+    "newsletter": {
+        "email_sent": 21729,
+        "email_delivered": 13231,
+        "email_read": 3578,
+        "email_complaints": 14
+    }
+}, {
+    "date": "2014-08-14T16:54:24Z",
+    "newsletter": {
+        "email_sent": 21308,
+        "email_delivered": 13809,
+        "email_read": 2913,
+        "email_complaints": 9
+    }
+}, {
+    "date": "2015-04-04T12:35:26Z",
+    "newsletter": {
+        "email_sent": 20556,
+        "email_delivered": 13300,
+        "email_read": 3567,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2015-05-09T03:35:25Z",
+    "newsletter": {
+        "email_sent": 20515,
+        "email_delivered": 8011,
+        "email_read": 3478,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2014-07-29T22:17:09Z",
+    "newsletter": {
+        "email_sent": 22264,
+        "email_delivered": 9687,
+        "email_read": 719,
+        "email_complaints": 26
+    }
+}, {
+    "date": "2014-07-22T01:52:49Z",
+    "newsletter": {
+        "email_sent": 20511,
+        "email_delivered": 18916,
+        "email_read": 3180,
+        "email_complaints": 22
+    }
+}, {
+    "date": "2014-12-19T12:54:37Z",
+    "newsletter": {
+        "email_sent": 21639,
+        "email_delivered": 4280,
+        "email_read": 2341,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2015-06-21T05:53:13Z",
+    "newsletter": {
+        "email_sent": 22874,
+        "email_delivered": 3901,
+        "email_read": 3668,
+        "email_complaints": 34
+    }
+}, {
+    "date": "2015-01-01T07:46:01Z",
+    "newsletter": {
+        "email_sent": 21594,
+        "email_delivered": 10885,
+        "email_read": 690,
+        "email_complaints": 6
+    }
+}, {
+    "date": "2014-10-25T17:22:18Z",
+    "newsletter": {
+        "email_sent": 22731,
+        "email_delivered": 18980,
+        "email_read": 121,
+        "email_complaints": 26
+    }
+}, {
+    "date": "2014-09-04T03:20:27Z",
+    "newsletter": {
+        "email_sent": 21744,
+        "email_delivered": 20481,
+        "email_read": 85,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2015-06-22T09:00:31Z",
+    "newsletter": {
+        "email_sent": 22178,
+        "email_delivered": 11487,
+        "email_read": 1855,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2014-08-21T23:14:37Z",
+    "newsletter": {
+        "email_sent": 22856,
+        "email_delivered": 16680,
+        "email_read": 2913,
+        "email_complaints": 29
+    }
+}, {
+    "date": "2014-09-22T00:43:32Z",
+    "newsletter": {
+        "email_sent": 20583,
+        "email_delivered": 9030,
+        "email_read": 681,
+        "email_complaints": 27
+    }
+}, {
+    "date": "2015-04-27T22:45:54Z",
+    "newsletter": {
+        "email_sent": 21665,
+        "email_delivered": 17964,
+        "email_read": 1137,
+        "email_complaints": 14
+    }
+}, {
+    "date": "2015-01-28T16:31:19Z",
+    "newsletter": {
+        "email_sent": 22469,
+        "email_delivered": 19615,
+        "email_read": 3563,
+        "email_complaints": 40
+    }
+}, {
+    "date": "2015-04-28T04:47:34Z",
+    "newsletter": {
+        "email_sent": 22801,
+        "email_delivered": 10084,
+        "email_read": 138,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2015-01-18T20:30:43Z",
+    "newsletter": {
+        "email_sent": 22535,
+        "email_delivered": 21721,
+        "email_read": 3544,
+        "email_complaints": 19
+    }
+}, {
+    "date": "2015-06-28T20:42:55Z",
+    "newsletter": {
+        "email_sent": 20455,
+        "email_delivered": 17825,
+        "email_read": 2752,
+        "email_complaints": 1
+    }
+}, {
+    "date": "2014-11-22T00:43:26Z",
+    "newsletter": {
+        "email_sent": 21860,
+        "email_delivered": 14186,
+        "email_read": 1582,
+        "email_complaints": 27
+    }
+}, {
+    "date": "2015-04-27T05:53:32Z",
+    "newsletter": {
+        "email_sent": 20940,
+        "email_delivered": 22945,
+        "email_read": 1992,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2015-03-17T09:45:39Z",
+    "newsletter": {
+        "email_sent": 21135,
+        "email_delivered": 10260,
+        "email_read": 3144,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2015-04-23T20:46:35Z",
+    "newsletter": {
+        "email_sent": 21541,
+        "email_delivered": 8805,
+        "email_read": 2548,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2015-06-14T02:42:55Z",
+    "newsletter": {
+        "email_sent": 22936,
+        "email_delivered": 13322,
+        "email_read": 3561,
+        "email_complaints": 2
+    }
+}, {
+    "date": "2015-03-30T01:49:17Z",
+    "newsletter": {
+        "email_sent": 21005,
+        "email_delivered": 11485,
+        "email_read": 2174,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2015-06-16T19:36:21Z",
+    "newsletter": {
+        "email_sent": 22258,
+        "email_delivered": 7230,
+        "email_read": 2003,
+        "email_complaints": 34
+    }
+}, {
+    "date": "2015-04-09T19:28:12Z",
+    "newsletter": {
+        "email_sent": 20188,
+        "email_delivered": 19082,
+        "email_read": 1306,
+        "email_complaints": 9
+    }
+}, {
+    "date": "2014-10-31T02:37:12Z",
+    "newsletter": {
+        "email_sent": 21255,
+        "email_delivered": 8132,
+        "email_read": 2628,
+        "email_complaints": 27
+    }
+}, {
+    "date": "2015-01-08T15:16:10Z",
+    "newsletter": {
+        "email_sent": 20615,
+        "email_delivered": 14834,
+        "email_read": 2038,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2014-10-16T00:21:04Z",
+    "newsletter": {
+        "email_sent": 22933,
+        "email_delivered": 3054,
+        "email_read": 3580,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2015-05-16T18:54:34Z",
+    "newsletter": {
+        "email_sent": 20785,
+        "email_delivered": 15287,
+        "email_read": 1967,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2015-03-29T13:08:23Z",
+    "newsletter": {
+        "email_sent": 22714,
+        "email_delivered": 22973,
+        "email_read": 1481,
+        "email_complaints": 11
+    }
+}, {
+    "date": "2014-12-08T20:39:58Z",
+    "newsletter": {
+        "email_sent": 22666,
+        "email_delivered": 21393,
+        "email_read": 3802,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2014-07-26T23:55:04Z",
+    "newsletter": {
+        "email_sent": 20750,
+        "email_delivered": 4107,
+        "email_read": 1533,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2015-05-20T18:26:23Z",
+    "newsletter": {
+        "email_sent": 21016,
+        "email_delivered": 13450,
+        "email_read": 917,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2015-02-05T03:51:06Z",
+    "newsletter": {
+        "email_sent": 21166,
+        "email_delivered": 18620,
+        "email_read": 1654,
+        "email_complaints": 27
+    }
+}, {
+    "date": "2014-09-05T20:21:18Z",
+    "newsletter": {
+        "email_sent": 22634,
+        "email_delivered": 19218,
+        "email_read": 943,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2015-06-21T02:09:50Z",
+    "newsletter": {
+        "email_sent": 21952,
+        "email_delivered": 14008,
+        "email_read": 2888,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2015-06-05T03:57:51Z",
+    "newsletter": {
+        "email_sent": 22879,
+        "email_delivered": 13300,
+        "email_read": 2955,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2014-12-10T12:22:00Z",
+    "newsletter": {
+        "email_sent": 20515,
+        "email_delivered": 9569,
+        "email_read": 419,
+        "email_complaints": 26
+    }
+}, {
+    "date": "2014-10-09T15:22:57Z",
+    "newsletter": {
+        "email_sent": 21890,
+        "email_delivered": 14099,
+        "email_read": 3279,
+        "email_complaints": 25
+    }
+}, {
+    "date": "2015-05-13T21:44:22Z",
+    "newsletter": {
+        "email_sent": 22869,
+        "email_delivered": 7718,
+        "email_read": 833,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2014-09-10T02:04:08Z",
+    "newsletter": {
+        "email_sent": 21352,
+        "email_delivered": 3355,
+        "email_read": 1660,
+        "email_complaints": 31
+    }
+}, {
+    "date": "2014-11-07T15:07:40Z",
+    "newsletter": {
+        "email_sent": 21854,
+        "email_delivered": 16243,
+        "email_read": 32,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2014-12-19T05:21:02Z",
+    "newsletter": {
+        "email_sent": 20796,
+        "email_delivered": 20267,
+        "email_read": 1087,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2014-12-22T02:50:23Z",
+    "newsletter": {
+        "email_sent": 20289,
+        "email_delivered": 17527,
+        "email_read": 2165,
+        "email_complaints": 9
+    }
+}, {
+    "date": "2015-03-05T22:29:39Z",
+    "newsletter": {
+        "email_sent": 20832,
+        "email_delivered": 3165,
+        "email_read": 702,
+        "email_complaints": 2
+    }
+}, {
+    "date": "2015-06-01T00:57:14Z",
+    "newsletter": {
+        "email_sent": 20457,
+        "email_delivered": 18816,
+        "email_read": 1348,
+        "email_complaints": 26
+    }
+}, {
+    "date": "2015-03-25T00:06:11Z",
+    "newsletter": {
+        "email_sent": 22964,
+        "email_delivered": 4688,
+        "email_read": 135,
+        "email_complaints": 31
+    }
+}, {
+    "date": "2015-03-24T11:35:21Z",
+    "newsletter": {
+        "email_sent": 22412,
+        "email_delivered": 20976,
+        "email_read": 2018,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2014-09-03T07:23:16Z",
+    "newsletter": {
+        "email_sent": 21124,
+        "email_delivered": 20824,
+        "email_read": 2252,
+        "email_complaints": 9
+    }
+}, {
+    "date": "2015-06-14T08:31:45Z",
+    "newsletter": {
+        "email_sent": 21110,
+        "email_delivered": 4686,
+        "email_read": 2722,
+        "email_complaints": 11
+    }
+}, {
+    "date": "2015-04-13T18:01:50Z",
+    "newsletter": {
+        "email_sent": 22962,
+        "email_delivered": 10688,
+        "email_read": 3776,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2015-05-26T02:31:31Z",
+    "newsletter": {
+        "email_sent": 22365,
+        "email_delivered": 17193,
+        "email_read": 96,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2015-03-21T03:33:18Z",
+    "newsletter": {
+        "email_sent": 20576,
+        "email_delivered": 10256,
+        "email_read": 3838,
+        "email_complaints": 12
+    }
+}, {
+    "date": "2014-08-09T23:55:29Z",
+    "newsletter": {
+        "email_sent": 22643,
+        "email_delivered": 9191,
+        "email_read": 3510,
+        "email_complaints": 13
+    }
+}, {
+    "date": "2015-04-10T01:07:20Z",
+    "newsletter": {
+        "email_sent": 20399,
+        "email_delivered": 16672,
+        "email_read": 3768,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2014-12-21T20:21:20Z",
+    "newsletter": {
+        "email_sent": 22470,
+        "email_delivered": 7397,
+        "email_read": 2058,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2015-06-28T17:54:52Z",
+    "newsletter": {
+        "email_sent": 20238,
+        "email_delivered": 3234,
+        "email_read": 919,
+        "email_complaints": 12
+    }
+}, {
+    "date": "2015-05-03T21:27:43Z",
+    "newsletter": {
+        "email_sent": 20234,
+        "email_delivered": 5759,
+        "email_read": 2975,
+        "email_complaints": 34
+    }
+}, {
+    "date": "2014-10-23T21:50:03Z",
+    "newsletter": {
+        "email_sent": 21762,
+        "email_delivered": 20288,
+        "email_read": 2990,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2014-08-28T05:53:14Z",
+    "newsletter": {
+        "email_sent": 22144,
+        "email_delivered": 18642,
+        "email_read": 2828,
+        "email_complaints": 2
+    }
+}, {
+    "date": "2014-07-16T14:28:58Z",
+    "newsletter": {
+        "email_sent": 20242,
+        "email_delivered": 7449,
+        "email_read": 3250,
+        "email_complaints": 9
+    }
+}, {
+    "date": "2015-03-21T03:05:02Z",
+    "newsletter": {
+        "email_sent": 21289,
+        "email_delivered": 4137,
+        "email_read": 3261,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2015-03-19T20:46:45Z",
+    "newsletter": {
+        "email_sent": 22058,
+        "email_delivered": 17675,
+        "email_read": 1402,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2014-07-11T20:51:19Z",
+    "newsletter": {
+        "email_sent": 20730,
+        "email_delivered": 10835,
+        "email_read": 2245,
+        "email_complaints": 22
+    }
+}, {
+    "date": "2015-02-06T12:16:04Z",
+    "newsletter": {
+        "email_sent": 21940,
+        "email_delivered": 13685,
+        "email_read": 2053,
+        "email_complaints": 18
+    }
+}, {
+    "date": "2014-07-30T10:05:12Z",
+    "newsletter": {
+        "email_sent": 21495,
+        "email_delivered": 16056,
+        "email_read": 3732,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2014-11-07T08:02:19Z",
+    "newsletter": {
+        "email_sent": 22180,
+        "email_delivered": 15108,
+        "email_read": 1287,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2015-04-29T04:07:36Z",
+    "newsletter": {
+        "email_sent": 21761,
+        "email_delivered": 19652,
+        "email_read": 2723,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2015-04-27T14:32:51Z",
+    "newsletter": {
+        "email_sent": 21069,
+        "email_delivered": 16160,
+        "email_read": 904,
+        "email_complaints": 12
+    }
+}, {
+    "date": "2014-09-07T18:05:05Z",
+    "newsletter": {
+        "email_sent": 20926,
+        "email_delivered": 20168,
+        "email_read": 1281,
+        "email_complaints": 34
+    }
+}, {
+    "date": "2015-03-29T13:07:10Z",
+    "newsletter": {
+        "email_sent": 21573,
+        "email_delivered": 21814,
+        "email_read": 3589,
+        "email_complaints": 31
+    }
+}, {
+    "date": "2015-01-24T22:22:13Z",
+    "newsletter": {
+        "email_sent": 22908,
+        "email_delivered": 6227,
+        "email_read": 2245,
+        "email_complaints": 12
+    }
+}, {
+    "date": "2015-03-18T17:51:43Z",
+    "newsletter": {
+        "email_sent": 20666,
+        "email_delivered": 21426,
+        "email_read": 801,
+        "email_complaints": 31
+    }
+}, {
+    "date": "2014-08-30T12:09:03Z",
+    "newsletter": {
+        "email_sent": 20222,
+        "email_delivered": 15209,
+        "email_read": 823,
+        "email_complaints": 2
+    }
+}, {
+    "date": "2014-09-18T09:25:02Z",
+    "newsletter": {
+        "email_sent": 21812,
+        "email_delivered": 4213,
+        "email_read": 858,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2014-12-07T02:36:46Z",
+    "newsletter": {
+        "email_sent": 21936,
+        "email_delivered": 15629,
+        "email_read": 1996,
+        "email_complaints": 29
+    }
+}, {
+    "date": "2014-12-13T13:18:40Z",
+    "newsletter": {
+        "email_sent": 20862,
+        "email_delivered": 8039,
+        "email_read": 2443,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2014-12-31T15:44:31Z",
+    "newsletter": {
+        "email_sent": 20092,
+        "email_delivered": 12420,
+        "email_read": 1694,
+        "email_complaints": 34
+    }
+}, {
+    "date": "2015-02-26T05:28:19Z",
+    "newsletter": {
+        "email_sent": 20079,
+        "email_delivered": 21265,
+        "email_read": 912,
+        "email_complaints": 25
+    }
+}, {
+    "date": "2015-05-31T13:32:00Z",
+    "newsletter": {
+        "email_sent": 21921,
+        "email_delivered": 12707,
+        "email_read": 2648,
+        "email_complaints": 9
+    }
+}, {
+    "date": "2014-09-27T13:08:35Z",
+    "newsletter": {
+        "email_sent": 21074,
+        "email_delivered": 16910,
+        "email_read": 1306,
+        "email_complaints": 0
+    }
+}, {
+    "date": "2014-10-24T19:45:06Z",
+    "newsletter": {
+        "email_sent": 20838,
+        "email_delivered": 9503,
+        "email_read": 2077,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2014-12-12T04:16:46Z",
+    "newsletter": {
+        "email_sent": 21050,
+        "email_delivered": 18683,
+        "email_read": 1479,
+        "email_complaints": 29
+    }
+}, {
+    "date": "2014-09-21T20:48:27Z",
+    "newsletter": {
+        "email_sent": 22943,
+        "email_delivered": 19650,
+        "email_read": 3551,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2015-05-04T09:43:12Z",
+    "newsletter": {
+        "email_sent": 22133,
+        "email_delivered": 22183,
+        "email_read": 1768,
+        "email_complaints": 8
+    }
+}, {
+    "date": "2015-01-09T00:42:16Z",
+    "newsletter": {
+        "email_sent": 21191,
+        "email_delivered": 6092,
+        "email_read": 2337,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2014-10-15T05:07:57Z",
+    "newsletter": {
+        "email_sent": 20610,
+        "email_delivered": 17418,
+        "email_read": 3706,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2014-09-01T17:03:38Z",
+    "newsletter": {
+        "email_sent": 21981,
+        "email_delivered": 4655,
+        "email_read": 3338,
+        "email_complaints": 14
+    }
+}, {
+    "date": "2014-10-04T00:10:21Z",
+    "newsletter": {
+        "email_sent": 21614,
+        "email_delivered": 13905,
+        "email_read": 2670,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2015-07-07T09:46:31Z",
+    "newsletter": {
+        "email_sent": 21684,
+        "email_delivered": 19603,
+        "email_read": 1108,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2015-04-27T12:08:59Z",
+    "newsletter": {
+        "email_sent": 21304,
+        "email_delivered": 19748,
+        "email_read": 680,
+        "email_complaints": 36
+    }
+}, {
+    "date": "2015-03-23T16:53:39Z",
+    "newsletter": {
+        "email_sent": 21050,
+        "email_delivered": 21402,
+        "email_read": 516,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2015-06-28T19:12:54Z",
+    "newsletter": {
+        "email_sent": 21218,
+        "email_delivered": 17577,
+        "email_read": 445,
+        "email_complaints": 27
+    }
+}, {
+    "date": "2014-11-03T16:48:40Z",
+    "newsletter": {
+        "email_sent": 20137,
+        "email_delivered": 15792,
+        "email_read": 331,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2015-02-27T06:17:51Z",
+    "newsletter": {
+        "email_sent": 21546,
+        "email_delivered": 22044,
+        "email_read": 1321,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2015-01-29T04:36:59Z",
+    "newsletter": {
+        "email_sent": 21875,
+        "email_delivered": 14222,
+        "email_read": 2571,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2015-01-16T19:32:47Z",
+    "newsletter": {
+        "email_sent": 22533,
+        "email_delivered": 17149,
+        "email_read": 516,
+        "email_complaints": 2
+    }
+}, {
+    "date": "2015-06-07T22:51:24Z",
+    "newsletter": {
+        "email_sent": 21790,
+        "email_delivered": 12535,
+        "email_read": 1638,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2015-02-14T01:12:55Z",
+    "newsletter": {
+        "email_sent": 22691,
+        "email_delivered": 4765,
+        "email_read": 195,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2015-05-16T03:50:45Z",
+    "newsletter": {
+        "email_sent": 22056,
+        "email_delivered": 8635,
+        "email_read": 86,
+        "email_complaints": 1
+    }
+}, {
+    "date": "2014-11-11T09:50:14Z",
+    "newsletter": {
+        "email_sent": 21234,
+        "email_delivered": 22672,
+        "email_read": 732,
+        "email_complaints": 29
+    }
+}, {
+    "date": "2015-01-01T01:13:25Z",
+    "newsletter": {
+        "email_sent": 22497,
+        "email_delivered": 21183,
+        "email_read": 3952,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2015-02-28T21:12:42Z",
+    "newsletter": {
+        "email_sent": 20397,
+        "email_delivered": 3412,
+        "email_read": 2344,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2014-09-22T03:47:35Z",
+    "newsletter": {
+        "email_sent": 22832,
+        "email_delivered": 5352,
+        "email_read": 3237,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2014-12-10T23:49:16Z",
+    "newsletter": {
+        "email_sent": 20162,
+        "email_delivered": 5411,
+        "email_read": 1251,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2014-10-08T12:59:00Z",
+    "newsletter": {
+        "email_sent": 22788,
+        "email_delivered": 19579,
+        "email_read": 1490,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2014-09-28T20:35:48Z",
+    "newsletter": {
+        "email_sent": 22809,
+        "email_delivered": 21443,
+        "email_read": 934,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2015-02-02T02:59:36Z",
+    "newsletter": {
+        "email_sent": 21023,
+        "email_delivered": 6651,
+        "email_read": 3332,
+        "email_complaints": 18
+    }
+}, {
+    "date": "2015-04-02T01:47:55Z",
+    "newsletter": {
+        "email_sent": 21791,
+        "email_delivered": 18712,
+        "email_read": 2786,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2015-02-08T13:50:58Z",
+    "newsletter": {
+        "email_sent": 22614,
+        "email_delivered": 13413,
+        "email_read": 3980,
+        "email_complaints": 6
+    }
+}, {
+    "date": "2015-06-24T05:13:20Z",
+    "newsletter": {
+        "email_sent": 20287,
+        "email_delivered": 11438,
+        "email_read": 1395,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2014-10-29T17:52:00Z",
+    "newsletter": {
+        "email_sent": 21910,
+        "email_delivered": 19952,
+        "email_read": 1495,
+        "email_complaints": 27
+    }
+}, {
+    "date": "2015-03-02T02:50:09Z",
+    "newsletter": {
+        "email_sent": 22775,
+        "email_delivered": 19267,
+        "email_read": 3664,
+        "email_complaints": 31
+    }
+}, {
+    "date": "2015-01-16T04:00:49Z",
+    "newsletter": {
+        "email_sent": 20901,
+        "email_delivered": 20338,
+        "email_read": 1476,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2015-06-13T22:14:58Z",
+    "newsletter": {
+        "email_sent": 21546,
+        "email_delivered": 21027,
+        "email_read": 818,
+        "email_complaints": 1
+    }
+}, {
+    "date": "2014-11-30T06:39:24Z",
+    "newsletter": {
+        "email_sent": 20763,
+        "email_delivered": 18124,
+        "email_read": 3616,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2014-12-25T12:39:13Z",
+    "newsletter": {
+        "email_sent": 21545,
+        "email_delivered": 21537,
+        "email_read": 1080,
+        "email_complaints": 31
+    }
+}, {
+    "date": "2015-03-26T18:11:59Z",
+    "newsletter": {
+        "email_sent": 22234,
+        "email_delivered": 18706,
+        "email_read": 3815,
+        "email_complaints": 25
+    }
+}, {
+    "date": "2015-03-23T02:21:46Z",
+    "newsletter": {
+        "email_sent": 20418,
+        "email_delivered": 17815,
+        "email_read": 1960,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2014-08-30T00:08:06Z",
+    "newsletter": {
+        "email_sent": 22725,
+        "email_delivered": 22896,
+        "email_read": 2898,
+        "email_complaints": 22
+    }
+}, {
+    "date": "2014-07-12T03:31:04Z",
+    "newsletter": {
+        "email_sent": 20471,
+        "email_delivered": 16255,
+        "email_read": 779,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2015-05-12T12:45:30Z",
+    "newsletter": {
+        "email_sent": 20922,
+        "email_delivered": 13230,
+        "email_read": 2588,
+        "email_complaints": 36
+    }
+}, {
+    "date": "2015-02-11T09:09:12Z",
+    "newsletter": {
+        "email_sent": 22613,
+        "email_delivered": 10692,
+        "email_read": 3631,
+        "email_complaints": 34
+    }
+}, {
+    "date": "2015-04-17T02:21:40Z",
+    "newsletter": {
+        "email_sent": 20031,
+        "email_delivered": 7713,
+        "email_read": 3804,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2015-06-24T07:38:40Z",
+    "newsletter": {
+        "email_sent": 20277,
+        "email_delivered": 14500,
+        "email_read": 1560,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2015-01-19T07:09:01Z",
+    "newsletter": {
+        "email_sent": 21351,
+        "email_delivered": 16486,
+        "email_read": 2928,
+        "email_complaints": 40
+    }
+}, {
+    "date": "2015-01-28T22:01:47Z",
+    "newsletter": {
+        "email_sent": 20173,
+        "email_delivered": 11540,
+        "email_read": 0,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2015-02-15T21:09:10Z",
+    "newsletter": {
+        "email_sent": 22830,
+        "email_delivered": 4337,
+        "email_read": 3453,
+        "email_complaints": 9
+    }
+}, {
+    "date": "2015-02-28T13:38:21Z",
+    "newsletter": {
+        "email_sent": 21730,
+        "email_delivered": 3015,
+        "email_read": 3098,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2015-03-19T03:03:49Z",
+    "newsletter": {
+        "email_sent": 20164,
+        "email_delivered": 10559,
+        "email_read": 538,
+        "email_complaints": 22
+    }
+}, {
+    "date": "2014-12-30T08:02:31Z",
+    "newsletter": {
+        "email_sent": 21329,
+        "email_delivered": 14019,
+        "email_read": 2561,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2015-05-28T03:45:02Z",
+    "newsletter": {
+        "email_sent": 21215,
+        "email_delivered": 14190,
+        "email_read": 2945,
+        "email_complaints": 36
+    }
+}, {
+    "date": "2014-07-25T13:20:02Z",
+    "newsletter": {
+        "email_sent": 22444,
+        "email_delivered": 4074,
+        "email_read": 2383,
+        "email_complaints": 9
+    }
+}, {
+    "date": "2014-08-18T01:33:51Z",
+    "newsletter": {
+        "email_sent": 22357,
+        "email_delivered": 9456,
+        "email_read": 2171,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2015-04-03T14:35:20Z",
+    "newsletter": {
+        "email_sent": 20514,
+        "email_delivered": 20794,
+        "email_read": 2052,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2015-06-26T08:07:13Z",
+    "newsletter": {
+        "email_sent": 22769,
+        "email_delivered": 21219,
+        "email_read": 2149,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2015-04-29T06:51:56Z",
+    "newsletter": {
+        "email_sent": 22957,
+        "email_delivered": 6667,
+        "email_read": 3194,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2014-12-03T12:41:10Z",
+    "newsletter": {
+        "email_sent": 22791,
+        "email_delivered": 10697,
+        "email_read": 2186,
+        "email_complaints": 40
+    }
+}, {
+    "date": "2014-11-22T00:15:59Z",
+    "newsletter": {
+        "email_sent": 21271,
+        "email_delivered": 6471,
+        "email_read": 2810,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2014-09-27T12:36:55Z",
+    "newsletter": {
+        "email_sent": 20464,
+        "email_delivered": 22641,
+        "email_read": 4,
+        "email_complaints": 29
+    }
+}, {
+    "date": "2015-04-18T22:38:26Z",
+    "newsletter": {
+        "email_sent": 22381,
+        "email_delivered": 5058,
+        "email_read": 2306,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2015-03-19T04:19:24Z",
+    "newsletter": {
+        "email_sent": 22641,
+        "email_delivered": 17393,
+        "email_read": 2122,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2015-01-25T22:18:43Z",
+    "newsletter": {
+        "email_sent": 21471,
+        "email_delivered": 21458,
+        "email_read": 1355,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2015-04-18T01:56:54Z",
+    "newsletter": {
+        "email_sent": 22685,
+        "email_delivered": 6601,
+        "email_read": 696,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2014-10-13T13:48:02Z",
+    "newsletter": {
+        "email_sent": 22389,
+        "email_delivered": 6608,
+        "email_read": 3676,
+        "email_complaints": 19
+    }
+}, {
+    "date": "2014-12-06T19:02:29Z",
+    "newsletter": {
+        "email_sent": 22253,
+        "email_delivered": 17275,
+        "email_read": 2852,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2015-05-05T23:08:46Z",
+    "newsletter": {
+        "email_sent": 21948,
+        "email_delivered": 7776,
+        "email_read": 1680,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2014-08-11T16:43:59Z",
+    "newsletter": {
+        "email_sent": 20142,
+        "email_delivered": 14690,
+        "email_read": 302,
+        "email_complaints": 19
+    }
+}, {
+    "date": "2014-08-11T09:52:28Z",
+    "newsletter": {
+        "email_sent": 20993,
+        "email_delivered": 9288,
+        "email_read": 2826,
+        "email_complaints": 27
+    }
+}, {
+    "date": "2014-12-30T00:29:17Z",
+    "newsletter": {
+        "email_sent": 20813,
+        "email_delivered": 8820,
+        "email_read": 2712,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2014-11-03T15:02:24Z",
+    "newsletter": {
+        "email_sent": 21358,
+        "email_delivered": 21121,
+        "email_read": 3994,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2015-01-28T03:29:53Z",
+    "newsletter": {
+        "email_sent": 21178,
+        "email_delivered": 12070,
+        "email_read": 2824,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2014-11-15T18:09:26Z",
+    "newsletter": {
+        "email_sent": 22639,
+        "email_delivered": 11932,
+        "email_read": 910,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2014-11-09T01:46:19Z",
+    "newsletter": {
+        "email_sent": 20309,
+        "email_delivered": 4197,
+        "email_read": 1521,
+        "email_complaints": 8
+    }
+}, {
+    "date": "2014-12-15T08:55:16Z",
+    "newsletter": {
+        "email_sent": 21758,
+        "email_delivered": 16814,
+        "email_read": 3304,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2015-01-05T11:48:51Z",
+    "newsletter": {
+        "email_sent": 21601,
+        "email_delivered": 10049,
+        "email_read": 1367,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2015-03-16T23:39:04Z",
+    "newsletter": {
+        "email_sent": 21052,
+        "email_delivered": 13303,
+        "email_read": 711,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2015-05-13T11:37:46Z",
+    "newsletter": {
+        "email_sent": 21008,
+        "email_delivered": 22117,
+        "email_read": 2346,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2014-07-27T16:43:39Z",
+    "newsletter": {
+        "email_sent": 21956,
+        "email_delivered": 6769,
+        "email_read": 967,
+        "email_complaints": 14
+    }
+}, {
+    "date": "2014-08-12T22:20:13Z",
+    "newsletter": {
+        "email_sent": 21990,
+        "email_delivered": 14896,
+        "email_read": 2421,
+        "email_complaints": 0
+    }
+}, {
+    "date": "2015-06-21T22:32:38Z",
+    "newsletter": {
+        "email_sent": 21605,
+        "email_delivered": 6503,
+        "email_read": 3327,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2014-07-25T22:41:46Z",
+    "newsletter": {
+        "email_sent": 20748,
+        "email_delivered": 18087,
+        "email_read": 2624,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2015-04-09T04:07:10Z",
+    "newsletter": {
+        "email_sent": 22408,
+        "email_delivered": 14472,
+        "email_read": 2574,
+        "email_complaints": 34
+    }
+}, {
+    "date": "2015-04-04T18:27:14Z",
+    "newsletter": {
+        "email_sent": 22884,
+        "email_delivered": 20983,
+        "email_read": 1126,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2015-02-05T14:05:56Z",
+    "newsletter": {
+        "email_sent": 22730,
+        "email_delivered": 9348,
+        "email_read": 551,
+        "email_complaints": 34
+    }
+}, {
+    "date": "2014-08-26T03:39:14Z",
+    "newsletter": {
+        "email_sent": 20659,
+        "email_delivered": 17556,
+        "email_read": 708,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2014-11-05T02:34:43Z",
+    "newsletter": {
+        "email_sent": 20102,
+        "email_delivered": 21230,
+        "email_read": 3637,
+        "email_complaints": 26
+    }
+}, {
+    "date": "2015-01-07T18:06:33Z",
+    "newsletter": {
+        "email_sent": 20380,
+        "email_delivered": 19757,
+        "email_read": 1043,
+        "email_complaints": 11
+    }
+}, {
+    "date": "2014-07-18T21:03:44Z",
+    "newsletter": {
+        "email_sent": 20216,
+        "email_delivered": 20140,
+        "email_read": 947,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2014-10-06T15:22:11Z",
+    "newsletter": {
+        "email_sent": 20006,
+        "email_delivered": 6515,
+        "email_read": 642,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2015-01-28T18:02:59Z",
+    "newsletter": {
+        "email_sent": 20078,
+        "email_delivered": 16002,
+        "email_read": 3790,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2014-10-02T13:54:38Z",
+    "newsletter": {
+        "email_sent": 22417,
+        "email_delivered": 18109,
+        "email_read": 302,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2014-07-20T09:21:04Z",
+    "newsletter": {
+        "email_sent": 20987,
+        "email_delivered": 8068,
+        "email_read": 3673,
+        "email_complaints": 9
+    }
+}, {
+    "date": "2015-04-01T16:12:19Z",
+    "newsletter": {
+        "email_sent": 20253,
+        "email_delivered": 19279,
+        "email_read": 3639,
+        "email_complaints": 6
+    }
+}, {
+    "date": "2015-07-02T17:41:07Z",
+    "newsletter": {
+        "email_sent": 21880,
+        "email_delivered": 9833,
+        "email_read": 1724,
+        "email_complaints": 40
+    }
+}, {
+    "date": "2015-05-01T02:06:08Z",
+    "newsletter": {
+        "email_sent": 20786,
+        "email_delivered": 5857,
+        "email_read": 2828,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2014-08-01T00:57:04Z",
+    "newsletter": {
+        "email_sent": 22168,
+        "email_delivered": 12440,
+        "email_read": 896,
+        "email_complaints": 2
+    }
+}, {
+    "date": "2015-01-06T23:46:01Z",
+    "newsletter": {
+        "email_sent": 20948,
+        "email_delivered": 7759,
+        "email_read": 1872,
+        "email_complaints": 14
+    }
+}, {
+    "date": "2015-02-05T12:04:37Z",
+    "newsletter": {
+        "email_sent": 20467,
+        "email_delivered": 5514,
+        "email_read": 2291,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2014-09-29T06:47:35Z",
+    "newsletter": {
+        "email_sent": 22664,
+        "email_delivered": 10633,
+        "email_read": 555,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2014-10-26T05:27:47Z",
+    "newsletter": {
+        "email_sent": 22408,
+        "email_delivered": 8026,
+        "email_read": 1301,
+        "email_complaints": 1
+    }
+}, {
+    "date": "2014-12-05T12:29:03Z",
+    "newsletter": {
+        "email_sent": 22066,
+        "email_delivered": 7998,
+        "email_read": 2519,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2014-11-23T13:08:50Z",
+    "newsletter": {
+        "email_sent": 21039,
+        "email_delivered": 6977,
+        "email_read": 2200,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2015-01-26T21:24:11Z",
+    "newsletter": {
+        "email_sent": 21543,
+        "email_delivered": 12628,
+        "email_read": 2035,
+        "email_complaints": 18
+    }
+}, {
+    "date": "2014-09-27T09:05:24Z",
+    "newsletter": {
+        "email_sent": 22302,
+        "email_delivered": 20525,
+        "email_read": 2401,
+        "email_complaints": 40
+    }
+}, {
+    "date": "2015-04-26T07:05:16Z",
+    "newsletter": {
+        "email_sent": 20051,
+        "email_delivered": 21905,
+        "email_read": 3237,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2015-04-17T08:37:16Z",
+    "newsletter": {
+        "email_sent": 20598,
+        "email_delivered": 13077,
+        "email_read": 2870,
+        "email_complaints": 1
+    }
+}, {
+    "date": "2015-03-09T15:34:53Z",
+    "newsletter": {
+        "email_sent": 22843,
+        "email_delivered": 12558,
+        "email_read": 2256,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2014-07-28T13:40:00Z",
+    "newsletter": {
+        "email_sent": 21440,
+        "email_delivered": 13794,
+        "email_read": 1438,
+        "email_complaints": 29
+    }
+}, {
+    "date": "2014-09-01T10:59:18Z",
+    "newsletter": {
+        "email_sent": 22039,
+        "email_delivered": 3454,
+        "email_read": 366,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2015-05-14T23:20:07Z",
+    "newsletter": {
+        "email_sent": 22668,
+        "email_delivered": 22972,
+        "email_read": 1577,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2014-12-21T12:55:52Z",
+    "newsletter": {
+        "email_sent": 21367,
+        "email_delivered": 8413,
+        "email_read": 292,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2015-04-12T05:18:40Z",
+    "newsletter": {
+        "email_sent": 22036,
+        "email_delivered": 8056,
+        "email_read": 3102,
+        "email_complaints": 26
+    }
+}, {
+    "date": "2014-12-14T02:35:35Z",
+    "newsletter": {
+        "email_sent": 22238,
+        "email_delivered": 12747,
+        "email_read": 2080,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2014-07-21T16:09:32Z",
+    "newsletter": {
+        "email_sent": 20296,
+        "email_delivered": 21333,
+        "email_read": 3370,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2015-03-15T09:02:17Z",
+    "newsletter": {
+        "email_sent": 20697,
+        "email_delivered": 11972,
+        "email_read": 3073,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2014-11-12T09:29:17Z",
+    "newsletter": {
+        "email_sent": 20788,
+        "email_delivered": 6638,
+        "email_read": 1076,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2014-12-15T12:49:21Z",
+    "newsletter": {
+        "email_sent": 21342,
+        "email_delivered": 5823,
+        "email_read": 263,
+        "email_complaints": 14
+    }
+}, {
+    "date": "2015-04-17T01:05:29Z",
+    "newsletter": {
+        "email_sent": 22892,
+        "email_delivered": 22050,
+        "email_read": 1093,
+        "email_complaints": 25
+    }
+}, {
+    "date": "2014-08-22T14:59:05Z",
+    "newsletter": {
+        "email_sent": 20834,
+        "email_delivered": 4263,
+        "email_read": 3528,
+        "email_complaints": 29
+    }
+}, {
+    "date": "2015-01-10T06:04:12Z",
+    "newsletter": {
+        "email_sent": 22779,
+        "email_delivered": 16173,
+        "email_read": 23,
+        "email_complaints": 11
+    }
+}, {
+    "date": "2015-04-13T15:27:35Z",
+    "newsletter": {
+        "email_sent": 20978,
+        "email_delivered": 6781,
+        "email_read": 2510,
+        "email_complaints": 12
+    }
+}, {
+    "date": "2014-10-30T02:58:03Z",
+    "newsletter": {
+        "email_sent": 20678,
+        "email_delivered": 14360,
+        "email_read": 1170,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2014-11-23T21:07:43Z",
+    "newsletter": {
+        "email_sent": 20702,
+        "email_delivered": 12086,
+        "email_read": 1178,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2014-09-30T07:00:37Z",
+    "newsletter": {
+        "email_sent": 20079,
+        "email_delivered": 7573,
+        "email_read": 604,
+        "email_complaints": 18
+    }
+}, {
+    "date": "2015-02-04T21:12:22Z",
+    "newsletter": {
+        "email_sent": 20957,
+        "email_delivered": 21217,
+        "email_read": 3339,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2014-08-03T06:41:08Z",
+    "newsletter": {
+        "email_sent": 21189,
+        "email_delivered": 22629,
+        "email_read": 3952,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2014-10-31T21:13:58Z",
+    "newsletter": {
+        "email_sent": 21551,
+        "email_delivered": 8412,
+        "email_read": 1652,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2015-01-20T14:29:40Z",
+    "newsletter": {
+        "email_sent": 20981,
+        "email_delivered": 19471,
+        "email_read": 959,
+        "email_complaints": 14
+    }
+}, {
+    "date": "2015-05-07T11:58:38Z",
+    "newsletter": {
+        "email_sent": 21228,
+        "email_delivered": 17522,
+        "email_read": 3248,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2014-07-30T15:16:59Z",
+    "newsletter": {
+        "email_sent": 21226,
+        "email_delivered": 3462,
+        "email_read": 3670,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2015-06-20T17:22:06Z",
+    "newsletter": {
+        "email_sent": 21531,
+        "email_delivered": 22187,
+        "email_read": 739,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2014-09-01T12:06:55Z",
+    "newsletter": {
+        "email_sent": 21441,
+        "email_delivered": 11267,
+        "email_read": 716,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2015-07-05T03:19:11Z",
+    "newsletter": {
+        "email_sent": 21342,
+        "email_delivered": 17671,
+        "email_read": 1709,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2015-04-21T20:21:38Z",
+    "newsletter": {
+        "email_sent": 21137,
+        "email_delivered": 14371,
+        "email_read": 994,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2015-06-04T13:21:15Z",
+    "newsletter": {
+        "email_sent": 20774,
+        "email_delivered": 19124,
+        "email_read": 12,
+        "email_complaints": 27
+    }
+}, {
+    "date": "2014-07-24T02:36:50Z",
+    "newsletter": {
+        "email_sent": 22019,
+        "email_delivered": 21786,
+        "email_read": 2101,
+        "email_complaints": 0
+    }
+}, {
+    "date": "2014-09-15T01:53:20Z",
+    "newsletter": {
+        "email_sent": 20069,
+        "email_delivered": 8198,
+        "email_read": 889,
+        "email_complaints": 27
+    }
+}, {
+    "date": "2015-02-27T20:41:04Z",
+    "newsletter": {
+        "email_sent": 20976,
+        "email_delivered": 5153,
+        "email_read": 3823,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2014-07-11T10:30:48Z",
+    "newsletter": {
+        "email_sent": 21942,
+        "email_delivered": 21455,
+        "email_read": 2044,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2014-07-20T09:12:49Z",
+    "newsletter": {
+        "email_sent": 20081,
+        "email_delivered": 18861,
+        "email_read": 3567,
+        "email_complaints": 34
+    }
+}, {
+    "date": "2015-01-07T23:42:47Z",
+    "newsletter": {
+        "email_sent": 22379,
+        "email_delivered": 4804,
+        "email_read": 822,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2015-03-16T11:41:15Z",
+    "newsletter": {
+        "email_sent": 20679,
+        "email_delivered": 20486,
+        "email_read": 1230,
+        "email_complaints": 14
+    }
+}, {
+    "date": "2015-06-10T17:21:55Z",
+    "newsletter": {
+        "email_sent": 21385,
+        "email_delivered": 12277,
+        "email_read": 2644,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2015-03-21T21:09:45Z",
+    "newsletter": {
+        "email_sent": 20485,
+        "email_delivered": 20054,
+        "email_read": 1955,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2015-02-08T18:37:41Z",
+    "newsletter": {
+        "email_sent": 21833,
+        "email_delivered": 22488,
+        "email_read": 2602,
+        "email_complaints": 0
+    }
+}, {
+    "date": "2015-02-26T22:17:25Z",
+    "newsletter": {
+        "email_sent": 21534,
+        "email_delivered": 3038,
+        "email_read": 1440,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2015-04-23T09:42:10Z",
+    "newsletter": {
+        "email_sent": 22762,
+        "email_delivered": 9356,
+        "email_read": 3852,
+        "email_complaints": 9
+    }
+}, {
+    "date": "2015-06-16T22:37:49Z",
+    "newsletter": {
+        "email_sent": 20613,
+        "email_delivered": 13357,
+        "email_read": 3467,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2015-06-04T08:45:30Z",
+    "newsletter": {
+        "email_sent": 22679,
+        "email_delivered": 6331,
+        "email_read": 1589,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2015-06-03T09:44:40Z",
+    "newsletter": {
+        "email_sent": 20259,
+        "email_delivered": 17524,
+        "email_read": 1814,
+        "email_complaints": 40
+    }
+}, {
+    "date": "2014-12-05T18:21:12Z",
+    "newsletter": {
+        "email_sent": 22932,
+        "email_delivered": 5324,
+        "email_read": 2056,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2015-04-25T14:04:03Z",
+    "newsletter": {
+        "email_sent": 21528,
+        "email_delivered": 9101,
+        "email_read": 3000,
+        "email_complaints": 26
+    }
+}, {
+    "date": "2014-09-19T14:01:25Z",
+    "newsletter": {
+        "email_sent": 21724,
+        "email_delivered": 7663,
+        "email_read": 3045,
+        "email_complaints": 6
+    }
+}, {
+    "date": "2014-12-27T09:04:19Z",
+    "newsletter": {
+        "email_sent": 21377,
+        "email_delivered": 11406,
+        "email_read": 1554,
+        "email_complaints": 40
+    }
+}, {
+    "date": "2014-12-29T06:31:18Z",
+    "newsletter": {
+        "email_sent": 21060,
+        "email_delivered": 14138,
+        "email_read": 365,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2015-07-08T04:16:05Z",
+    "newsletter": {
+        "email_sent": 21252,
+        "email_delivered": 10228,
+        "email_read": 764,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2015-01-26T23:18:20Z",
+    "newsletter": {
+        "email_sent": 20837,
+        "email_delivered": 4723,
+        "email_read": 3178,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2014-12-25T13:11:51Z",
+    "newsletter": {
+        "email_sent": 20582,
+        "email_delivered": 19487,
+        "email_read": 1831,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2014-10-06T08:25:51Z",
+    "newsletter": {
+        "email_sent": 22601,
+        "email_delivered": 11710,
+        "email_read": 3711,
+        "email_complaints": 19
+    }
+}, {
+    "date": "2015-05-16T11:31:39Z",
+    "newsletter": {
+        "email_sent": 20633,
+        "email_delivered": 16483,
+        "email_read": 2010,
+        "email_complaints": 29
+    }
+}, {
+    "date": "2014-11-22T04:55:50Z",
+    "newsletter": {
+        "email_sent": 22216,
+        "email_delivered": 11138,
+        "email_read": 3757,
+        "email_complaints": 29
+    }
+}, {
+    "date": "2014-12-07T14:44:40Z",
+    "newsletter": {
+        "email_sent": 22005,
+        "email_delivered": 14894,
+        "email_read": 3170,
+        "email_complaints": 1
+    }
+}, {
+    "date": "2015-02-12T17:34:40Z",
+    "newsletter": {
+        "email_sent": 22904,
+        "email_delivered": 22414,
+        "email_read": 1093,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2014-11-11T13:35:54Z",
+    "newsletter": {
+        "email_sent": 21546,
+        "email_delivered": 18245,
+        "email_read": 2927,
+        "email_complaints": 36
+    }
+}, {
+    "date": "2015-04-08T07:04:26Z",
+    "newsletter": {
+        "email_sent": 21583,
+        "email_delivered": 19646,
+        "email_read": 2709,
+        "email_complaints": 22
+    }
+}, {
+    "date": "2014-11-25T16:56:27Z",
+    "newsletter": {
+        "email_sent": 21586,
+        "email_delivered": 12351,
+        "email_read": 1793,
+        "email_complaints": 12
+    }
+}, {
+    "date": "2015-06-28T17:48:02Z",
+    "newsletter": {
+        "email_sent": 20533,
+        "email_delivered": 11648,
+        "email_read": 242,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2014-12-22T20:29:34Z",
+    "newsletter": {
+        "email_sent": 22199,
+        "email_delivered": 19232,
+        "email_read": 3072,
+        "email_complaints": 29
+    }
+}, {
+    "date": "2015-05-10T14:15:11Z",
+    "newsletter": {
+        "email_sent": 21192,
+        "email_delivered": 10250,
+        "email_read": 617,
+        "email_complaints": 9
+    }
+}, {
+    "date": "2014-12-04T08:35:57Z",
+    "newsletter": {
+        "email_sent": 20025,
+        "email_delivered": 6949,
+        "email_read": 1549,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2015-06-17T16:19:46Z",
+    "newsletter": {
+        "email_sent": 20840,
+        "email_delivered": 3212,
+        "email_read": 1791,
+        "email_complaints": 18
+    }
+}, {
+    "date": "2014-08-07T23:53:29Z",
+    "newsletter": {
+        "email_sent": 20799,
+        "email_delivered": 16316,
+        "email_read": 2707,
+        "email_complaints": 36
+    }
+}, {
+    "date": "2014-09-19T04:46:13Z",
+    "newsletter": {
+        "email_sent": 21804,
+        "email_delivered": 19346,
+        "email_read": 2573,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2014-12-11T09:51:09Z",
+    "newsletter": {
+        "email_sent": 22849,
+        "email_delivered": 10770,
+        "email_read": 577,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2015-05-15T06:51:57Z",
+    "newsletter": {
+        "email_sent": 22177,
+        "email_delivered": 12529,
+        "email_read": 1088,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2014-12-08T18:49:13Z",
+    "newsletter": {
+        "email_sent": 20144,
+        "email_delivered": 10872,
+        "email_read": 2904,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2015-03-25T09:54:01Z",
+    "newsletter": {
+        "email_sent": 22527,
+        "email_delivered": 8140,
+        "email_read": 1168,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2014-09-11T11:38:22Z",
+    "newsletter": {
+        "email_sent": 21095,
+        "email_delivered": 7567,
+        "email_read": 1734,
+        "email_complaints": 22
+    }
+}, {
+    "date": "2014-08-03T06:36:34Z",
+    "newsletter": {
+        "email_sent": 20036,
+        "email_delivered": 10635,
+        "email_read": 688,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2015-06-11T10:33:20Z",
+    "newsletter": {
+        "email_sent": 22026,
+        "email_delivered": 16970,
+        "email_read": 1024,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2014-11-14T21:34:48Z",
+    "newsletter": {
+        "email_sent": 22926,
+        "email_delivered": 4790,
+        "email_read": 704,
+        "email_complaints": 26
+    }
+}, {
+    "date": "2014-08-27T15:17:31Z",
+    "newsletter": {
+        "email_sent": 21973,
+        "email_delivered": 8263,
+        "email_read": 614,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2014-11-21T22:40:56Z",
+    "newsletter": {
+        "email_sent": 21102,
+        "email_delivered": 16593,
+        "email_read": 1832,
+        "email_complaints": 0
+    }
+}, {
+    "date": "2015-05-10T02:22:55Z",
+    "newsletter": {
+        "email_sent": 20097,
+        "email_delivered": 21925,
+        "email_read": 3370,
+        "email_complaints": 11
+    }
+}, {
+    "date": "2015-06-24T19:32:25Z",
+    "newsletter": {
+        "email_sent": 21789,
+        "email_delivered": 5818,
+        "email_read": 2850,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2015-07-06T01:18:28Z",
+    "newsletter": {
+        "email_sent": 20594,
+        "email_delivered": 13372,
+        "email_read": 135,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2014-10-30T09:45:26Z",
+    "newsletter": {
+        "email_sent": 22639,
+        "email_delivered": 9663,
+        "email_read": 78,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2014-10-10T20:57:52Z",
+    "newsletter": {
+        "email_sent": 22987,
+        "email_delivered": 9680,
+        "email_read": 3940,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2015-04-23T18:52:57Z",
+    "newsletter": {
+        "email_sent": 22454,
+        "email_delivered": 4031,
+        "email_read": 1962,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2015-05-24T03:44:25Z",
+    "newsletter": {
+        "email_sent": 21580,
+        "email_delivered": 18012,
+        "email_read": 1285,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2015-02-17T08:08:21Z",
+    "newsletter": {
+        "email_sent": 20015,
+        "email_delivered": 12674,
+        "email_read": 2492,
+        "email_complaints": 18
+    }
+}, {
+    "date": "2014-11-12T09:04:33Z",
+    "newsletter": {
+        "email_sent": 20795,
+        "email_delivered": 10151,
+        "email_read": 1980,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2014-07-12T13:08:27Z",
+    "newsletter": {
+        "email_sent": 21923,
+        "email_delivered": 13197,
+        "email_read": 743,
+        "email_complaints": 2
+    }
+}, {
+    "date": "2014-09-01T05:26:18Z",
+    "newsletter": {
+        "email_sent": 21952,
+        "email_delivered": 13113,
+        "email_read": 1121,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2014-09-04T22:45:02Z",
+    "newsletter": {
+        "email_sent": 21356,
+        "email_delivered": 5777,
+        "email_read": 3411,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2015-04-03T10:19:21Z",
+    "newsletter": {
+        "email_sent": 21167,
+        "email_delivered": 20784,
+        "email_read": 3722,
+        "email_complaints": 40
+    }
+}, {
+    "date": "2015-05-02T06:31:08Z",
+    "newsletter": {
+        "email_sent": 20801,
+        "email_delivered": 10682,
+        "email_read": 1054,
+        "email_complaints": 18
+    }
+}, {
+    "date": "2015-03-15T20:29:27Z",
+    "newsletter": {
+        "email_sent": 22744,
+        "email_delivered": 14097,
+        "email_read": 1412,
+        "email_complaints": 8
+    }
+}, {
+    "date": "2014-12-09T11:33:32Z",
+    "newsletter": {
+        "email_sent": 21111,
+        "email_delivered": 8273,
+        "email_read": 759,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2014-08-19T14:50:56Z",
+    "newsletter": {
+        "email_sent": 20977,
+        "email_delivered": 15767,
+        "email_read": 3986,
+        "email_complaints": 26
+    }
+}, {
+    "date": "2015-06-16T11:25:26Z",
+    "newsletter": {
+        "email_sent": 20231,
+        "email_delivered": 6472,
+        "email_read": 2236,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2014-10-19T07:38:50Z",
+    "newsletter": {
+        "email_sent": 20984,
+        "email_delivered": 5460,
+        "email_read": 73,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2015-04-24T07:41:44Z",
+    "newsletter": {
+        "email_sent": 20927,
+        "email_delivered": 16609,
+        "email_read": 2891,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2015-02-21T09:39:49Z",
+    "newsletter": {
+        "email_sent": 20785,
+        "email_delivered": 19355,
+        "email_read": 2310,
+        "email_complaints": 11
+    }
+}, {
+    "date": "2014-08-15T23:48:40Z",
+    "newsletter": {
+        "email_sent": 21547,
+        "email_delivered": 3815,
+        "email_read": 1985,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2014-10-20T17:08:14Z",
+    "newsletter": {
+        "email_sent": 21320,
+        "email_delivered": 10466,
+        "email_read": 565,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2015-05-22T10:12:49Z",
+    "newsletter": {
+        "email_sent": 22843,
+        "email_delivered": 13037,
+        "email_read": 690,
+        "email_complaints": 29
+    }
+}, {
+    "date": "2014-11-28T13:55:42Z",
+    "newsletter": {
+        "email_sent": 22829,
+        "email_delivered": 20490,
+        "email_read": 3834,
+        "email_complaints": 6
+    }
+}, {
+    "date": "2015-05-09T17:48:56Z",
+    "newsletter": {
+        "email_sent": 21355,
+        "email_delivered": 18812,
+        "email_read": 3664,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2015-02-13T01:38:08Z",
+    "newsletter": {
+        "email_sent": 21146,
+        "email_delivered": 10830,
+        "email_read": 1724,
+        "email_complaints": 11
+    }
+}, {
+    "date": "2014-10-27T18:24:01Z",
+    "newsletter": {
+        "email_sent": 22315,
+        "email_delivered": 9600,
+        "email_read": 2365,
+        "email_complaints": 40
+    }
+}, {
+    "date": "2014-08-25T14:44:17Z",
+    "newsletter": {
+        "email_sent": 20882,
+        "email_delivered": 4708,
+        "email_read": 207,
+        "email_complaints": 1
+    }
+}, {
+    "date": "2014-09-09T01:12:50Z",
+    "newsletter": {
+        "email_sent": 20665,
+        "email_delivered": 15651,
+        "email_read": 941,
+        "email_complaints": 26
+    }
+}, {
+    "date": "2014-09-28T02:11:26Z",
+    "newsletter": {
+        "email_sent": 22627,
+        "email_delivered": 6882,
+        "email_read": 3614,
+        "email_complaints": 29
+    }
+}, {
+    "date": "2015-07-04T02:48:38Z",
+    "newsletter": {
+        "email_sent": 22507,
+        "email_delivered": 3443,
+        "email_read": 3492,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2015-01-18T01:56:26Z",
+    "newsletter": {
+        "email_sent": 20141,
+        "email_delivered": 7384,
+        "email_read": 2407,
+        "email_complaints": 14
+    }
+}, {
+    "date": "2015-02-19T22:41:23Z",
+    "newsletter": {
+        "email_sent": 21855,
+        "email_delivered": 7255,
+        "email_read": 896,
+        "email_complaints": 13
+    }
+}, {
+    "date": "2015-07-02T17:12:21Z",
+    "newsletter": {
+        "email_sent": 21701,
+        "email_delivered": 16346,
+        "email_read": 3567,
+        "email_complaints": 31
+    }
+}, {
+    "date": "2015-01-15T00:48:00Z",
+    "newsletter": {
+        "email_sent": 20796,
+        "email_delivered": 21064,
+        "email_read": 3364,
+        "email_complaints": 6
+    }
+}, {
+    "date": "2015-06-10T05:45:41Z",
+    "newsletter": {
+        "email_sent": 20974,
+        "email_delivered": 7759,
+        "email_read": 3537,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2015-03-14T00:41:01Z",
+    "newsletter": {
+        "email_sent": 21570,
+        "email_delivered": 4732,
+        "email_read": 2068,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2015-06-06T15:15:15Z",
+    "newsletter": {
+        "email_sent": 21231,
+        "email_delivered": 16740,
+        "email_read": 3126,
+        "email_complaints": 8
+    }
+}, {
+    "date": "2015-02-15T11:12:15Z",
+    "newsletter": {
+        "email_sent": 20126,
+        "email_delivered": 3824,
+        "email_read": 2017,
+        "email_complaints": 1
+    }
+}, {
+    "date": "2015-01-27T03:01:46Z",
+    "newsletter": {
+        "email_sent": 22530,
+        "email_delivered": 19967,
+        "email_read": 578,
+        "email_complaints": 13
+    }
+}, {
+    "date": "2015-03-09T12:39:41Z",
+    "newsletter": {
+        "email_sent": 22120,
+        "email_delivered": 7873,
+        "email_read": 2421,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2015-02-02T11:08:33Z",
+    "newsletter": {
+        "email_sent": 22218,
+        "email_delivered": 20742,
+        "email_read": 2106,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2014-10-08T01:30:32Z",
+    "newsletter": {
+        "email_sent": 20345,
+        "email_delivered": 7314,
+        "email_read": 413,
+        "email_complaints": 31
+    }
+}, {
+    "date": "2014-09-13T21:03:54Z",
+    "newsletter": {
+        "email_sent": 22201,
+        "email_delivered": 18677,
+        "email_read": 3966,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2014-10-22T16:41:21Z",
+    "newsletter": {
+        "email_sent": 22966,
+        "email_delivered": 5905,
+        "email_read": 2177,
+        "email_complaints": 26
+    }
+}, {
+    "date": "2015-06-17T05:45:00Z",
+    "newsletter": {
+        "email_sent": 22370,
+        "email_delivered": 13375,
+        "email_read": 2027,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2014-12-11T14:24:54Z",
+    "newsletter": {
+        "email_sent": 21007,
+        "email_delivered": 16026,
+        "email_read": 3078,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2015-06-14T12:50:17Z",
+    "newsletter": {
+        "email_sent": 20204,
+        "email_delivered": 21851,
+        "email_read": 1232,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2014-09-29T14:08:28Z",
+    "newsletter": {
+        "email_sent": 22068,
+        "email_delivered": 22466,
+        "email_read": 1241,
+        "email_complaints": 6
+    }
+}, {
+    "date": "2014-12-16T09:45:16Z",
+    "newsletter": {
+        "email_sent": 22603,
+        "email_delivered": 13026,
+        "email_read": 2349,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2015-03-14T08:56:16Z",
+    "newsletter": {
+        "email_sent": 20728,
+        "email_delivered": 6041,
+        "email_read": 1661,
+        "email_complaints": 19
+    }
+}, {
+    "date": "2014-07-23T00:07:33Z",
+    "newsletter": {
+        "email_sent": 22158,
+        "email_delivered": 7297,
+        "email_read": 1044,
+        "email_complaints": 1
+    }
+}, {
+    "date": "2014-10-10T08:22:11Z",
+    "newsletter": {
+        "email_sent": 21162,
+        "email_delivered": 19265,
+        "email_read": 2869,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2014-10-04T20:24:25Z",
+    "newsletter": {
+        "email_sent": 21549,
+        "email_delivered": 12516,
+        "email_read": 2521,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2015-06-06T11:43:46Z",
+    "newsletter": {
+        "email_sent": 20210,
+        "email_delivered": 18472,
+        "email_read": 2508,
+        "email_complaints": 12
+    }
+}, {
+    "date": "2015-07-01T10:07:30Z",
+    "newsletter": {
+        "email_sent": 20678,
+        "email_delivered": 3669,
+        "email_read": 3586,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2014-12-12T04:25:58Z",
+    "newsletter": {
+        "email_sent": 21342,
+        "email_delivered": 7484,
+        "email_read": 1027,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2014-09-06T17:06:07Z",
+    "newsletter": {
+        "email_sent": 21373,
+        "email_delivered": 22142,
+        "email_read": 1450,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2014-07-28T09:25:12Z",
+    "newsletter": {
+        "email_sent": 22194,
+        "email_delivered": 6288,
+        "email_read": 2898,
+        "email_complaints": 9
+    }
+}, {
+    "date": "2014-12-20T22:07:35Z",
+    "newsletter": {
+        "email_sent": 22560,
+        "email_delivered": 17717,
+        "email_read": 1110,
+        "email_complaints": 31
+    }
+}, {
+    "date": "2014-12-09T18:09:38Z",
+    "newsletter": {
+        "email_sent": 22037,
+        "email_delivered": 4312,
+        "email_read": 501,
+        "email_complaints": 2
+    }
+}, {
+    "date": "2014-09-11T15:13:47Z",
+    "newsletter": {
+        "email_sent": 22378,
+        "email_delivered": 16121,
+        "email_read": 2101,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2015-01-25T00:48:55Z",
+    "newsletter": {
+        "email_sent": 20156,
+        "email_delivered": 22969,
+        "email_read": 1329,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2014-07-15T23:49:58Z",
+    "newsletter": {
+        "email_sent": 21389,
+        "email_delivered": 16425,
+        "email_read": 1091,
+        "email_complaints": 31
+    }
+}, {
+    "date": "2014-10-26T14:39:24Z",
+    "newsletter": {
+        "email_sent": 20773,
+        "email_delivered": 15088,
+        "email_read": 1244,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2014-12-30T05:04:40Z",
+    "newsletter": {
+        "email_sent": 20537,
+        "email_delivered": 13836,
+        "email_read": 3785,
+        "email_complaints": 31
+    }
+}, {
+    "date": "2014-09-14T13:53:30Z",
+    "newsletter": {
+        "email_sent": 20622,
+        "email_delivered": 20577,
+        "email_read": 2620,
+        "email_complaints": 25
+    }
+}, {
+    "date": "2015-02-24T13:06:00Z",
+    "newsletter": {
+        "email_sent": 21937,
+        "email_delivered": 12331,
+        "email_read": 400,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2014-07-21T20:39:03Z",
+    "newsletter": {
+        "email_sent": 22626,
+        "email_delivered": 20132,
+        "email_read": 1139,
+        "email_complaints": 27
+    }
+}, {
+    "date": "2014-08-10T11:38:31Z",
+    "newsletter": {
+        "email_sent": 21368,
+        "email_delivered": 21153,
+        "email_read": 1469,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2014-11-22T04:57:45Z",
+    "newsletter": {
+        "email_sent": 21549,
+        "email_delivered": 15700,
+        "email_read": 916,
+        "email_complaints": 12
+    }
+}, {
+    "date": "2015-07-03T17:20:36Z",
+    "newsletter": {
+        "email_sent": 21473,
+        "email_delivered": 20529,
+        "email_read": 3084,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2015-04-22T07:43:25Z",
+    "newsletter": {
+        "email_sent": 21421,
+        "email_delivered": 21934,
+        "email_read": 445,
+        "email_complaints": 1
+    }
+}, {
+    "date": "2014-12-22T11:36:04Z",
+    "newsletter": {
+        "email_sent": 22336,
+        "email_delivered": 11528,
+        "email_read": 975,
+        "email_complaints": 2
+    }
+}, {
+    "date": "2014-10-03T04:03:05Z",
+    "newsletter": {
+        "email_sent": 21193,
+        "email_delivered": 20478,
+        "email_read": 131,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2014-11-22T18:45:17Z",
+    "newsletter": {
+        "email_sent": 21965,
+        "email_delivered": 14348,
+        "email_read": 2585,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2015-06-24T13:56:37Z",
+    "newsletter": {
+        "email_sent": 22066,
+        "email_delivered": 12921,
+        "email_read": 3350,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2015-04-15T13:26:11Z",
+    "newsletter": {
+        "email_sent": 22539,
+        "email_delivered": 18891,
+        "email_read": 3912,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2014-09-12T10:24:33Z",
+    "newsletter": {
+        "email_sent": 21601,
+        "email_delivered": 8138,
+        "email_read": 3220,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2014-08-06T10:05:58Z",
+    "newsletter": {
+        "email_sent": 20838,
+        "email_delivered": 7253,
+        "email_read": 1701,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2014-11-21T22:17:12Z",
+    "newsletter": {
+        "email_sent": 20941,
+        "email_delivered": 7910,
+        "email_read": 2337,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2014-08-01T19:38:00Z",
+    "newsletter": {
+        "email_sent": 22622,
+        "email_delivered": 7238,
+        "email_read": 924,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2015-06-09T22:08:35Z",
+    "newsletter": {
+        "email_sent": 20919,
+        "email_delivered": 14560,
+        "email_read": 981,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2014-09-05T06:14:19Z",
+    "newsletter": {
+        "email_sent": 21884,
+        "email_delivered": 13886,
+        "email_read": 3885,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2014-07-19T00:36:11Z",
+    "newsletter": {
+        "email_sent": 21617,
+        "email_delivered": 17096,
+        "email_read": 3772,
+        "email_complaints": 22
+    }
+}, {
+    "date": "2015-05-18T09:58:37Z",
+    "newsletter": {
+        "email_sent": 21619,
+        "email_delivered": 13280,
+        "email_read": 991,
+        "email_complaints": 0
+    }
+}, {
+    "date": "2014-08-11T10:15:52Z",
+    "newsletter": {
+        "email_sent": 21186,
+        "email_delivered": 22547,
+        "email_read": 1526,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2015-04-29T15:15:16Z",
+    "newsletter": {
+        "email_sent": 20413,
+        "email_delivered": 18280,
+        "email_read": 1900,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2015-03-28T07:21:29Z",
+    "newsletter": {
+        "email_sent": 20259,
+        "email_delivered": 15027,
+        "email_read": 559,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2015-05-05T07:58:24Z",
+    "newsletter": {
+        "email_sent": 21952,
+        "email_delivered": 5939,
+        "email_read": 1123,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2014-08-26T02:13:53Z",
+    "newsletter": {
+        "email_sent": 20912,
+        "email_delivered": 5138,
+        "email_read": 975,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2015-04-03T12:08:18Z",
+    "newsletter": {
+        "email_sent": 20001,
+        "email_delivered": 3718,
+        "email_read": 3308,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2015-04-12T19:52:58Z",
+    "newsletter": {
+        "email_sent": 21991,
+        "email_delivered": 4522,
+        "email_read": 733,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2015-03-11T12:02:09Z",
+    "newsletter": {
+        "email_sent": 20968,
+        "email_delivered": 6055,
+        "email_read": 2012,
+        "email_complaints": 25
+    }
+}, {
+    "date": "2014-09-10T21:50:33Z",
+    "newsletter": {
+        "email_sent": 22278,
+        "email_delivered": 16214,
+        "email_read": 3454,
+        "email_complaints": 8
+    }
+}, {
+    "date": "2015-01-17T01:10:38Z",
+    "newsletter": {
+        "email_sent": 22498,
+        "email_delivered": 10906,
+        "email_read": 3418,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2015-03-14T18:07:23Z",
+    "newsletter": {
+        "email_sent": 20639,
+        "email_delivered": 17195,
+        "email_read": 525,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2014-12-23T23:54:39Z",
+    "newsletter": {
+        "email_sent": 22059,
+        "email_delivered": 10524,
+        "email_read": 531,
+        "email_complaints": 29
+    }
+}, {
+    "date": "2015-05-27T15:33:43Z",
+    "newsletter": {
+        "email_sent": 21361,
+        "email_delivered": 5073,
+        "email_read": 266,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2015-04-11T21:17:48Z",
+    "newsletter": {
+        "email_sent": 22375,
+        "email_delivered": 19045,
+        "email_read": 2893,
+        "email_complaints": 12
+    }
+}, {
+    "date": "2015-02-08T16:07:06Z",
+    "newsletter": {
+        "email_sent": 20594,
+        "email_delivered": 22210,
+        "email_read": 69,
+        "email_complaints": 29
+    }
+}, {
+    "date": "2015-07-05T07:14:08Z",
+    "newsletter": {
+        "email_sent": 22109,
+        "email_delivered": 5975,
+        "email_read": 3565,
+        "email_complaints": 18
+    }
+}, {
+    "date": "2015-02-10T00:39:21Z",
+    "newsletter": {
+        "email_sent": 22547,
+        "email_delivered": 14752,
+        "email_read": 1240,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2015-06-07T10:45:14Z",
+    "newsletter": {
+        "email_sent": 22929,
+        "email_delivered": 4657,
+        "email_read": 784,
+        "email_complaints": 1
+    }
+}, {
+    "date": "2014-09-12T21:01:47Z",
+    "newsletter": {
+        "email_sent": 22449,
+        "email_delivered": 15653,
+        "email_read": 3820,
+        "email_complaints": 14
+    }
+}, {
+    "date": "2014-12-22T16:44:57Z",
+    "newsletter": {
+        "email_sent": 21866,
+        "email_delivered": 7103,
+        "email_read": 3900,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2014-07-21T04:23:24Z",
+    "newsletter": {
+        "email_sent": 22836,
+        "email_delivered": 15218,
+        "email_read": 1911,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2014-12-29T09:52:15Z",
+    "newsletter": {
+        "email_sent": 20901,
+        "email_delivered": 3852,
+        "email_read": 423,
+        "email_complaints": 40
+    }
+}, {
+    "date": "2014-10-16T16:30:20Z",
+    "newsletter": {
+        "email_sent": 20937,
+        "email_delivered": 5760,
+        "email_read": 3102,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2014-09-15T04:20:08Z",
+    "newsletter": {
+        "email_sent": 20595,
+        "email_delivered": 17237,
+        "email_read": 3606,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2014-08-29T13:04:02Z",
+    "newsletter": {
+        "email_sent": 21196,
+        "email_delivered": 8108,
+        "email_read": 1372,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2014-08-04T18:46:54Z",
+    "newsletter": {
+        "email_sent": 22435,
+        "email_delivered": 9244,
+        "email_read": 3244,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2014-10-22T07:37:40Z",
+    "newsletter": {
+        "email_sent": 21941,
+        "email_delivered": 3651,
+        "email_read": 162,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2015-06-17T18:24:33Z",
+    "newsletter": {
+        "email_sent": 20647,
+        "email_delivered": 8248,
+        "email_read": 944,
+        "email_complaints": 19
+    }
+}, {
+    "date": "2014-09-09T21:12:54Z",
+    "newsletter": {
+        "email_sent": 20006,
+        "email_delivered": 10880,
+        "email_read": 2418,
+        "email_complaints": 12
+    }
+}, {
+    "date": "2015-05-27T04:36:42Z",
+    "newsletter": {
+        "email_sent": 21498,
+        "email_delivered": 20076,
+        "email_read": 2170,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2014-12-05T22:43:37Z",
+    "newsletter": {
+        "email_sent": 20697,
+        "email_delivered": 13312,
+        "email_read": 2803,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2015-04-30T07:09:29Z",
+    "newsletter": {
+        "email_sent": 20106,
+        "email_delivered": 6505,
+        "email_read": 1519,
+        "email_complaints": 13
+    }
+}, {
+    "date": "2015-03-16T14:27:43Z",
+    "newsletter": {
+        "email_sent": 22381,
+        "email_delivered": 11270,
+        "email_read": 724,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2014-08-20T15:24:41Z",
+    "newsletter": {
+        "email_sent": 22755,
+        "email_delivered": 4081,
+        "email_read": 2165,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2015-01-25T17:48:26Z",
+    "newsletter": {
+        "email_sent": 20626,
+        "email_delivered": 12636,
+        "email_read": 1431,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2014-09-05T17:04:13Z",
+    "newsletter": {
+        "email_sent": 21424,
+        "email_delivered": 6376,
+        "email_read": 1845,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2014-12-14T20:28:51Z",
+    "newsletter": {
+        "email_sent": 22679,
+        "email_delivered": 13640,
+        "email_read": 3455,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2015-04-13T14:34:28Z",
+    "newsletter": {
+        "email_sent": 21420,
+        "email_delivered": 21058,
+        "email_read": 79,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2014-10-02T19:14:02Z",
+    "newsletter": {
+        "email_sent": 20070,
+        "email_delivered": 17600,
+        "email_read": 2013,
+        "email_complaints": 27
+    }
+}, {
+    "date": "2015-05-22T12:54:18Z",
+    "newsletter": {
+        "email_sent": 22180,
+        "email_delivered": 15616,
+        "email_read": 2318,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2014-07-13T22:37:40Z",
+    "newsletter": {
+        "email_sent": 22042,
+        "email_delivered": 9533,
+        "email_read": 2241,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2015-03-02T21:27:17Z",
+    "newsletter": {
+        "email_sent": 20429,
+        "email_delivered": 15892,
+        "email_read": 2210,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2015-04-07T22:17:13Z",
+    "newsletter": {
+        "email_sent": 21865,
+        "email_delivered": 9597,
+        "email_read": 1269,
+        "email_complaints": 1
+    }
+}, {
+    "date": "2014-08-26T03:08:27Z",
+    "newsletter": {
+        "email_sent": 21878,
+        "email_delivered": 16151,
+        "email_read": 2901,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2015-01-08T02:05:34Z",
+    "newsletter": {
+        "email_sent": 22859,
+        "email_delivered": 6559,
+        "email_read": 1524,
+        "email_complaints": 34
+    }
+}, {
+    "date": "2015-07-08T02:22:21Z",
+    "newsletter": {
+        "email_sent": 20514,
+        "email_delivered": 8407,
+        "email_read": 2012,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2015-05-22T08:22:01Z",
+    "newsletter": {
+        "email_sent": 21984,
+        "email_delivered": 7943,
+        "email_read": 2113,
+        "email_complaints": 6
+    }
+}, {
+    "date": "2015-03-16T12:32:01Z",
+    "newsletter": {
+        "email_sent": 22460,
+        "email_delivered": 4170,
+        "email_read": 3975,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2015-01-21T18:23:04Z",
+    "newsletter": {
+        "email_sent": 22464,
+        "email_delivered": 3517,
+        "email_read": 3197,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2015-06-10T01:34:42Z",
+    "newsletter": {
+        "email_sent": 21399,
+        "email_delivered": 22502,
+        "email_read": 1673,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2014-12-06T04:19:14Z",
+    "newsletter": {
+        "email_sent": 20015,
+        "email_delivered": 17268,
+        "email_read": 2370,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2014-09-28T11:56:51Z",
+    "newsletter": {
+        "email_sent": 22649,
+        "email_delivered": 22825,
+        "email_read": 1636,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2015-04-05T01:36:58Z",
+    "newsletter": {
+        "email_sent": 20852,
+        "email_delivered": 13839,
+        "email_read": 1632,
+        "email_complaints": 31
+    }
+}, {
+    "date": "2015-03-14T21:35:40Z",
+    "newsletter": {
+        "email_sent": 22396,
+        "email_delivered": 5558,
+        "email_read": 2883,
+        "email_complaints": 2
+    }
+}, {
+    "date": "2014-09-17T10:23:15Z",
+    "newsletter": {
+        "email_sent": 20911,
+        "email_delivered": 22917,
+        "email_read": 3417,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2015-07-04T04:59:00Z",
+    "newsletter": {
+        "email_sent": 22981,
+        "email_delivered": 3648,
+        "email_read": 3381,
+        "email_complaints": 13
+    }
+}, {
+    "date": "2014-09-19T14:56:21Z",
+    "newsletter": {
+        "email_sent": 20030,
+        "email_delivered": 22101,
+        "email_read": 1357,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2014-08-06T16:57:21Z",
+    "newsletter": {
+        "email_sent": 21292,
+        "email_delivered": 22264,
+        "email_read": 1412,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2014-09-24T17:38:58Z",
+    "newsletter": {
+        "email_sent": 21684,
+        "email_delivered": 4950,
+        "email_read": 3986,
+        "email_complaints": 9
+    }
+}, {
+    "date": "2014-11-07T06:32:33Z",
+    "newsletter": {
+        "email_sent": 22472,
+        "email_delivered": 14666,
+        "email_read": 2849,
+        "email_complaints": 2
+    }
+}, {
+    "date": "2014-08-02T20:53:35Z",
+    "newsletter": {
+        "email_sent": 20460,
+        "email_delivered": 10115,
+        "email_read": 1514,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2015-06-04T21:47:29Z",
+    "newsletter": {
+        "email_sent": 20802,
+        "email_delivered": 21471,
+        "email_read": 3459,
+        "email_complaints": 22
+    }
+}, {
+    "date": "2015-04-16T06:18:17Z",
+    "newsletter": {
+        "email_sent": 21710,
+        "email_delivered": 16581,
+        "email_read": 2771,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2015-06-28T21:35:35Z",
+    "newsletter": {
+        "email_sent": 21267,
+        "email_delivered": 17235,
+        "email_read": 2202,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2015-04-11T19:55:46Z",
+    "newsletter": {
+        "email_sent": 20761,
+        "email_delivered": 21305,
+        "email_read": 686,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2014-11-21T07:37:16Z",
+    "newsletter": {
+        "email_sent": 21352,
+        "email_delivered": 21059,
+        "email_read": 2640,
+        "email_complaints": 26
+    }
+}, {
+    "date": "2014-11-07T09:45:03Z",
+    "newsletter": {
+        "email_sent": 21176,
+        "email_delivered": 8325,
+        "email_read": 1159,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2014-09-19T14:00:41Z",
+    "newsletter": {
+        "email_sent": 20905,
+        "email_delivered": 6717,
+        "email_read": 3696,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2015-03-26T04:48:57Z",
+    "newsletter": {
+        "email_sent": 20560,
+        "email_delivered": 20876,
+        "email_read": 706,
+        "email_complaints": 8
+    }
+}, {
+    "date": "2015-02-08T11:07:52Z",
+    "newsletter": {
+        "email_sent": 20581,
+        "email_delivered": 9974,
+        "email_read": 3251,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2015-02-02T21:53:28Z",
+    "newsletter": {
+        "email_sent": 20233,
+        "email_delivered": 14030,
+        "email_read": 477,
+        "email_complaints": 9
+    }
+}, {
+    "date": "2014-10-10T17:42:02Z",
+    "newsletter": {
+        "email_sent": 21938,
+        "email_delivered": 16578,
+        "email_read": 2971,
+        "email_complaints": 31
+    }
+}, {
+    "date": "2015-02-06T04:44:49Z",
+    "newsletter": {
+        "email_sent": 22207,
+        "email_delivered": 21773,
+        "email_read": 1355,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2015-06-11T14:27:14Z",
+    "newsletter": {
+        "email_sent": 22065,
+        "email_delivered": 15168,
+        "email_read": 3364,
+        "email_complaints": 12
+    }
+}, {
+    "date": "2014-08-10T19:08:52Z",
+    "newsletter": {
+        "email_sent": 21720,
+        "email_delivered": 21840,
+        "email_read": 1839,
+        "email_complaints": 12
+    }
+}, {
+    "date": "2014-10-16T14:45:36Z",
+    "newsletter": {
+        "email_sent": 21856,
+        "email_delivered": 6251,
+        "email_read": 3807,
+        "email_complaints": 27
+    }
+}, {
+    "date": "2014-12-27T00:17:42Z",
+    "newsletter": {
+        "email_sent": 22633,
+        "email_delivered": 12988,
+        "email_read": 920,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2015-02-13T09:14:35Z",
+    "newsletter": {
+        "email_sent": 21723,
+        "email_delivered": 7429,
+        "email_read": 2248,
+        "email_complaints": 36
+    }
+}, {
+    "date": "2014-10-28T08:11:58Z",
+    "newsletter": {
+        "email_sent": 20645,
+        "email_delivered": 11385,
+        "email_read": 3960,
+        "email_complaints": 0
+    }
+}, {
+    "date": "2015-05-12T19:00:45Z",
+    "newsletter": {
+        "email_sent": 21071,
+        "email_delivered": 6546,
+        "email_read": 2028,
+        "email_complaints": 9
+    }
+}, {
+    "date": "2014-09-08T05:39:39Z",
+    "newsletter": {
+        "email_sent": 22875,
+        "email_delivered": 7556,
+        "email_read": 3252,
+        "email_complaints": 29
+    }
+}, {
+    "date": "2014-07-15T08:09:07Z",
+    "newsletter": {
+        "email_sent": 20522,
+        "email_delivered": 15574,
+        "email_read": 2982,
+        "email_complaints": 2
+    }
+}, {
+    "date": "2015-03-31T19:31:06Z",
+    "newsletter": {
+        "email_sent": 22884,
+        "email_delivered": 14827,
+        "email_read": 1658,
+        "email_complaints": 1
+    }
+}, {
+    "date": "2015-06-17T09:21:01Z",
+    "newsletter": {
+        "email_sent": 21062,
+        "email_delivered": 18447,
+        "email_read": 3134,
+        "email_complaints": 11
+    }
+}, {
+    "date": "2015-07-06T07:21:46Z",
+    "newsletter": {
+        "email_sent": 22214,
+        "email_delivered": 11182,
+        "email_read": 1556,
+        "email_complaints": 26
+    }
+}, {
+    "date": "2014-11-04T06:41:03Z",
+    "newsletter": {
+        "email_sent": 20777,
+        "email_delivered": 8015,
+        "email_read": 3588,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2014-11-04T19:59:02Z",
+    "newsletter": {
+        "email_sent": 22013,
+        "email_delivered": 7262,
+        "email_read": 569,
+        "email_complaints": 18
+    }
+}, {
+    "date": "2014-10-11T10:07:36Z",
+    "newsletter": {
+        "email_sent": 20162,
+        "email_delivered": 7076,
+        "email_read": 168,
+        "email_complaints": 31
+    }
+}, {
+    "date": "2014-12-15T13:00:25Z",
+    "newsletter": {
+        "email_sent": 21330,
+        "email_delivered": 17229,
+        "email_read": 355,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2015-04-01T18:46:02Z",
+    "newsletter": {
+        "email_sent": 20487,
+        "email_delivered": 10915,
+        "email_read": 1174,
+        "email_complaints": 0
+    }
+}, {
+    "date": "2015-04-23T13:45:15Z",
+    "newsletter": {
+        "email_sent": 21445,
+        "email_delivered": 10389,
+        "email_read": 1443,
+        "email_complaints": 11
+    }
+}, {
+    "date": "2015-01-04T23:36:20Z",
+    "newsletter": {
+        "email_sent": 20961,
+        "email_delivered": 17385,
+        "email_read": 3168,
+        "email_complaints": 1
+    }
+}, {
+    "date": "2014-11-04T08:43:01Z",
+    "newsletter": {
+        "email_sent": 20380,
+        "email_delivered": 3192,
+        "email_read": 3641,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2014-08-07T17:39:33Z",
+    "newsletter": {
+        "email_sent": 22087,
+        "email_delivered": 20629,
+        "email_read": 830,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2014-10-22T23:57:15Z",
+    "newsletter": {
+        "email_sent": 22542,
+        "email_delivered": 5883,
+        "email_read": 3293,
+        "email_complaints": 14
+    }
+}, {
+    "date": "2014-12-22T03:44:56Z",
+    "newsletter": {
+        "email_sent": 21089,
+        "email_delivered": 22861,
+        "email_read": 1728,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2014-07-25T15:03:26Z",
+    "newsletter": {
+        "email_sent": 20348,
+        "email_delivered": 5622,
+        "email_read": 1557,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2014-09-23T19:50:55Z",
+    "newsletter": {
+        "email_sent": 21567,
+        "email_delivered": 18491,
+        "email_read": 3525,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2014-11-05T01:35:05Z",
+    "newsletter": {
+        "email_sent": 21929,
+        "email_delivered": 18447,
+        "email_read": 2001,
+        "email_complaints": 26
+    }
+}, {
+    "date": "2015-05-25T02:23:45Z",
+    "newsletter": {
+        "email_sent": 21668,
+        "email_delivered": 3968,
+        "email_read": 3755,
+        "email_complaints": 9
+    }
+}, {
+    "date": "2015-01-30T21:51:38Z",
+    "newsletter": {
+        "email_sent": 22109,
+        "email_delivered": 21399,
+        "email_read": 3234,
+        "email_complaints": 27
+    }
+}, {
+    "date": "2014-08-30T19:32:16Z",
+    "newsletter": {
+        "email_sent": 21663,
+        "email_delivered": 7787,
+        "email_read": 1979,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2014-07-30T00:17:52Z",
+    "newsletter": {
+        "email_sent": 21498,
+        "email_delivered": 12873,
+        "email_read": 3903,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2015-02-10T10:13:02Z",
+    "newsletter": {
+        "email_sent": 21623,
+        "email_delivered": 3581,
+        "email_read": 467,
+        "email_complaints": 31
+    }
+}, {
+    "date": "2015-02-11T11:45:26Z",
+    "newsletter": {
+        "email_sent": 21446,
+        "email_delivered": 15274,
+        "email_read": 1329,
+        "email_complaints": 14
+    }
+}, {
+    "date": "2014-11-10T10:53:14Z",
+    "newsletter": {
+        "email_sent": 22161,
+        "email_delivered": 6082,
+        "email_read": 124,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2014-10-25T07:41:17Z",
+    "newsletter": {
+        "email_sent": 20536,
+        "email_delivered": 8697,
+        "email_read": 137,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2015-05-01T18:59:51Z",
+    "newsletter": {
+        "email_sent": 20215,
+        "email_delivered": 11256,
+        "email_read": 526,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2014-10-08T13:34:50Z",
+    "newsletter": {
+        "email_sent": 20211,
+        "email_delivered": 19631,
+        "email_read": 36,
+        "email_complaints": 22
+    }
+}, {
+    "date": "2015-04-29T08:39:55Z",
+    "newsletter": {
+        "email_sent": 22206,
+        "email_delivered": 13475,
+        "email_read": 3164,
+        "email_complaints": 0
+    }
+}, {
+    "date": "2015-05-28T04:31:26Z",
+    "newsletter": {
+        "email_sent": 20989,
+        "email_delivered": 9124,
+        "email_read": 927,
+        "email_complaints": 9
+    }
+}, {
+    "date": "2015-01-02T04:29:02Z",
+    "newsletter": {
+        "email_sent": 20700,
+        "email_delivered": 16634,
+        "email_read": 564,
+        "email_complaints": 34
+    }
+}, {
+    "date": "2015-03-16T12:40:56Z",
+    "newsletter": {
+        "email_sent": 20315,
+        "email_delivered": 15710,
+        "email_read": 2313,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2015-05-04T16:17:37Z",
+    "newsletter": {
+        "email_sent": 21606,
+        "email_delivered": 14578,
+        "email_read": 2676,
+        "email_complaints": 25
+    }
+}, {
+    "date": "2014-11-28T15:39:10Z",
+    "newsletter": {
+        "email_sent": 22642,
+        "email_delivered": 15507,
+        "email_read": 2393,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2014-08-25T01:40:22Z",
+    "newsletter": {
+        "email_sent": 20484,
+        "email_delivered": 17527,
+        "email_read": 1145,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2015-06-24T20:52:51Z",
+    "newsletter": {
+        "email_sent": 20005,
+        "email_delivered": 8636,
+        "email_read": 3526,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2015-01-04T17:07:46Z",
+    "newsletter": {
+        "email_sent": 21682,
+        "email_delivered": 14536,
+        "email_read": 1075,
+        "email_complaints": 27
+    }
+}, {
+    "date": "2015-05-17T04:02:54Z",
+    "newsletter": {
+        "email_sent": 22826,
+        "email_delivered": 10030,
+        "email_read": 2293,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2014-10-17T13:04:10Z",
+    "newsletter": {
+        "email_sent": 20980,
+        "email_delivered": 5835,
+        "email_read": 634,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2015-04-08T13:05:37Z",
+    "newsletter": {
+        "email_sent": 21003,
+        "email_delivered": 5330,
+        "email_read": 1289,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2014-07-15T08:30:59Z",
+    "newsletter": {
+        "email_sent": 21710,
+        "email_delivered": 6997,
+        "email_read": 1663,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2015-06-27T15:49:22Z",
+    "newsletter": {
+        "email_sent": 22512,
+        "email_delivered": 5692,
+        "email_read": 1783,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2015-01-20T16:46:52Z",
+    "newsletter": {
+        "email_sent": 22547,
+        "email_delivered": 16895,
+        "email_read": 2201,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2014-11-25T07:16:43Z",
+    "newsletter": {
+        "email_sent": 20370,
+        "email_delivered": 18221,
+        "email_read": 2989,
+        "email_complaints": 18
+    }
+}, {
+    "date": "2015-05-08T09:47:33Z",
+    "newsletter": {
+        "email_sent": 22540,
+        "email_delivered": 18565,
+        "email_read": 3083,
+        "email_complaints": 19
+    }
+}, {
+    "date": "2015-06-26T20:29:26Z",
+    "newsletter": {
+        "email_sent": 22439,
+        "email_delivered": 20338,
+        "email_read": 2841,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2015-01-30T21:50:09Z",
+    "newsletter": {
+        "email_sent": 20076,
+        "email_delivered": 17389,
+        "email_read": 3293,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2015-03-01T13:19:41Z",
+    "newsletter": {
+        "email_sent": 20769,
+        "email_delivered": 8645,
+        "email_read": 2986,
+        "email_complaints": 11
+    }
+}, {
+    "date": "2014-11-07T23:32:50Z",
+    "newsletter": {
+        "email_sent": 21156,
+        "email_delivered": 14244,
+        "email_read": 375,
+        "email_complaints": 13
+    }
+}, {
+    "date": "2015-06-28T02:39:19Z",
+    "newsletter": {
+        "email_sent": 20116,
+        "email_delivered": 3325,
+        "email_read": 890,
+        "email_complaints": 8
+    }
+}, {
+    "date": "2014-10-16T17:50:29Z",
+    "newsletter": {
+        "email_sent": 21526,
+        "email_delivered": 11079,
+        "email_read": 58,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2014-09-27T12:40:22Z",
+    "newsletter": {
+        "email_sent": 21976,
+        "email_delivered": 20005,
+        "email_read": 1505,
+        "email_complaints": 14
+    }
+}, {
+    "date": "2015-06-24T11:47:23Z",
+    "newsletter": {
+        "email_sent": 20154,
+        "email_delivered": 9512,
+        "email_read": 576,
+        "email_complaints": 12
+    }
+}, {
+    "date": "2015-03-06T03:00:13Z",
+    "newsletter": {
+        "email_sent": 21291,
+        "email_delivered": 3150,
+        "email_read": 2111,
+        "email_complaints": 8
+    }
+}, {
+    "date": "2015-07-07T06:35:12Z",
+    "newsletter": {
+        "email_sent": 20647,
+        "email_delivered": 9834,
+        "email_read": 2519,
+        "email_complaints": 19
+    }
+}, {
+    "date": "2014-12-08T11:45:19Z",
+    "newsletter": {
+        "email_sent": 22276,
+        "email_delivered": 9430,
+        "email_read": 712,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2015-06-19T06:27:48Z",
+    "newsletter": {
+        "email_sent": 21383,
+        "email_delivered": 11200,
+        "email_read": 1033,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2015-04-24T14:14:13Z",
+    "newsletter": {
+        "email_sent": 20390,
+        "email_delivered": 8127,
+        "email_read": 2772,
+        "email_complaints": 11
+    }
+}, {
+    "date": "2014-12-19T17:01:07Z",
+    "newsletter": {
+        "email_sent": 22350,
+        "email_delivered": 19844,
+        "email_read": 2207,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2015-06-30T11:07:03Z",
+    "newsletter": {
+        "email_sent": 22449,
+        "email_delivered": 20162,
+        "email_read": 2315,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2014-11-05T12:09:14Z",
+    "newsletter": {
+        "email_sent": 21282,
+        "email_delivered": 9472,
+        "email_read": 3356,
+        "email_complaints": 8
+    }
+}, {
+    "date": "2014-10-12T14:20:35Z",
+    "newsletter": {
+        "email_sent": 21143,
+        "email_delivered": 3323,
+        "email_read": 678,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2015-03-15T00:56:04Z",
+    "newsletter": {
+        "email_sent": 20350,
+        "email_delivered": 17219,
+        "email_read": 114,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2014-11-16T23:07:56Z",
+    "newsletter": {
+        "email_sent": 21160,
+        "email_delivered": 4760,
+        "email_read": 2111,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2014-09-12T04:25:59Z",
+    "newsletter": {
+        "email_sent": 21886,
+        "email_delivered": 16616,
+        "email_read": 3407,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2014-08-28T01:54:57Z",
+    "newsletter": {
+        "email_sent": 20273,
+        "email_delivered": 22906,
+        "email_read": 807,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2014-10-16T13:47:38Z",
+    "newsletter": {
+        "email_sent": 22075,
+        "email_delivered": 16875,
+        "email_read": 3998,
+        "email_complaints": 1
+    }
+}, {
+    "date": "2015-05-13T13:19:10Z",
+    "newsletter": {
+        "email_sent": 22109,
+        "email_delivered": 8295,
+        "email_read": 3661,
+        "email_complaints": 13
+    }
+}, {
+    "date": "2015-05-25T13:10:03Z",
+    "newsletter": {
+        "email_sent": 21636,
+        "email_delivered": 19132,
+        "email_read": 944,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2015-02-13T01:37:57Z",
+    "newsletter": {
+        "email_sent": 22527,
+        "email_delivered": 22721,
+        "email_read": 1647,
+        "email_complaints": 12
+    }
+}, {
+    "date": "2015-05-20T23:38:46Z",
+    "newsletter": {
+        "email_sent": 22207,
+        "email_delivered": 8112,
+        "email_read": 2162,
+        "email_complaints": 11
+    }
+}, {
+    "date": "2015-01-05T14:20:15Z",
+    "newsletter": {
+        "email_sent": 22432,
+        "email_delivered": 13169,
+        "email_read": 980,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2014-12-15T16:14:23Z",
+    "newsletter": {
+        "email_sent": 20620,
+        "email_delivered": 16336,
+        "email_read": 936,
+        "email_complaints": 0
+    }
+}, {
+    "date": "2014-10-12T13:38:09Z",
+    "newsletter": {
+        "email_sent": 20361,
+        "email_delivered": 21642,
+        "email_read": 3776,
+        "email_complaints": 31
+    }
+}, {
+    "date": "2015-05-20T11:35:12Z",
+    "newsletter": {
+        "email_sent": 20115,
+        "email_delivered": 13027,
+        "email_read": 3778,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2015-05-17T12:04:23Z",
+    "newsletter": {
+        "email_sent": 20426,
+        "email_delivered": 8665,
+        "email_read": 840,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2015-02-08T23:01:56Z",
+    "newsletter": {
+        "email_sent": 20796,
+        "email_delivered": 11936,
+        "email_read": 456,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2014-08-13T09:25:18Z",
+    "newsletter": {
+        "email_sent": 21375,
+        "email_delivered": 8456,
+        "email_read": 2633,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2015-03-14T12:55:14Z",
+    "newsletter": {
+        "email_sent": 20298,
+        "email_delivered": 21526,
+        "email_read": 2055,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2015-05-26T09:27:44Z",
+    "newsletter": {
+        "email_sent": 21703,
+        "email_delivered": 8006,
+        "email_read": 331,
+        "email_complaints": 25
+    }
+}, {
+    "date": "2015-02-15T00:57:07Z",
+    "newsletter": {
+        "email_sent": 22119,
+        "email_delivered": 16982,
+        "email_read": 2528,
+        "email_complaints": 6
+    }
+}, {
+    "date": "2014-07-26T02:28:58Z",
+    "newsletter": {
+        "email_sent": 20260,
+        "email_delivered": 21441,
+        "email_read": 3166,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2015-04-16T22:26:08Z",
+    "newsletter": {
+        "email_sent": 22475,
+        "email_delivered": 4750,
+        "email_read": 327,
+        "email_complaints": 26
+    }
+}, {
+    "date": "2015-05-16T12:33:21Z",
+    "newsletter": {
+        "email_sent": 21144,
+        "email_delivered": 20581,
+        "email_read": 487,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2015-06-10T21:14:57Z",
+    "newsletter": {
+        "email_sent": 20174,
+        "email_delivered": 20048,
+        "email_read": 3578,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2014-09-29T23:40:01Z",
+    "newsletter": {
+        "email_sent": 22684,
+        "email_delivered": 3410,
+        "email_read": 2669,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2015-05-07T08:13:10Z",
+    "newsletter": {
+        "email_sent": 22500,
+        "email_delivered": 12840,
+        "email_read": 2705,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2015-03-31T18:45:08Z",
+    "newsletter": {
+        "email_sent": 20052,
+        "email_delivered": 8573,
+        "email_read": 2155,
+        "email_complaints": 29
+    }
+}, {
+    "date": "2014-12-19T23:17:32Z",
+    "newsletter": {
+        "email_sent": 22497,
+        "email_delivered": 19138,
+        "email_read": 1930,
+        "email_complaints": 22
+    }
+}, {
+    "date": "2014-10-10T13:33:19Z",
+    "newsletter": {
+        "email_sent": 21287,
+        "email_delivered": 15891,
+        "email_read": 1547,
+        "email_complaints": 6
+    }
+}, {
+    "date": "2015-03-18T10:17:13Z",
+    "newsletter": {
+        "email_sent": 22025,
+        "email_delivered": 8663,
+        "email_read": 708,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2014-10-18T05:54:32Z",
+    "newsletter": {
+        "email_sent": 21027,
+        "email_delivered": 6565,
+        "email_read": 1367,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2014-10-30T22:32:24Z",
+    "newsletter": {
+        "email_sent": 22732,
+        "email_delivered": 17320,
+        "email_read": 2983,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2015-03-23T21:48:04Z",
+    "newsletter": {
+        "email_sent": 22190,
+        "email_delivered": 16926,
+        "email_read": 445,
+        "email_complaints": 36
+    }
+}, {
+    "date": "2014-09-15T12:34:57Z",
+    "newsletter": {
+        "email_sent": 21723,
+        "email_delivered": 10230,
+        "email_read": 3776,
+        "email_complaints": 22
+    }
+}, {
+    "date": "2014-10-27T07:05:57Z",
+    "newsletter": {
+        "email_sent": 21202,
+        "email_delivered": 9311,
+        "email_read": 2552,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2014-10-11T07:41:33Z",
+    "newsletter": {
+        "email_sent": 20374,
+        "email_delivered": 7754,
+        "email_read": 2556,
+        "email_complaints": 40
+    }
+}, {
+    "date": "2014-07-10T05:38:38Z",
+    "newsletter": {
+        "email_sent": 22020,
+        "email_delivered": 18712,
+        "email_read": 275,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2015-05-20T07:55:36Z",
+    "newsletter": {
+        "email_sent": 22593,
+        "email_delivered": 9544,
+        "email_read": 3246,
+        "email_complaints": 12
+    }
+}, {
+    "date": "2015-04-26T13:56:23Z",
+    "newsletter": {
+        "email_sent": 20555,
+        "email_delivered": 5757,
+        "email_read": 1828,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2015-06-27T02:57:32Z",
+    "newsletter": {
+        "email_sent": 20141,
+        "email_delivered": 19924,
+        "email_read": 1782,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2014-10-29T10:49:11Z",
+    "newsletter": {
+        "email_sent": 20387,
+        "email_delivered": 15895,
+        "email_read": 1123,
+        "email_complaints": 13
+    }
+}, {
+    "date": "2014-11-14T05:37:35Z",
+    "newsletter": {
+        "email_sent": 20411,
+        "email_delivered": 22414,
+        "email_read": 1623,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2015-06-11T09:25:02Z",
+    "newsletter": {
+        "email_sent": 21219,
+        "email_delivered": 8411,
+        "email_read": 2097,
+        "email_complaints": 2
+    }
+}, {
+    "date": "2015-06-30T04:23:46Z",
+    "newsletter": {
+        "email_sent": 22859,
+        "email_delivered": 6938,
+        "email_read": 1688,
+        "email_complaints": 6
+    }
+}, {
+    "date": "2014-08-16T06:26:48Z",
+    "newsletter": {
+        "email_sent": 20272,
+        "email_delivered": 5957,
+        "email_read": 3128,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2015-03-14T18:14:05Z",
+    "newsletter": {
+        "email_sent": 22623,
+        "email_delivered": 13488,
+        "email_read": 1886,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2015-05-27T03:32:16Z",
+    "newsletter": {
+        "email_sent": 22319,
+        "email_delivered": 21982,
+        "email_read": 3938,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2015-05-13T03:37:46Z",
+    "newsletter": {
+        "email_sent": 20387,
+        "email_delivered": 9422,
+        "email_read": 2919,
+        "email_complaints": 25
+    }
+}, {
+    "date": "2015-04-01T18:36:53Z",
+    "newsletter": {
+        "email_sent": 21332,
+        "email_delivered": 22812,
+        "email_read": 2758,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2015-06-26T11:08:01Z",
+    "newsletter": {
+        "email_sent": 21629,
+        "email_delivered": 19910,
+        "email_read": 2034,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2015-04-05T07:15:27Z",
+    "newsletter": {
+        "email_sent": 22105,
+        "email_delivered": 11896,
+        "email_read": 3909,
+        "email_complaints": 2
+    }
+}, {
+    "date": "2015-03-09T03:39:27Z",
+    "newsletter": {
+        "email_sent": 20537,
+        "email_delivered": 3057,
+        "email_read": 2016,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2014-10-21T13:48:57Z",
+    "newsletter": {
+        "email_sent": 20814,
+        "email_delivered": 7707,
+        "email_read": 660,
+        "email_complaints": 18
+    }
+}, {
+    "date": "2015-02-14T15:00:30Z",
+    "newsletter": {
+        "email_sent": 21508,
+        "email_delivered": 3171,
+        "email_read": 1643,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2014-12-24T16:09:47Z",
+    "newsletter": {
+        "email_sent": 20103,
+        "email_delivered": 19863,
+        "email_read": 3715,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2015-04-05T06:08:47Z",
+    "newsletter": {
+        "email_sent": 22851,
+        "email_delivered": 20600,
+        "email_read": 297,
+        "email_complaints": 25
+    }
+}, {
+    "date": "2015-05-07T23:26:25Z",
+    "newsletter": {
+        "email_sent": 20911,
+        "email_delivered": 8864,
+        "email_read": 3362,
+        "email_complaints": 11
+    }
+}, {
+    "date": "2014-09-14T00:16:05Z",
+    "newsletter": {
+        "email_sent": 21872,
+        "email_delivered": 18881,
+        "email_read": 1093,
+        "email_complaints": 11
+    }
+}, {
+    "date": "2015-03-24T20:37:55Z",
+    "newsletter": {
+        "email_sent": 20664,
+        "email_delivered": 12746,
+        "email_read": 1772,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2014-09-11T19:03:29Z",
+    "newsletter": {
+        "email_sent": 21541,
+        "email_delivered": 8984,
+        "email_read": 2447,
+        "email_complaints": 31
+    }
+}, {
+    "date": "2015-04-05T10:13:16Z",
+    "newsletter": {
+        "email_sent": 22475,
+        "email_delivered": 6762,
+        "email_read": 3297,
+        "email_complaints": 6
+    }
+}, {
+    "date": "2015-01-25T19:22:06Z",
+    "newsletter": {
+        "email_sent": 22036,
+        "email_delivered": 10864,
+        "email_read": 2199,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2015-02-23T10:50:15Z",
+    "newsletter": {
+        "email_sent": 22414,
+        "email_delivered": 19938,
+        "email_read": 3513,
+        "email_complaints": 9
+    }
+}, {
+    "date": "2014-09-09T19:48:08Z",
+    "newsletter": {
+        "email_sent": 22863,
+        "email_delivered": 16045,
+        "email_read": 1550,
+        "email_complaints": 11
+    }
+}, {
+    "date": "2014-10-06T00:44:17Z",
+    "newsletter": {
+        "email_sent": 22250,
+        "email_delivered": 4619,
+        "email_read": 3856,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2015-03-08T17:15:08Z",
+    "newsletter": {
+        "email_sent": 20816,
+        "email_delivered": 20460,
+        "email_read": 3099,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2015-03-01T20:55:22Z",
+    "newsletter": {
+        "email_sent": 21749,
+        "email_delivered": 9805,
+        "email_read": 886,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2015-02-06T15:57:30Z",
+    "newsletter": {
+        "email_sent": 21731,
+        "email_delivered": 4858,
+        "email_read": 2942,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2015-01-26T21:31:29Z",
+    "newsletter": {
+        "email_sent": 20548,
+        "email_delivered": 18642,
+        "email_read": 1552,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2014-07-26T15:50:13Z",
+    "newsletter": {
+        "email_sent": 20375,
+        "email_delivered": 12742,
+        "email_read": 131,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2015-05-23T22:52:19Z",
+    "newsletter": {
+        "email_sent": 21629,
+        "email_delivered": 21316,
+        "email_read": 2351,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2015-01-31T04:22:27Z",
+    "newsletter": {
+        "email_sent": 20686,
+        "email_delivered": 14653,
+        "email_read": 1775,
+        "email_complaints": 9
+    }
+}, {
+    "date": "2014-11-22T02:13:06Z",
+    "newsletter": {
+        "email_sent": 20499,
+        "email_delivered": 7598,
+        "email_read": 3952,
+        "email_complaints": 13
+    }
+}, {
+    "date": "2014-12-13T13:08:55Z",
+    "newsletter": {
+        "email_sent": 21148,
+        "email_delivered": 21828,
+        "email_read": 3469,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2015-02-24T09:20:56Z",
+    "newsletter": {
+        "email_sent": 22784,
+        "email_delivered": 4394,
+        "email_read": 2005,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2015-02-04T20:55:08Z",
+    "newsletter": {
+        "email_sent": 22489,
+        "email_delivered": 9566,
+        "email_read": 3478,
+        "email_complaints": 13
+    }
+}, {
+    "date": "2014-08-14T06:52:23Z",
+    "newsletter": {
+        "email_sent": 21231,
+        "email_delivered": 21447,
+        "email_read": 2229,
+        "email_complaints": 34
+    }
+}, {
+    "date": "2015-03-11T01:17:53Z",
+    "newsletter": {
+        "email_sent": 22624,
+        "email_delivered": 11595,
+        "email_read": 3484,
+        "email_complaints": 18
+    }
+}, {
+    "date": "2014-08-26T13:44:16Z",
+    "newsletter": {
+        "email_sent": 22263,
+        "email_delivered": 18523,
+        "email_read": 1691,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2015-01-27T02:35:16Z",
+    "newsletter": {
+        "email_sent": 20027,
+        "email_delivered": 14456,
+        "email_read": 1675,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2014-09-24T15:56:33Z",
+    "newsletter": {
+        "email_sent": 21085,
+        "email_delivered": 14820,
+        "email_read": 2989,
+        "email_complaints": 27
+    }
+}, {
+    "date": "2014-09-04T18:15:46Z",
+    "newsletter": {
+        "email_sent": 21175,
+        "email_delivered": 4160,
+        "email_read": 1913,
+        "email_complaints": 36
+    }
+}, {
+    "date": "2014-12-09T16:47:10Z",
+    "newsletter": {
+        "email_sent": 22127,
+        "email_delivered": 13083,
+        "email_read": 2565,
+        "email_complaints": 40
+    }
+}, {
+    "date": "2014-12-30T22:46:11Z",
+    "newsletter": {
+        "email_sent": 22412,
+        "email_delivered": 8193,
+        "email_read": 3883,
+        "email_complaints": 13
+    }
+}, {
+    "date": "2014-12-03T14:29:54Z",
+    "newsletter": {
+        "email_sent": 22642,
+        "email_delivered": 22489,
+        "email_read": 1585,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2015-01-02T06:51:20Z",
+    "newsletter": {
+        "email_sent": 21506,
+        "email_delivered": 7347,
+        "email_read": 1793,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2014-12-29T05:37:18Z",
+    "newsletter": {
+        "email_sent": 21406,
+        "email_delivered": 9813,
+        "email_read": 2830,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2014-08-01T01:12:53Z",
+    "newsletter": {
+        "email_sent": 22872,
+        "email_delivered": 18150,
+        "email_read": 3674,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2014-08-05T16:33:39Z",
+    "newsletter": {
+        "email_sent": 21522,
+        "email_delivered": 18660,
+        "email_read": 1977,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2014-12-14T10:57:54Z",
+    "newsletter": {
+        "email_sent": 21425,
+        "email_delivered": 18169,
+        "email_read": 2706,
+        "email_complaints": 34
+    }
+}, {
+    "date": "2015-03-09T11:58:04Z",
+    "newsletter": {
+        "email_sent": 20584,
+        "email_delivered": 17606,
+        "email_read": 3250,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2014-08-27T14:05:18Z",
+    "newsletter": {
+        "email_sent": 20974,
+        "email_delivered": 3734,
+        "email_read": 520,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2014-12-02T23:36:44Z",
+    "newsletter": {
+        "email_sent": 21065,
+        "email_delivered": 10676,
+        "email_read": 2094,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2014-07-26T03:05:45Z",
+    "newsletter": {
+        "email_sent": 21248,
+        "email_delivered": 22643,
+        "email_read": 2446,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2015-05-25T17:56:11Z",
+    "newsletter": {
+        "email_sent": 22170,
+        "email_delivered": 5506,
+        "email_read": 3519,
+        "email_complaints": 6
+    }
+}, {
+    "date": "2014-12-18T13:43:01Z",
+    "newsletter": {
+        "email_sent": 20373,
+        "email_delivered": 16877,
+        "email_read": 3155,
+        "email_complaints": 2
+    }
+}, {
+    "date": "2014-11-04T16:40:52Z",
+    "newsletter": {
+        "email_sent": 21391,
+        "email_delivered": 21497,
+        "email_read": 2563,
+        "email_complaints": 25
+    }
+}, {
+    "date": "2015-02-02T12:28:51Z",
+    "newsletter": {
+        "email_sent": 20038,
+        "email_delivered": 10300,
+        "email_read": 1854,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2014-09-28T01:07:23Z",
+    "newsletter": {
+        "email_sent": 22195,
+        "email_delivered": 10184,
+        "email_read": 3115,
+        "email_complaints": 11
+    }
+}, {
+    "date": "2014-11-09T23:32:57Z",
+    "newsletter": {
+        "email_sent": 22699,
+        "email_delivered": 13822,
+        "email_read": 736,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2014-10-01T20:26:57Z",
+    "newsletter": {
+        "email_sent": 21421,
+        "email_delivered": 13525,
+        "email_read": 894,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2014-08-20T00:28:02Z",
+    "newsletter": {
+        "email_sent": 21356,
+        "email_delivered": 17239,
+        "email_read": 1588,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2014-09-20T07:28:47Z",
+    "newsletter": {
+        "email_sent": 22394,
+        "email_delivered": 21658,
+        "email_read": 3305,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2014-08-24T14:33:07Z",
+    "newsletter": {
+        "email_sent": 21370,
+        "email_delivered": 17088,
+        "email_read": 538,
+        "email_complaints": 36
+    }
+}, {
+    "date": "2015-03-20T05:12:25Z",
+    "newsletter": {
+        "email_sent": 21418,
+        "email_delivered": 15724,
+        "email_read": 556,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2014-11-28T03:59:04Z",
+    "newsletter": {
+        "email_sent": 20384,
+        "email_delivered": 11617,
+        "email_read": 123,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2015-01-02T14:51:31Z",
+    "newsletter": {
+        "email_sent": 22297,
+        "email_delivered": 7269,
+        "email_read": 2904,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2014-08-14T16:19:12Z",
+    "newsletter": {
+        "email_sent": 22804,
+        "email_delivered": 14993,
+        "email_read": 2773,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2014-12-04T18:27:11Z",
+    "newsletter": {
+        "email_sent": 22520,
+        "email_delivered": 11193,
+        "email_read": 3677,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2014-10-03T00:29:44Z",
+    "newsletter": {
+        "email_sent": 21586,
+        "email_delivered": 17419,
+        "email_read": 2700,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2015-04-28T17:38:05Z",
+    "newsletter": {
+        "email_sent": 20739,
+        "email_delivered": 6406,
+        "email_read": 1722,
+        "email_complaints": 11
+    }
+}, {
+    "date": "2015-04-25T01:59:37Z",
+    "newsletter": {
+        "email_sent": 20573,
+        "email_delivered": 13366,
+        "email_read": 54,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2014-07-18T19:20:43Z",
+    "newsletter": {
+        "email_sent": 20750,
+        "email_delivered": 5226,
+        "email_read": 3472,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2014-11-24T21:44:31Z",
+    "newsletter": {
+        "email_sent": 22271,
+        "email_delivered": 11345,
+        "email_read": 1465,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2015-01-05T19:05:25Z",
+    "newsletter": {
+        "email_sent": 20231,
+        "email_delivered": 14303,
+        "email_read": 1630,
+        "email_complaints": 29
+    }
+}, {
+    "date": "2015-01-07T20:33:44Z",
+    "newsletter": {
+        "email_sent": 20316,
+        "email_delivered": 11111,
+        "email_read": 1990,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2015-05-16T16:34:34Z",
+    "newsletter": {
+        "email_sent": 20010,
+        "email_delivered": 6586,
+        "email_read": 934,
+        "email_complaints": 12
+    }
+}, {
+    "date": "2015-02-09T12:07:08Z",
+    "newsletter": {
+        "email_sent": 22704,
+        "email_delivered": 7099,
+        "email_read": 1555,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2014-10-01T11:04:37Z",
+    "newsletter": {
+        "email_sent": 22893,
+        "email_delivered": 18366,
+        "email_read": 1473,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2015-07-05T06:05:46Z",
+    "newsletter": {
+        "email_sent": 21162,
+        "email_delivered": 22359,
+        "email_read": 426,
+        "email_complaints": 2
+    }
+}, {
+    "date": "2014-10-15T04:59:32Z",
+    "newsletter": {
+        "email_sent": 21105,
+        "email_delivered": 9368,
+        "email_read": 2726,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2014-12-12T09:13:52Z",
+    "newsletter": {
+        "email_sent": 21864,
+        "email_delivered": 16547,
+        "email_read": 1,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2015-01-14T21:41:56Z",
+    "newsletter": {
+        "email_sent": 21932,
+        "email_delivered": 11870,
+        "email_read": 3708,
+        "email_complaints": 40
+    }
+}, {
+    "date": "2015-04-14T20:29:15Z",
+    "newsletter": {
+        "email_sent": 21272,
+        "email_delivered": 10805,
+        "email_read": 1209,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2015-04-25T19:12:13Z",
+    "newsletter": {
+        "email_sent": 20845,
+        "email_delivered": 22493,
+        "email_read": 1950,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2014-08-25T12:54:40Z",
+    "newsletter": {
+        "email_sent": 20181,
+        "email_delivered": 21458,
+        "email_read": 55,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2014-11-21T23:37:05Z",
+    "newsletter": {
+        "email_sent": 22425,
+        "email_delivered": 20557,
+        "email_read": 2949,
+        "email_complaints": 31
+    }
+}, {
+    "date": "2015-03-29T17:35:44Z",
+    "newsletter": {
+        "email_sent": 22024,
+        "email_delivered": 17197,
+        "email_read": 1264,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2015-01-16T10:50:13Z",
+    "newsletter": {
+        "email_sent": 20271,
+        "email_delivered": 17792,
+        "email_read": 1952,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2014-09-25T21:59:46Z",
+    "newsletter": {
+        "email_sent": 22620,
+        "email_delivered": 18944,
+        "email_read": 327,
+        "email_complaints": 2
+    }
+}, {
+    "date": "2015-03-09T03:02:03Z",
+    "newsletter": {
+        "email_sent": 21966,
+        "email_delivered": 20845,
+        "email_read": 2962,
+        "email_complaints": 18
+    }
+}, {
+    "date": "2014-11-29T19:37:33Z",
+    "newsletter": {
+        "email_sent": 22367,
+        "email_delivered": 19275,
+        "email_read": 1948,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2015-02-10T15:04:36Z",
+    "newsletter": {
+        "email_sent": 21325,
+        "email_delivered": 20130,
+        "email_read": 30,
+        "email_complaints": 29
+    }
+}, {
+    "date": "2015-03-19T20:09:14Z",
+    "newsletter": {
+        "email_sent": 22946,
+        "email_delivered": 5874,
+        "email_read": 885,
+        "email_complaints": 34
+    }
+}, {
+    "date": "2014-12-26T22:59:13Z",
+    "newsletter": {
+        "email_sent": 20269,
+        "email_delivered": 13570,
+        "email_read": 3433,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2014-12-08T10:52:50Z",
+    "newsletter": {
+        "email_sent": 20389,
+        "email_delivered": 15485,
+        "email_read": 452,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2015-03-16T10:11:15Z",
+    "newsletter": {
+        "email_sent": 22433,
+        "email_delivered": 20998,
+        "email_read": 1449,
+        "email_complaints": 19
+    }
+}, {
+    "date": "2015-01-03T01:51:40Z",
+    "newsletter": {
+        "email_sent": 21966,
+        "email_delivered": 11546,
+        "email_read": 3592,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2015-05-22T20:48:15Z",
+    "newsletter": {
+        "email_sent": 22197,
+        "email_delivered": 4827,
+        "email_read": 2144,
+        "email_complaints": 14
+    }
+}, {
+    "date": "2015-06-19T21:10:04Z",
+    "newsletter": {
+        "email_sent": 22999,
+        "email_delivered": 8190,
+        "email_read": 745,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2015-04-16T10:40:02Z",
+    "newsletter": {
+        "email_sent": 20826,
+        "email_delivered": 21372,
+        "email_read": 28,
+        "email_complaints": 31
+    }
+}, {
+    "date": "2014-12-21T03:02:42Z",
+    "newsletter": {
+        "email_sent": 20909,
+        "email_delivered": 8604,
+        "email_read": 529,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2015-07-03T20:46:16Z",
+    "newsletter": {
+        "email_sent": 22065,
+        "email_delivered": 19192,
+        "email_read": 2338,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2015-05-19T04:46:14Z",
+    "newsletter": {
+        "email_sent": 20316,
+        "email_delivered": 22600,
+        "email_read": 1844,
+        "email_complaints": 26
+    }
+}, {
+    "date": "2015-03-26T20:30:04Z",
+    "newsletter": {
+        "email_sent": 21920,
+        "email_delivered": 9094,
+        "email_read": 3772,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2015-05-23T17:42:08Z",
+    "newsletter": {
+        "email_sent": 20698,
+        "email_delivered": 18939,
+        "email_read": 3406,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2015-01-10T03:57:14Z",
+    "newsletter": {
+        "email_sent": 21136,
+        "email_delivered": 18615,
+        "email_read": 520,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2014-08-06T18:38:28Z",
+    "newsletter": {
+        "email_sent": 20185,
+        "email_delivered": 17578,
+        "email_read": 1448,
+        "email_complaints": 0
+    }
+}, {
+    "date": "2015-02-09T12:16:33Z",
+    "newsletter": {
+        "email_sent": 21936,
+        "email_delivered": 21366,
+        "email_read": 617,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2014-11-04T22:33:28Z",
+    "newsletter": {
+        "email_sent": 22671,
+        "email_delivered": 19575,
+        "email_read": 3077,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2015-06-28T09:17:02Z",
+    "newsletter": {
+        "email_sent": 21706,
+        "email_delivered": 9122,
+        "email_read": 1653,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2014-08-30T06:48:49Z",
+    "newsletter": {
+        "email_sent": 20412,
+        "email_delivered": 4623,
+        "email_read": 2652,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2015-02-12T17:20:23Z",
+    "newsletter": {
+        "email_sent": 22370,
+        "email_delivered": 14709,
+        "email_read": 3475,
+        "email_complaints": 25
+    }
+}, {
+    "date": "2015-06-11T11:26:10Z",
+    "newsletter": {
+        "email_sent": 22801,
+        "email_delivered": 14890,
+        "email_read": 821,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2014-08-02T19:16:30Z",
+    "newsletter": {
+        "email_sent": 21425,
+        "email_delivered": 6346,
+        "email_read": 3771,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2014-10-29T02:52:54Z",
+    "newsletter": {
+        "email_sent": 20488,
+        "email_delivered": 13092,
+        "email_read": 3015,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2014-10-23T16:15:14Z",
+    "newsletter": {
+        "email_sent": 22005,
+        "email_delivered": 16567,
+        "email_read": 158,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2015-02-28T19:50:51Z",
+    "newsletter": {
+        "email_sent": 20538,
+        "email_delivered": 7870,
+        "email_read": 1504,
+        "email_complaints": 6
+    }
+}, {
+    "date": "2014-11-22T22:41:04Z",
+    "newsletter": {
+        "email_sent": 20627,
+        "email_delivered": 8454,
+        "email_read": 3573,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2014-07-29T12:12:01Z",
+    "newsletter": {
+        "email_sent": 22922,
+        "email_delivered": 13023,
+        "email_read": 1413,
+        "email_complaints": 29
+    }
+}, {
+    "date": "2015-04-18T07:28:45Z",
+    "newsletter": {
+        "email_sent": 22171,
+        "email_delivered": 4356,
+        "email_read": 564,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2014-07-17T18:47:15Z",
+    "newsletter": {
+        "email_sent": 22541,
+        "email_delivered": 22102,
+        "email_read": 855,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2014-08-05T19:22:38Z",
+    "newsletter": {
+        "email_sent": 22962,
+        "email_delivered": 16033,
+        "email_read": 1177,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2014-09-14T12:46:05Z",
+    "newsletter": {
+        "email_sent": 22414,
+        "email_delivered": 18557,
+        "email_read": 3170,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2014-10-31T03:19:27Z",
+    "newsletter": {
+        "email_sent": 21955,
+        "email_delivered": 5775,
+        "email_read": 487,
+        "email_complaints": 22
+    }
+}, {
+    "date": "2015-02-28T07:38:34Z",
+    "newsletter": {
+        "email_sent": 22342,
+        "email_delivered": 16990,
+        "email_read": 3369,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2014-10-27T21:12:30Z",
+    "newsletter": {
+        "email_sent": 21037,
+        "email_delivered": 9417,
+        "email_read": 3736,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2015-06-19T13:25:13Z",
+    "newsletter": {
+        "email_sent": 21483,
+        "email_delivered": 4836,
+        "email_read": 2553,
+        "email_complaints": 18
+    }
+}, {
+    "date": "2014-07-25T05:32:44Z",
+    "newsletter": {
+        "email_sent": 20039,
+        "email_delivered": 20022,
+        "email_read": 2665,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2015-01-30T21:45:58Z",
+    "newsletter": {
+        "email_sent": 21537,
+        "email_delivered": 4050,
+        "email_read": 2810,
+        "email_complaints": 8
+    }
+}, {
+    "date": "2015-01-06T20:39:49Z",
+    "newsletter": {
+        "email_sent": 22994,
+        "email_delivered": 12721,
+        "email_read": 459,
+        "email_complaints": 13
+    }
+}, {
+    "date": "2014-08-04T03:15:42Z",
+    "newsletter": {
+        "email_sent": 21873,
+        "email_delivered": 7372,
+        "email_read": 652,
+        "email_complaints": 0
+    }
+}, {
+    "date": "2015-04-07T11:23:16Z",
+    "newsletter": {
+        "email_sent": 22606,
+        "email_delivered": 10827,
+        "email_read": 3812,
+        "email_complaints": 8
+    }
+}, {
+    "date": "2015-06-09T12:33:01Z",
+    "newsletter": {
+        "email_sent": 20584,
+        "email_delivered": 12688,
+        "email_read": 1012,
+        "email_complaints": 8
+    }
+}, {
+    "date": "2014-12-23T10:27:54Z",
+    "newsletter": {
+        "email_sent": 20720,
+        "email_delivered": 16899,
+        "email_read": 2391,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2014-12-24T06:07:24Z",
+    "newsletter": {
+        "email_sent": 20154,
+        "email_delivered": 13563,
+        "email_read": 1066,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2014-09-29T21:25:42Z",
+    "newsletter": {
+        "email_sent": 22399,
+        "email_delivered": 15080,
+        "email_read": 47,
+        "email_complaints": 36
+    }
+}, {
+    "date": "2015-02-18T08:47:29Z",
+    "newsletter": {
+        "email_sent": 21327,
+        "email_delivered": 20708,
+        "email_read": 3379,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2014-09-07T08:49:04Z",
+    "newsletter": {
+        "email_sent": 20265,
+        "email_delivered": 22448,
+        "email_read": 1203,
+        "email_complaints": 26
+    }
+}, {
+    "date": "2014-10-18T06:22:22Z",
+    "newsletter": {
+        "email_sent": 20020,
+        "email_delivered": 20326,
+        "email_read": 2409,
+        "email_complaints": 13
+    }
+}, {
+    "date": "2014-11-08T14:31:00Z",
+    "newsletter": {
+        "email_sent": 21232,
+        "email_delivered": 12241,
+        "email_read": 1451,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2015-01-14T01:27:39Z",
+    "newsletter": {
+        "email_sent": 21238,
+        "email_delivered": 14550,
+        "email_read": 2232,
+        "email_complaints": 36
+    }
+}, {
+    "date": "2014-07-11T22:19:00Z",
+    "newsletter": {
+        "email_sent": 20995,
+        "email_delivered": 3265,
+        "email_read": 1388,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2015-05-22T14:25:42Z",
+    "newsletter": {
+        "email_sent": 21486,
+        "email_delivered": 17019,
+        "email_read": 884,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2015-02-02T04:07:31Z",
+    "newsletter": {
+        "email_sent": 21717,
+        "email_delivered": 9406,
+        "email_read": 1343,
+        "email_complaints": 6
+    }
+}, {
+    "date": "2014-08-15T12:29:04Z",
+    "newsletter": {
+        "email_sent": 21197,
+        "email_delivered": 11947,
+        "email_read": 2638,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2014-10-19T21:39:46Z",
+    "newsletter": {
+        "email_sent": 20446,
+        "email_delivered": 13366,
+        "email_read": 374,
+        "email_complaints": 8
+    }
+}, {
+    "date": "2014-12-27T10:24:42Z",
+    "newsletter": {
+        "email_sent": 21754,
+        "email_delivered": 19788,
+        "email_read": 2191,
+        "email_complaints": 36
+    }
+}, {
+    "date": "2015-02-19T05:59:09Z",
+    "newsletter": {
+        "email_sent": 20744,
+        "email_delivered": 13145,
+        "email_read": 2167,
+        "email_complaints": 19
+    }
+}, {
+    "date": "2015-03-03T14:05:23Z",
+    "newsletter": {
+        "email_sent": 22231,
+        "email_delivered": 5232,
+        "email_read": 1027,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2014-11-16T09:43:41Z",
+    "newsletter": {
+        "email_sent": 22840,
+        "email_delivered": 6564,
+        "email_read": 3602,
+        "email_complaints": 18
+    }
+}, {
+    "date": "2014-08-17T18:32:28Z",
+    "newsletter": {
+        "email_sent": 20165,
+        "email_delivered": 8512,
+        "email_read": 1194,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2014-08-31T07:57:27Z",
+    "newsletter": {
+        "email_sent": 20071,
+        "email_delivered": 19916,
+        "email_read": 379,
+        "email_complaints": 29
+    }
+}, {
+    "date": "2014-12-11T13:11:45Z",
+    "newsletter": {
+        "email_sent": 20544,
+        "email_delivered": 14842,
+        "email_read": 870,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2015-02-17T14:54:48Z",
+    "newsletter": {
+        "email_sent": 21324,
+        "email_delivered": 22784,
+        "email_read": 1777,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2014-12-04T05:40:11Z",
+    "newsletter": {
+        "email_sent": 21713,
+        "email_delivered": 16170,
+        "email_read": 580,
+        "email_complaints": 12
+    }
+}, {
+    "date": "2015-01-28T21:30:12Z",
+    "newsletter": {
+        "email_sent": 20281,
+        "email_delivered": 22484,
+        "email_read": 1250,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2015-02-10T06:41:56Z",
+    "newsletter": {
+        "email_sent": 21752,
+        "email_delivered": 6959,
+        "email_read": 3918,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2014-08-02T04:03:28Z",
+    "newsletter": {
+        "email_sent": 20296,
+        "email_delivered": 6800,
+        "email_read": 3008,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2014-09-15T06:25:57Z",
+    "newsletter": {
+        "email_sent": 22606,
+        "email_delivered": 5261,
+        "email_read": 591,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2014-09-15T08:54:23Z",
+    "newsletter": {
+        "email_sent": 21708,
+        "email_delivered": 5565,
+        "email_read": 2477,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2014-12-09T21:28:42Z",
+    "newsletter": {
+        "email_sent": 20800,
+        "email_delivered": 12768,
+        "email_read": 3783,
+        "email_complaints": 9
+    }
+}, {
+    "date": "2015-04-26T00:08:05Z",
+    "newsletter": {
+        "email_sent": 22016,
+        "email_delivered": 9149,
+        "email_read": 842,
+        "email_complaints": 19
+    }
+}, {
+    "date": "2014-07-30T23:59:06Z",
+    "newsletter": {
+        "email_sent": 22131,
+        "email_delivered": 18916,
+        "email_read": 3702,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2015-01-09T09:01:36Z",
+    "newsletter": {
+        "email_sent": 22086,
+        "email_delivered": 13156,
+        "email_read": 3427,
+        "email_complaints": 29
+    }
+}, {
+    "date": "2015-04-20T23:49:29Z",
+    "newsletter": {
+        "email_sent": 21005,
+        "email_delivered": 5858,
+        "email_read": 3886,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2014-10-29T09:54:33Z",
+    "newsletter": {
+        "email_sent": 20421,
+        "email_delivered": 19156,
+        "email_read": 475,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2015-01-02T02:24:03Z",
+    "newsletter": {
+        "email_sent": 20247,
+        "email_delivered": 15633,
+        "email_read": 1175,
+        "email_complaints": 19
+    }
+}, {
+    "date": "2015-06-25T07:56:49Z",
+    "newsletter": {
+        "email_sent": 21239,
+        "email_delivered": 11868,
+        "email_read": 1437,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2014-12-23T09:40:11Z",
+    "newsletter": {
+        "email_sent": 22449,
+        "email_delivered": 10542,
+        "email_read": 1297,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2015-03-05T08:58:39Z",
+    "newsletter": {
+        "email_sent": 21825,
+        "email_delivered": 18656,
+        "email_read": 587,
+        "email_complaints": 22
+    }
+}, {
+    "date": "2015-03-22T03:22:09Z",
+    "newsletter": {
+        "email_sent": 22112,
+        "email_delivered": 3269,
+        "email_read": 3811,
+        "email_complaints": 14
+    }
+}, {
+    "date": "2015-01-04T00:17:49Z",
+    "newsletter": {
+        "email_sent": 21854,
+        "email_delivered": 10192,
+        "email_read": 1960,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2014-10-22T07:48:03Z",
+    "newsletter": {
+        "email_sent": 22398,
+        "email_delivered": 3867,
+        "email_read": 1078,
+        "email_complaints": 36
+    }
+}, {
+    "date": "2015-03-13T12:32:35Z",
+    "newsletter": {
+        "email_sent": 21211,
+        "email_delivered": 11729,
+        "email_read": 2282,
+        "email_complaints": 6
+    }
+}, {
+    "date": "2014-11-26T11:28:00Z",
+    "newsletter": {
+        "email_sent": 20460,
+        "email_delivered": 12772,
+        "email_read": 1292,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2014-07-15T20:56:32Z",
+    "newsletter": {
+        "email_sent": 21382,
+        "email_delivered": 7362,
+        "email_read": 1191,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2014-08-14T10:49:48Z",
+    "newsletter": {
+        "email_sent": 22324,
+        "email_delivered": 15189,
+        "email_read": 1098,
+        "email_complaints": 0
+    }
+}, {
+    "date": "2014-08-15T11:17:39Z",
+    "newsletter": {
+        "email_sent": 20936,
+        "email_delivered": 14485,
+        "email_read": 883,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2015-01-19T02:21:56Z",
+    "newsletter": {
+        "email_sent": 22449,
+        "email_delivered": 4406,
+        "email_read": 585,
+        "email_complaints": 13
+    }
+}, {
+    "date": "2015-06-21T16:24:00Z",
+    "newsletter": {
+        "email_sent": 20418,
+        "email_delivered": 11213,
+        "email_read": 3781,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2015-02-07T07:15:35Z",
+    "newsletter": {
+        "email_sent": 22778,
+        "email_delivered": 8027,
+        "email_read": 1200,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2015-03-30T21:27:11Z",
+    "newsletter": {
+        "email_sent": 20726,
+        "email_delivered": 22961,
+        "email_read": 1165,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2014-12-14T18:10:07Z",
+    "newsletter": {
+        "email_sent": 22846,
+        "email_delivered": 19573,
+        "email_read": 3175,
+        "email_complaints": 9
+    }
+}, {
+    "date": "2015-07-08T01:17:34Z",
+    "newsletter": {
+        "email_sent": 21022,
+        "email_delivered": 17162,
+        "email_read": 881,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2014-08-22T06:24:28Z",
+    "newsletter": {
+        "email_sent": 21943,
+        "email_delivered": 21238,
+        "email_read": 446,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2015-06-14T09:06:18Z",
+    "newsletter": {
+        "email_sent": 20439,
+        "email_delivered": 17271,
+        "email_read": 2672,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2014-11-23T13:09:12Z",
+    "newsletter": {
+        "email_sent": 21264,
+        "email_delivered": 8994,
+        "email_read": 3657,
+        "email_complaints": 6
+    }
+}, {
+    "date": "2015-04-04T00:15:28Z",
+    "newsletter": {
+        "email_sent": 21696,
+        "email_delivered": 8727,
+        "email_read": 429,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2014-07-23T20:46:20Z",
+    "newsletter": {
+        "email_sent": 22346,
+        "email_delivered": 20576,
+        "email_read": 2587,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2014-10-11T15:49:43Z",
+    "newsletter": {
+        "email_sent": 21966,
+        "email_delivered": 3043,
+        "email_read": 2181,
+        "email_complaints": 8
+    }
+}, {
+    "date": "2015-05-06T18:38:35Z",
+    "newsletter": {
+        "email_sent": 22226,
+        "email_delivered": 11307,
+        "email_read": 3135,
+        "email_complaints": 27
+    }
+}, {
+    "date": "2015-01-08T05:01:17Z",
+    "newsletter": {
+        "email_sent": 22858,
+        "email_delivered": 18011,
+        "email_read": 780,
+        "email_complaints": 8
+    }
+}, {
+    "date": "2014-12-26T14:01:41Z",
+    "newsletter": {
+        "email_sent": 21596,
+        "email_delivered": 4074,
+        "email_read": 35,
+        "email_complaints": 22
+    }
+}, {
+    "date": "2015-05-28T00:54:20Z",
+    "newsletter": {
+        "email_sent": 21895,
+        "email_delivered": 15274,
+        "email_read": 923,
+        "email_complaints": 13
+    }
+}, {
+    "date": "2015-03-14T15:18:13Z",
+    "newsletter": {
+        "email_sent": 20163,
+        "email_delivered": 12035,
+        "email_read": 1566,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2015-02-02T03:17:25Z",
+    "newsletter": {
+        "email_sent": 21967,
+        "email_delivered": 12668,
+        "email_read": 3837,
+        "email_complaints": 25
+    }
+}, {
+    "date": "2014-08-26T01:07:15Z",
+    "newsletter": {
+        "email_sent": 21958,
+        "email_delivered": 9816,
+        "email_read": 1556,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2014-10-20T15:07:02Z",
+    "newsletter": {
+        "email_sent": 20216,
+        "email_delivered": 19653,
+        "email_read": 1848,
+        "email_complaints": 12
+    }
+}, {
+    "date": "2014-10-07T08:23:29Z",
+    "newsletter": {
+        "email_sent": 22553,
+        "email_delivered": 21123,
+        "email_read": 3805,
+        "email_complaints": 12
+    }
+}, {
+    "date": "2015-04-02T18:56:56Z",
+    "newsletter": {
+        "email_sent": 22496,
+        "email_delivered": 5859,
+        "email_read": 3755,
+        "email_complaints": 26
+    }
+}, {
+    "date": "2014-11-25T11:15:34Z",
+    "newsletter": {
+        "email_sent": 22766,
+        "email_delivered": 16393,
+        "email_read": 2218,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2015-03-21T11:42:12Z",
+    "newsletter": {
+        "email_sent": 22472,
+        "email_delivered": 16154,
+        "email_read": 3574,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2015-03-16T16:18:24Z",
+    "newsletter": {
+        "email_sent": 20377,
+        "email_delivered": 20771,
+        "email_read": 565,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2014-10-23T05:32:52Z",
+    "newsletter": {
+        "email_sent": 20027,
+        "email_delivered": 21813,
+        "email_read": 3264,
+        "email_complaints": 12
+    }
+}, {
+    "date": "2014-07-17T18:12:44Z",
+    "newsletter": {
+        "email_sent": 20260,
+        "email_delivered": 17680,
+        "email_read": 2196,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2015-01-24T17:41:47Z",
+    "newsletter": {
+        "email_sent": 20002,
+        "email_delivered": 22895,
+        "email_read": 1523,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2014-12-06T10:57:47Z",
+    "newsletter": {
+        "email_sent": 22368,
+        "email_delivered": 22927,
+        "email_read": 1639,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2015-01-25T11:23:04Z",
+    "newsletter": {
+        "email_sent": 20330,
+        "email_delivered": 9577,
+        "email_read": 2720,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2014-11-04T09:24:57Z",
+    "newsletter": {
+        "email_sent": 21808,
+        "email_delivered": 3255,
+        "email_read": 2648,
+        "email_complaints": 34
+    }
+}, {
+    "date": "2014-10-16T08:06:00Z",
+    "newsletter": {
+        "email_sent": 20709,
+        "email_delivered": 5478,
+        "email_read": 2342,
+        "email_complaints": 1
+    }
+}, {
+    "date": "2015-02-13T00:27:50Z",
+    "newsletter": {
+        "email_sent": 20293,
+        "email_delivered": 13511,
+        "email_read": 2443,
+        "email_complaints": 0
+    }
+}, {
+    "date": "2015-02-27T20:19:12Z",
+    "newsletter": {
+        "email_sent": 22131,
+        "email_delivered": 11079,
+        "email_read": 3767,
+        "email_complaints": 11
+    }
+}, {
+    "date": "2015-05-13T09:29:53Z",
+    "newsletter": {
+        "email_sent": 22803,
+        "email_delivered": 14101,
+        "email_read": 3372,
+        "email_complaints": 14
+    }
+}, {
+    "date": "2014-08-20T18:10:55Z",
+    "newsletter": {
+        "email_sent": 21092,
+        "email_delivered": 20723,
+        "email_read": 7,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2014-08-01T09:22:30Z",
+    "newsletter": {
+        "email_sent": 21509,
+        "email_delivered": 6629,
+        "email_read": 1714,
+        "email_complaints": 13
+    }
+}, {
+    "date": "2014-07-20T21:57:25Z",
+    "newsletter": {
+        "email_sent": 20612,
+        "email_delivered": 21730,
+        "email_read": 1519,
+        "email_complaints": 8
+    }
+}, {
+    "date": "2014-10-22T10:23:08Z",
+    "newsletter": {
+        "email_sent": 21223,
+        "email_delivered": 4505,
+        "email_read": 2243,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2015-04-01T00:23:01Z",
+    "newsletter": {
+        "email_sent": 22632,
+        "email_delivered": 4411,
+        "email_read": 2729,
+        "email_complaints": 22
+    }
+}, {
+    "date": "2014-09-27T21:15:48Z",
+    "newsletter": {
+        "email_sent": 21218,
+        "email_delivered": 20815,
+        "email_read": 916,
+        "email_complaints": 0
+    }
+}, {
+    "date": "2015-05-04T02:49:58Z",
+    "newsletter": {
+        "email_sent": 20230,
+        "email_delivered": 16941,
+        "email_read": 797,
+        "email_complaints": 25
+    }
+}, {
+    "date": "2014-11-02T14:37:46Z",
+    "newsletter": {
+        "email_sent": 20924,
+        "email_delivered": 15378,
+        "email_read": 319,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2014-10-20T06:45:51Z",
+    "newsletter": {
+        "email_sent": 20469,
+        "email_delivered": 3220,
+        "email_read": 473,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2015-05-02T05:07:20Z",
+    "newsletter": {
+        "email_sent": 22771,
+        "email_delivered": 10373,
+        "email_read": 3725,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2015-04-16T19:28:22Z",
+    "newsletter": {
+        "email_sent": 22608,
+        "email_delivered": 11893,
+        "email_read": 453,
+        "email_complaints": 36
+    }
+}, {
+    "date": "2014-12-24T12:07:06Z",
+    "newsletter": {
+        "email_sent": 21363,
+        "email_delivered": 18637,
+        "email_read": 1808,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2015-01-13T02:15:41Z",
+    "newsletter": {
+        "email_sent": 22180,
+        "email_delivered": 3379,
+        "email_read": 1204,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2014-07-21T11:59:31Z",
+    "newsletter": {
+        "email_sent": 22074,
+        "email_delivered": 8065,
+        "email_read": 695,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2014-10-20T21:18:49Z",
+    "newsletter": {
+        "email_sent": 22579,
+        "email_delivered": 4137,
+        "email_read": 961,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2015-03-12T12:33:53Z",
+    "newsletter": {
+        "email_sent": 22023,
+        "email_delivered": 14199,
+        "email_read": 2753,
+        "email_complaints": 27
+    }
+}, {
+    "date": "2014-10-02T04:05:14Z",
+    "newsletter": {
+        "email_sent": 22079,
+        "email_delivered": 6359,
+        "email_read": 2731,
+        "email_complaints": 19
+    }
+}, {
+    "date": "2014-09-24T06:22:45Z",
+    "newsletter": {
+        "email_sent": 20258,
+        "email_delivered": 9957,
+        "email_read": 890,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2014-07-22T02:40:44Z",
+    "newsletter": {
+        "email_sent": 21576,
+        "email_delivered": 3563,
+        "email_read": 1078,
+        "email_complaints": 22
+    }
+}, {
+    "date": "2014-08-12T13:46:42Z",
+    "newsletter": {
+        "email_sent": 21056,
+        "email_delivered": 21858,
+        "email_read": 430,
+        "email_complaints": 11
+    }
+}, {
+    "date": "2015-01-19T13:02:56Z",
+    "newsletter": {
+        "email_sent": 22332,
+        "email_delivered": 21826,
+        "email_read": 3392,
+        "email_complaints": 14
+    }
+}, {
+    "date": "2015-06-27T08:53:17Z",
+    "newsletter": {
+        "email_sent": 22987,
+        "email_delivered": 10349,
+        "email_read": 2316,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2015-05-07T03:30:56Z",
+    "newsletter": {
+        "email_sent": 20284,
+        "email_delivered": 22611,
+        "email_read": 721,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2014-08-01T10:10:05Z",
+    "newsletter": {
+        "email_sent": 22755,
+        "email_delivered": 4288,
+        "email_read": 3595,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2015-04-28T01:59:17Z",
+    "newsletter": {
+        "email_sent": 20674,
+        "email_delivered": 16331,
+        "email_read": 29,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2015-04-29T17:02:16Z",
+    "newsletter": {
+        "email_sent": 20750,
+        "email_delivered": 11482,
+        "email_read": 1640,
+        "email_complaints": 19
+    }
+}, {
+    "date": "2014-11-25T05:48:07Z",
+    "newsletter": {
+        "email_sent": 22755,
+        "email_delivered": 9145,
+        "email_read": 2836,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2015-05-11T07:22:02Z",
+    "newsletter": {
+        "email_sent": 22661,
+        "email_delivered": 19789,
+        "email_read": 2787,
+        "email_complaints": 26
+    }
+}, {
+    "date": "2014-08-25T18:56:41Z",
+    "newsletter": {
+        "email_sent": 21148,
+        "email_delivered": 16084,
+        "email_read": 2576,
+        "email_complaints": 19
+    }
+}, {
+    "date": "2015-04-15T00:01:13Z",
+    "newsletter": {
+        "email_sent": 20351,
+        "email_delivered": 18748,
+        "email_read": 3163,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2015-02-03T14:40:30Z",
+    "newsletter": {
+        "email_sent": 20348,
+        "email_delivered": 3728,
+        "email_read": 3896,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2014-07-20T22:45:58Z",
+    "newsletter": {
+        "email_sent": 21902,
+        "email_delivered": 12149,
+        "email_read": 3093,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2015-07-02T02:16:11Z",
+    "newsletter": {
+        "email_sent": 22176,
+        "email_delivered": 21382,
+        "email_read": 2759,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2014-12-26T23:17:52Z",
+    "newsletter": {
+        "email_sent": 20518,
+        "email_delivered": 17438,
+        "email_read": 1544,
+        "email_complaints": 34
+    }
+}, {
+    "date": "2015-06-20T21:35:15Z",
+    "newsletter": {
+        "email_sent": 22092,
+        "email_delivered": 12349,
+        "email_read": 1972,
+        "email_complaints": 22
+    }
+}, {
+    "date": "2015-05-23T12:13:00Z",
+    "newsletter": {
+        "email_sent": 22284,
+        "email_delivered": 9931,
+        "email_read": 3472,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2015-06-26T22:04:43Z",
+    "newsletter": {
+        "email_sent": 21093,
+        "email_delivered": 17188,
+        "email_read": 3982,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2014-11-06T05:10:54Z",
+    "newsletter": {
+        "email_sent": 20883,
+        "email_delivered": 7837,
+        "email_read": 2893,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2014-09-25T08:49:31Z",
+    "newsletter": {
+        "email_sent": 22335,
+        "email_delivered": 11927,
+        "email_read": 451,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2014-11-20T16:41:49Z",
+    "newsletter": {
+        "email_sent": 20307,
+        "email_delivered": 16728,
+        "email_read": 3420,
+        "email_complaints": 27
+    }
+}, {
+    "date": "2015-03-09T07:24:52Z",
+    "newsletter": {
+        "email_sent": 20254,
+        "email_delivered": 21095,
+        "email_read": 249,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2015-01-31T07:12:01Z",
+    "newsletter": {
+        "email_sent": 21237,
+        "email_delivered": 21016,
+        "email_read": 1447,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2014-07-12T22:20:24Z",
+    "newsletter": {
+        "email_sent": 20385,
+        "email_delivered": 14849,
+        "email_read": 863,
+        "email_complaints": 25
+    }
+}, {
+    "date": "2014-12-12T23:31:41Z",
+    "newsletter": {
+        "email_sent": 20800,
+        "email_delivered": 5819,
+        "email_read": 1255,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2015-04-08T15:39:50Z",
+    "newsletter": {
+        "email_sent": 22284,
+        "email_delivered": 13381,
+        "email_read": 569,
+        "email_complaints": 1
+    }
+}, {
+    "date": "2015-03-09T12:07:02Z",
+    "newsletter": {
+        "email_sent": 20074,
+        "email_delivered": 18497,
+        "email_read": 3056,
+        "email_complaints": 8
+    }
+}, {
+    "date": "2015-06-27T19:38:55Z",
+    "newsletter": {
+        "email_sent": 20709,
+        "email_delivered": 9083,
+        "email_read": 3655,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2014-10-09T10:46:26Z",
+    "newsletter": {
+        "email_sent": 21449,
+        "email_delivered": 8605,
+        "email_read": 708,
+        "email_complaints": 25
+    }
+}, {
+    "date": "2014-11-06T15:41:29Z",
+    "newsletter": {
+        "email_sent": 20523,
+        "email_delivered": 20945,
+        "email_read": 3937,
+        "email_complaints": 27
+    }
+}, {
+    "date": "2015-04-10T14:01:51Z",
+    "newsletter": {
+        "email_sent": 21867,
+        "email_delivered": 12377,
+        "email_read": 362,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2014-09-12T02:18:40Z",
+    "newsletter": {
+        "email_sent": 22863,
+        "email_delivered": 3644,
+        "email_read": 818,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2015-01-22T21:55:39Z",
+    "newsletter": {
+        "email_sent": 21668,
+        "email_delivered": 21607,
+        "email_read": 3010,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2015-02-23T11:13:41Z",
+    "newsletter": {
+        "email_sent": 21594,
+        "email_delivered": 13477,
+        "email_read": 3801,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2014-12-18T10:22:22Z",
+    "newsletter": {
+        "email_sent": 22754,
+        "email_delivered": 17125,
+        "email_read": 1483,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2015-03-19T11:50:23Z",
+    "newsletter": {
+        "email_sent": 22596,
+        "email_delivered": 12354,
+        "email_read": 2564,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2014-12-27T23:46:09Z",
+    "newsletter": {
+        "email_sent": 20601,
+        "email_delivered": 5594,
+        "email_read": 2120,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2014-07-21T03:14:48Z",
+    "newsletter": {
+        "email_sent": 20120,
+        "email_delivered": 21816,
+        "email_read": 419,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2014-08-24T00:56:02Z",
+    "newsletter": {
+        "email_sent": 20694,
+        "email_delivered": 22455,
+        "email_read": 2962,
+        "email_complaints": 6
+    }
+}, {
+    "date": "2014-10-09T10:13:37Z",
+    "newsletter": {
+        "email_sent": 22503,
+        "email_delivered": 22318,
+        "email_read": 2963,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2015-06-18T18:04:56Z",
+    "newsletter": {
+        "email_sent": 20160,
+        "email_delivered": 14028,
+        "email_read": 2380,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2015-03-30T07:28:29Z",
+    "newsletter": {
+        "email_sent": 22545,
+        "email_delivered": 22951,
+        "email_read": 2725,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2015-02-27T10:31:20Z",
+    "newsletter": {
+        "email_sent": 21305,
+        "email_delivered": 14586,
+        "email_read": 917,
+        "email_complaints": 36
+    }
+}, {
+    "date": "2014-07-13T22:22:14Z",
+    "newsletter": {
+        "email_sent": 22057,
+        "email_delivered": 17511,
+        "email_read": 1093,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2014-12-01T06:40:43Z",
+    "newsletter": {
+        "email_sent": 22962,
+        "email_delivered": 16437,
+        "email_read": 23,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2015-03-25T23:20:14Z",
+    "newsletter": {
+        "email_sent": 21488,
+        "email_delivered": 20044,
+        "email_read": 3114,
+        "email_complaints": 36
+    }
+}, {
+    "date": "2014-12-08T03:50:49Z",
+    "newsletter": {
+        "email_sent": 21723,
+        "email_delivered": 18274,
+        "email_read": 2188,
+        "email_complaints": 30
+    }
+}, {
+    "date": "2014-08-07T14:37:28Z",
+    "newsletter": {
+        "email_sent": 21283,
+        "email_delivered": 11063,
+        "email_read": 1003,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2014-10-25T15:43:37Z",
+    "newsletter": {
+        "email_sent": 20255,
+        "email_delivered": 13920,
+        "email_read": 3440,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2014-11-17T10:02:31Z",
+    "newsletter": {
+        "email_sent": 21495,
+        "email_delivered": 10761,
+        "email_read": 3297,
+        "email_complaints": 22
+    }
+}, {
+    "date": "2015-05-18T22:51:27Z",
+    "newsletter": {
+        "email_sent": 22441,
+        "email_delivered": 4768,
+        "email_read": 2662,
+        "email_complaints": 18
+    }
+}, {
+    "date": "2015-05-17T07:33:12Z",
+    "newsletter": {
+        "email_sent": 22927,
+        "email_delivered": 22277,
+        "email_read": 3287,
+        "email_complaints": 6
+    }
+}, {
+    "date": "2014-12-19T01:09:53Z",
+    "newsletter": {
+        "email_sent": 21483,
+        "email_delivered": 15274,
+        "email_read": 850,
+        "email_complaints": 18
+    }
+}, {
+    "date": "2015-06-20T11:21:40Z",
+    "newsletter": {
+        "email_sent": 22142,
+        "email_delivered": 4863,
+        "email_read": 3365,
+        "email_complaints": 26
+    }
+}, {
+    "date": "2014-10-20T18:22:24Z",
+    "newsletter": {
+        "email_sent": 22706,
+        "email_delivered": 22658,
+        "email_read": 3391,
+        "email_complaints": 13
+    }
+}, {
+    "date": "2015-05-20T00:03:13Z",
+    "newsletter": {
+        "email_sent": 22420,
+        "email_delivered": 13549,
+        "email_read": 3026,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2014-09-23T22:08:29Z",
+    "newsletter": {
+        "email_sent": 21553,
+        "email_delivered": 15363,
+        "email_read": 3086,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2015-03-22T01:10:51Z",
+    "newsletter": {
+        "email_sent": 20514,
+        "email_delivered": 19521,
+        "email_read": 3270,
+        "email_complaints": 31
+    }
+}, {
+    "date": "2015-06-05T01:37:33Z",
+    "newsletter": {
+        "email_sent": 20358,
+        "email_delivered": 20329,
+        "email_read": 2974,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2015-04-30T06:17:37Z",
+    "newsletter": {
+        "email_sent": 21193,
+        "email_delivered": 14071,
+        "email_read": 3437,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2015-05-10T04:04:30Z",
+    "newsletter": {
+        "email_sent": 20462,
+        "email_delivered": 11457,
+        "email_read": 3213,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2015-01-13T17:39:42Z",
+    "newsletter": {
+        "email_sent": 21900,
+        "email_delivered": 6344,
+        "email_read": 454,
+        "email_complaints": 6
+    }
+}, {
+    "date": "2015-05-08T11:44:37Z",
+    "newsletter": {
+        "email_sent": 21339,
+        "email_delivered": 12013,
+        "email_read": 1076,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2015-05-21T21:13:45Z",
+    "newsletter": {
+        "email_sent": 20165,
+        "email_delivered": 14288,
+        "email_read": 2882,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2015-01-08T06:27:10Z",
+    "newsletter": {
+        "email_sent": 22624,
+        "email_delivered": 17577,
+        "email_read": 2327,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2014-10-12T07:45:26Z",
+    "newsletter": {
+        "email_sent": 21308,
+        "email_delivered": 20541,
+        "email_read": 821,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2015-06-09T09:27:24Z",
+    "newsletter": {
+        "email_sent": 20657,
+        "email_delivered": 15623,
+        "email_read": 3756,
+        "email_complaints": 8
+    }
+}, {
+    "date": "2014-11-18T03:35:19Z",
+    "newsletter": {
+        "email_sent": 20334,
+        "email_delivered": 13415,
+        "email_read": 3339,
+        "email_complaints": 25
+    }
+}, {
+    "date": "2014-12-24T08:34:41Z",
+    "newsletter": {
+        "email_sent": 20604,
+        "email_delivered": 18581,
+        "email_read": 651,
+        "email_complaints": 36
+    }
+}, {
+    "date": "2014-09-11T12:11:03Z",
+    "newsletter": {
+        "email_sent": 22973,
+        "email_delivered": 8704,
+        "email_read": 3717,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2015-05-09T12:01:03Z",
+    "newsletter": {
+        "email_sent": 20643,
+        "email_delivered": 17655,
+        "email_read": 1104,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2015-01-01T01:10:27Z",
+    "newsletter": {
+        "email_sent": 21265,
+        "email_delivered": 11008,
+        "email_read": 1552,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2014-12-06T21:04:40Z",
+    "newsletter": {
+        "email_sent": 20916,
+        "email_delivered": 10764,
+        "email_read": 2912,
+        "email_complaints": 29
+    }
+}, {
+    "date": "2014-10-27T19:27:48Z",
+    "newsletter": {
+        "email_sent": 20076,
+        "email_delivered": 17204,
+        "email_read": 1875,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2015-06-01T08:41:26Z",
+    "newsletter": {
+        "email_sent": 21705,
+        "email_delivered": 18049,
+        "email_read": 1165,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2014-08-06T16:01:04Z",
+    "newsletter": {
+        "email_sent": 20173,
+        "email_delivered": 9240,
+        "email_read": 960,
+        "email_complaints": 26
+    }
+}, {
+    "date": "2015-01-11T04:09:05Z",
+    "newsletter": {
+        "email_sent": 21986,
+        "email_delivered": 7150,
+        "email_read": 3355,
+        "email_complaints": 18
+    }
+}, {
+    "date": "2015-03-16T05:51:58Z",
+    "newsletter": {
+        "email_sent": 21894,
+        "email_delivered": 15206,
+        "email_read": 571,
+        "email_complaints": 12
+    }
+}, {
+    "date": "2014-10-17T16:48:42Z",
+    "newsletter": {
+        "email_sent": 21877,
+        "email_delivered": 16505,
+        "email_read": 1238,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2014-11-23T21:12:26Z",
+    "newsletter": {
+        "email_sent": 20039,
+        "email_delivered": 11796,
+        "email_read": 1516,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2014-09-18T22:46:11Z",
+    "newsletter": {
+        "email_sent": 21595,
+        "email_delivered": 9452,
+        "email_read": 3053,
+        "email_complaints": 36
+    }
+}, {
+    "date": "2015-04-23T20:49:50Z",
+    "newsletter": {
+        "email_sent": 21544,
+        "email_delivered": 21893,
+        "email_read": 2564,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2014-11-09T05:30:12Z",
+    "newsletter": {
+        "email_sent": 21841,
+        "email_delivered": 8491,
+        "email_read": 3647,
+        "email_complaints": 11
+    }
+}, {
+    "date": "2014-10-21T23:13:45Z",
+    "newsletter": {
+        "email_sent": 21877,
+        "email_delivered": 21221,
+        "email_read": 2326,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2014-08-16T03:30:47Z",
+    "newsletter": {
+        "email_sent": 22396,
+        "email_delivered": 20206,
+        "email_read": 3304,
+        "email_complaints": 14
+    }
+}, {
+    "date": "2014-08-30T15:03:09Z",
+    "newsletter": {
+        "email_sent": 20704,
+        "email_delivered": 20848,
+        "email_read": 2863,
+        "email_complaints": 25
+    }
+}, {
+    "date": "2015-04-05T23:14:07Z",
+    "newsletter": {
+        "email_sent": 20231,
+        "email_delivered": 4503,
+        "email_read": 1194,
+        "email_complaints": 22
+    }
+}, {
+    "date": "2015-06-17T01:36:03Z",
+    "newsletter": {
+        "email_sent": 22177,
+        "email_delivered": 10761,
+        "email_read": 1357,
+        "email_complaints": 25
+    }
+}, {
+    "date": "2014-08-08T15:57:12Z",
+    "newsletter": {
+        "email_sent": 21917,
+        "email_delivered": 4524,
+        "email_read": 745,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2015-02-20T18:51:36Z",
+    "newsletter": {
+        "email_sent": 20893,
+        "email_delivered": 16919,
+        "email_read": 649,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2014-12-27T10:37:58Z",
+    "newsletter": {
+        "email_sent": 22522,
+        "email_delivered": 17974,
+        "email_read": 1375,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2015-06-13T04:41:20Z",
+    "newsletter": {
+        "email_sent": 22264,
+        "email_delivered": 3411,
+        "email_read": 3456,
+        "email_complaints": 2
+    }
+}, {
+    "date": "2014-09-18T11:48:57Z",
+    "newsletter": {
+        "email_sent": 21229,
+        "email_delivered": 3886,
+        "email_read": 237,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2014-11-22T06:43:59Z",
+    "newsletter": {
+        "email_sent": 22265,
+        "email_delivered": 8806,
+        "email_read": 842,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2015-06-16T08:08:30Z",
+    "newsletter": {
+        "email_sent": 20886,
+        "email_delivered": 19943,
+        "email_read": 1041,
+        "email_complaints": 25
+    }
+}, {
+    "date": "2014-09-26T18:55:33Z",
+    "newsletter": {
+        "email_sent": 22304,
+        "email_delivered": 8742,
+        "email_read": 3177,
+        "email_complaints": 19
+    }
+}, {
+    "date": "2014-07-20T19:34:20Z",
+    "newsletter": {
+        "email_sent": 22383,
+        "email_delivered": 9982,
+        "email_read": 1644,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2014-11-17T07:27:23Z",
+    "newsletter": {
+        "email_sent": 20693,
+        "email_delivered": 16062,
+        "email_read": 665,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2015-02-10T16:27:41Z",
+    "newsletter": {
+        "email_sent": 21298,
+        "email_delivered": 12145,
+        "email_read": 1076,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2015-01-30T16:17:39Z",
+    "newsletter": {
+        "email_sent": 22003,
+        "email_delivered": 3258,
+        "email_read": 2360,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2014-11-21T13:11:35Z",
+    "newsletter": {
+        "email_sent": 21142,
+        "email_delivered": 19787,
+        "email_read": 640,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2014-08-13T05:55:46Z",
+    "newsletter": {
+        "email_sent": 21589,
+        "email_delivered": 13798,
+        "email_read": 996,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2014-11-12T11:59:52Z",
+    "newsletter": {
+        "email_sent": 20975,
+        "email_delivered": 22387,
+        "email_read": 1383,
+        "email_complaints": 34
+    }
+}, {
+    "date": "2015-05-30T16:15:46Z",
+    "newsletter": {
+        "email_sent": 21466,
+        "email_delivered": 17577,
+        "email_read": 3241,
+        "email_complaints": 6
+    }
+}, {
+    "date": "2015-02-14T05:17:05Z",
+    "newsletter": {
+        "email_sent": 20540,
+        "email_delivered": 17413,
+        "email_read": 350,
+        "email_complaints": 18
+    }
+}, {
+    "date": "2014-07-21T07:02:03Z",
+    "newsletter": {
+        "email_sent": 20438,
+        "email_delivered": 17787,
+        "email_read": 845,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2015-05-08T17:22:00Z",
+    "newsletter": {
+        "email_sent": 20450,
+        "email_delivered": 22465,
+        "email_read": 1492,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2014-12-30T20:50:02Z",
+    "newsletter": {
+        "email_sent": 21863,
+        "email_delivered": 21396,
+        "email_read": 597,
+        "email_complaints": 34
+    }
+}, {
+    "date": "2015-01-12T18:11:35Z",
+    "newsletter": {
+        "email_sent": 21629,
+        "email_delivered": 6467,
+        "email_read": 440,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2015-06-18T15:24:48Z",
+    "newsletter": {
+        "email_sent": 22979,
+        "email_delivered": 19140,
+        "email_read": 1884,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2014-07-13T10:14:30Z",
+    "newsletter": {
+        "email_sent": 22762,
+        "email_delivered": 18816,
+        "email_read": 1563,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2015-05-01T18:45:50Z",
+    "newsletter": {
+        "email_sent": 22702,
+        "email_delivered": 6709,
+        "email_read": 1513,
+        "email_complaints": 1
+    }
+}, {
+    "date": "2015-05-24T21:50:02Z",
+    "newsletter": {
+        "email_sent": 20215,
+        "email_delivered": 12148,
+        "email_read": 135,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2014-08-15T19:34:47Z",
+    "newsletter": {
+        "email_sent": 20691,
+        "email_delivered": 15278,
+        "email_read": 3269,
+        "email_complaints": 36
+    }
+}, {
+    "date": "2015-01-07T06:59:43Z",
+    "newsletter": {
+        "email_sent": 22570,
+        "email_delivered": 7755,
+        "email_read": 530,
+        "email_complaints": 0
+    }
+}, {
+    "date": "2015-02-27T23:00:11Z",
+    "newsletter": {
+        "email_sent": 20376,
+        "email_delivered": 3310,
+        "email_read": 2223,
+        "email_complaints": 40
+    }
+}, {
+    "date": "2014-09-02T14:59:24Z",
+    "newsletter": {
+        "email_sent": 20314,
+        "email_delivered": 17474,
+        "email_read": 2618,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2014-11-19T07:59:28Z",
+    "newsletter": {
+        "email_sent": 21547,
+        "email_delivered": 20038,
+        "email_read": 3314,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2015-05-03T10:28:36Z",
+    "newsletter": {
+        "email_sent": 22517,
+        "email_delivered": 21124,
+        "email_read": 865,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2014-11-22T14:25:06Z",
+    "newsletter": {
+        "email_sent": 20845,
+        "email_delivered": 4087,
+        "email_read": 3286,
+        "email_complaints": 19
+    }
+}, {
+    "date": "2015-03-17T07:51:37Z",
+    "newsletter": {
+        "email_sent": 21122,
+        "email_delivered": 5846,
+        "email_read": 2231,
+        "email_complaints": 35
+    }
+}, {
+    "date": "2015-03-31T18:21:06Z",
+    "newsletter": {
+        "email_sent": 20858,
+        "email_delivered": 3638,
+        "email_read": 2653,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2015-02-02T17:02:59Z",
+    "newsletter": {
+        "email_sent": 20820,
+        "email_delivered": 8132,
+        "email_read": 3382,
+        "email_complaints": 19
+    }
+}, {
+    "date": "2015-05-27T13:06:58Z",
+    "newsletter": {
+        "email_sent": 21973,
+        "email_delivered": 5899,
+        "email_read": 1981,
+        "email_complaints": 12
+    }
+}, {
+    "date": "2014-11-20T21:02:46Z",
+    "newsletter": {
+        "email_sent": 21886,
+        "email_delivered": 20480,
+        "email_read": 3547,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2014-07-14T17:36:41Z",
+    "newsletter": {
+        "email_sent": 22154,
+        "email_delivered": 14657,
+        "email_read": 2137,
+        "email_complaints": 1
+    }
+}, {
+    "date": "2014-07-27T01:56:48Z",
+    "newsletter": {
+        "email_sent": 20532,
+        "email_delivered": 13489,
+        "email_read": 2417,
+        "email_complaints": 11
+    }
+}, {
+    "date": "2015-04-06T03:05:07Z",
+    "newsletter": {
+        "email_sent": 20342,
+        "email_delivered": 17091,
+        "email_read": 2328,
+        "email_complaints": 22
+    }
+}, {
+    "date": "2014-08-26T08:38:37Z",
+    "newsletter": {
+        "email_sent": 21409,
+        "email_delivered": 11705,
+        "email_read": 2229,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2015-06-12T05:42:08Z",
+    "newsletter": {
+        "email_sent": 20435,
+        "email_delivered": 9701,
+        "email_read": 3792,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2014-11-28T21:58:45Z",
+    "newsletter": {
+        "email_sent": 20436,
+        "email_delivered": 12537,
+        "email_read": 1992,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2015-04-29T06:31:10Z",
+    "newsletter": {
+        "email_sent": 20793,
+        "email_delivered": 5517,
+        "email_read": 3544,
+        "email_complaints": 0
+    }
+}, {
+    "date": "2015-03-14T20:19:54Z",
+    "newsletter": {
+        "email_sent": 22169,
+        "email_delivered": 16848,
+        "email_read": 2083,
+        "email_complaints": 40
+    }
+}, {
+    "date": "2014-09-09T06:39:43Z",
+    "newsletter": {
+        "email_sent": 21110,
+        "email_delivered": 7181,
+        "email_read": 2061,
+        "email_complaints": 0
+    }
+}, {
+    "date": "2014-12-06T23:03:43Z",
+    "newsletter": {
+        "email_sent": 21866,
+        "email_delivered": 16274,
+        "email_read": 1923,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2015-01-21T23:18:08Z",
+    "newsletter": {
+        "email_sent": 20224,
+        "email_delivered": 8640,
+        "email_read": 3370,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2015-01-27T18:56:32Z",
+    "newsletter": {
+        "email_sent": 21234,
+        "email_delivered": 13710,
+        "email_read": 2445,
+        "email_complaints": 34
+    }
+}, {
+    "date": "2015-02-05T20:55:31Z",
+    "newsletter": {
+        "email_sent": 22110,
+        "email_delivered": 11633,
+        "email_read": 2988,
+        "email_complaints": 31
+    }
+}, {
+    "date": "2014-12-29T14:57:02Z",
+    "newsletter": {
+        "email_sent": 22381,
+        "email_delivered": 15659,
+        "email_read": 3256,
+        "email_complaints": 29
+    }
+}, {
+    "date": "2014-08-01T10:01:14Z",
+    "newsletter": {
+        "email_sent": 20627,
+        "email_delivered": 10505,
+        "email_read": 2799,
+        "email_complaints": 40
+    }
+}, {
+    "date": "2014-11-01T10:26:00Z",
+    "newsletter": {
+        "email_sent": 20284,
+        "email_delivered": 15943,
+        "email_read": 2645,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2015-01-13T05:51:18Z",
+    "newsletter": {
+        "email_sent": 22627,
+        "email_delivered": 14562,
+        "email_read": 1902,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2015-03-25T16:35:05Z",
+    "newsletter": {
+        "email_sent": 21899,
+        "email_delivered": 13847,
+        "email_read": 1738,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2014-07-24T09:44:25Z",
+    "newsletter": {
+        "email_sent": 20947,
+        "email_delivered": 17721,
+        "email_read": 419,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2015-07-06T12:52:00Z",
+    "newsletter": {
+        "email_sent": 22165,
+        "email_delivered": 11141,
+        "email_read": 3013,
+        "email_complaints": 24
+    }
+}, {
+    "date": "2014-11-08T01:09:12Z",
+    "newsletter": {
+        "email_sent": 22040,
+        "email_delivered": 3732,
+        "email_read": 1296,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2015-06-20T09:53:25Z",
+    "newsletter": {
+        "email_sent": 21022,
+        "email_delivered": 19267,
+        "email_read": 95,
+        "email_complaints": 34
+    }
+}, {
+    "date": "2014-12-31T07:59:25Z",
+    "newsletter": {
+        "email_sent": 21216,
+        "email_delivered": 15493,
+        "email_read": 1777,
+        "email_complaints": 8
+    }
+}, {
+    "date": "2015-07-04T11:23:11Z",
+    "newsletter": {
+        "email_sent": 20751,
+        "email_delivered": 17345,
+        "email_read": 2346,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2015-01-13T05:20:53Z",
+    "newsletter": {
+        "email_sent": 20437,
+        "email_delivered": 3663,
+        "email_read": 2412,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2015-06-08T11:02:49Z",
+    "newsletter": {
+        "email_sent": 22944,
+        "email_delivered": 10658,
+        "email_read": 1648,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2014-07-23T19:03:37Z",
+    "newsletter": {
+        "email_sent": 21256,
+        "email_delivered": 7269,
+        "email_read": 3774,
+        "email_complaints": 40
+    }
+}, {
+    "date": "2014-09-21T03:10:57Z",
+    "newsletter": {
+        "email_sent": 21927,
+        "email_delivered": 7919,
+        "email_read": 1901,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2015-01-16T23:38:19Z",
+    "newsletter": {
+        "email_sent": 22808,
+        "email_delivered": 15749,
+        "email_read": 722,
+        "email_complaints": 40
+    }
+}, {
+    "date": "2014-09-14T14:53:20Z",
+    "newsletter": {
+        "email_sent": 21497,
+        "email_delivered": 11965,
+        "email_read": 542,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2014-10-03T18:15:37Z",
+    "newsletter": {
+        "email_sent": 22105,
+        "email_delivered": 11391,
+        "email_read": 2272,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2015-05-13T16:38:54Z",
+    "newsletter": {
+        "email_sent": 20610,
+        "email_delivered": 10030,
+        "email_read": 1286,
+        "email_complaints": 22
+    }
+}, {
+    "date": "2015-04-05T14:25:41Z",
+    "newsletter": {
+        "email_sent": 20546,
+        "email_delivered": 3038,
+        "email_read": 2466,
+        "email_complaints": 8
+    }
+}, {
+    "date": "2014-12-29T19:37:55Z",
+    "newsletter": {
+        "email_sent": 21855,
+        "email_delivered": 21852,
+        "email_read": 2529,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2015-01-19T08:57:36Z",
+    "newsletter": {
+        "email_sent": 20470,
+        "email_delivered": 6923,
+        "email_read": 3747,
+        "email_complaints": 6
+    }
+}, {
+    "date": "2014-10-01T08:59:47Z",
+    "newsletter": {
+        "email_sent": 20291,
+        "email_delivered": 22300,
+        "email_read": 2088,
+        "email_complaints": 37
+    }
+}, {
+    "date": "2014-08-21T14:45:20Z",
+    "newsletter": {
+        "email_sent": 22902,
+        "email_delivered": 16155,
+        "email_read": 45,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2014-09-07T20:28:04Z",
+    "newsletter": {
+        "email_sent": 22810,
+        "email_delivered": 21011,
+        "email_read": 1361,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2014-09-19T08:18:04Z",
+    "newsletter": {
+        "email_sent": 20717,
+        "email_delivered": 10912,
+        "email_read": 2894,
+        "email_complaints": 25
+    }
+}, {
+    "date": "2014-07-14T14:33:39Z",
+    "newsletter": {
+        "email_sent": 21747,
+        "email_delivered": 4818,
+        "email_read": 1878,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2015-01-29T21:46:08Z",
+    "newsletter": {
+        "email_sent": 21785,
+        "email_delivered": 21448,
+        "email_read": 1786,
+        "email_complaints": 36
+    }
+}, {
+    "date": "2014-11-04T00:45:49Z",
+    "newsletter": {
+        "email_sent": 20368,
+        "email_delivered": 5403,
+        "email_read": 2233,
+        "email_complaints": 36
+    }
+}, {
+    "date": "2014-12-23T09:53:01Z",
+    "newsletter": {
+        "email_sent": 20140,
+        "email_delivered": 10303,
+        "email_read": 1020,
+        "email_complaints": 27
+    }
+}, {
+    "date": "2015-06-17T04:10:00Z",
+    "newsletter": {
+        "email_sent": 20967,
+        "email_delivered": 3218,
+        "email_read": 2544,
+        "email_complaints": 18
+    }
+}, {
+    "date": "2015-06-18T02:23:10Z",
+    "newsletter": {
+        "email_sent": 21628,
+        "email_delivered": 6618,
+        "email_read": 884,
+        "email_complaints": 19
+    }
+}, {
+    "date": "2014-11-03T21:41:51Z",
+    "newsletter": {
+        "email_sent": 20281,
+        "email_delivered": 18654,
+        "email_read": 3564,
+        "email_complaints": 10
+    }
+}, {
+    "date": "2015-04-24T09:50:55Z",
+    "newsletter": {
+        "email_sent": 21135,
+        "email_delivered": 3293,
+        "email_read": 3303,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2015-02-21T09:06:15Z",
+    "newsletter": {
+        "email_sent": 21663,
+        "email_delivered": 21101,
+        "email_read": 1209,
+        "email_complaints": 40
+    }
+}, {
+    "date": "2015-04-06T15:02:37Z",
+    "newsletter": {
+        "email_sent": 21806,
+        "email_delivered": 8747,
+        "email_read": 949,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2014-11-20T06:39:04Z",
+    "newsletter": {
+        "email_sent": 20393,
+        "email_delivered": 10495,
+        "email_read": 2130,
+        "email_complaints": 40
+    }
+}, {
+    "date": "2015-04-23T14:29:48Z",
+    "newsletter": {
+        "email_sent": 20246,
+        "email_delivered": 18501,
+        "email_read": 1282,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2015-01-23T23:34:18Z",
+    "newsletter": {
+        "email_sent": 20163,
+        "email_delivered": 22487,
+        "email_read": 1212,
+        "email_complaints": 3
+    }
+}, {
+    "date": "2015-02-24T18:23:15Z",
+    "newsletter": {
+        "email_sent": 20814,
+        "email_delivered": 4904,
+        "email_read": 2552,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2014-10-01T23:27:24Z",
+    "newsletter": {
+        "email_sent": 22839,
+        "email_delivered": 5148,
+        "email_read": 1630,
+        "email_complaints": 8
+    }
+}, {
+    "date": "2014-07-30T12:57:29Z",
+    "newsletter": {
+        "email_sent": 22027,
+        "email_delivered": 21547,
+        "email_read": 638,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2014-10-15T06:08:23Z",
+    "newsletter": {
+        "email_sent": 20580,
+        "email_delivered": 16599,
+        "email_read": 2229,
+        "email_complaints": 19
+    }
+}, {
+    "date": "2015-03-19T15:58:03Z",
+    "newsletter": {
+        "email_sent": 22861,
+        "email_delivered": 20552,
+        "email_read": 2035,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2015-01-27T11:28:19Z",
+    "newsletter": {
+        "email_sent": 21093,
+        "email_delivered": 10958,
+        "email_read": 218,
+        "email_complaints": 6
+    }
+}, {
+    "date": "2015-01-05T01:03:18Z",
+    "newsletter": {
+        "email_sent": 20472,
+        "email_delivered": 3025,
+        "email_read": 2603,
+        "email_complaints": 19
+    }
+}, {
+    "date": "2015-03-20T14:31:13Z",
+    "newsletter": {
+        "email_sent": 21751,
+        "email_delivered": 19453,
+        "email_read": 985,
+        "email_complaints": 22
+    }
+}, {
+    "date": "2015-05-06T18:09:15Z",
+    "newsletter": {
+        "email_sent": 21290,
+        "email_delivered": 9350,
+        "email_read": 3317,
+        "email_complaints": 12
+    }
+}, {
+    "date": "2015-04-03T15:36:56Z",
+    "newsletter": {
+        "email_sent": 20153,
+        "email_delivered": 21176,
+        "email_read": 1128,
+        "email_complaints": 11
+    }
+}, {
+    "date": "2014-07-24T04:20:48Z",
+    "newsletter": {
+        "email_sent": 20729,
+        "email_delivered": 11422,
+        "email_read": 1752,
+        "email_complaints": 36
+    }
+}, {
+    "date": "2014-10-26T01:08:33Z",
+    "newsletter": {
+        "email_sent": 22794,
+        "email_delivered": 17354,
+        "email_read": 2503,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2015-04-24T03:35:03Z",
+    "newsletter": {
+        "email_sent": 20898,
+        "email_delivered": 19625,
+        "email_read": 2842,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2015-02-14T20:38:12Z",
+    "newsletter": {
+        "email_sent": 21579,
+        "email_delivered": 14028,
+        "email_read": 2684,
+        "email_complaints": 15
+    }
+}, {
+    "date": "2014-09-15T09:06:47Z",
+    "newsletter": {
+        "email_sent": 21485,
+        "email_delivered": 3333,
+        "email_read": 1807,
+        "email_complaints": 16
+    }
+}, {
+    "date": "2014-11-07T23:28:50Z",
+    "newsletter": {
+        "email_sent": 20973,
+        "email_delivered": 10867,
+        "email_read": 1221,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2015-01-20T02:06:34Z",
+    "newsletter": {
+        "email_sent": 22170,
+        "email_delivered": 7513,
+        "email_read": 3829,
+        "email_complaints": 26
+    }
+}, {
+    "date": "2014-12-25T06:49:17Z",
+    "newsletter": {
+        "email_sent": 21728,
+        "email_delivered": 18755,
+        "email_read": 422,
+        "email_complaints": 28
+    }
+}, {
+    "date": "2014-07-17T12:14:43Z",
+    "newsletter": {
+        "email_sent": 20153,
+        "email_delivered": 17288,
+        "email_read": 1692,
+        "email_complaints": 31
+    }
+}, {
+    "date": "2015-01-03T15:55:13Z",
+    "newsletter": {
+        "email_sent": 21520,
+        "email_delivered": 19658,
+        "email_read": 3114,
+        "email_complaints": 4
+    }
+}, {
+    "date": "2014-09-07T19:25:59Z",
+    "newsletter": {
+        "email_sent": 21624,
+        "email_delivered": 10923,
+        "email_read": 2427,
+        "email_complaints": 7
+    }
+}, {
+    "date": "2015-04-25T07:31:42Z",
+    "newsletter": {
+        "email_sent": 20019,
+        "email_delivered": 14502,
+        "email_read": 1623,
+        "email_complaints": 17
+    }
+}, {
+    "date": "2014-09-21T14:00:06Z",
+    "newsletter": {
+        "email_sent": 22769,
+        "email_delivered": 21423,
+        "email_read": 2312,
+        "email_complaints": 40
+    }
+}, {
+    "date": "2015-04-14T14:26:08Z",
+    "newsletter": {
+        "email_sent": 21256,
+        "email_delivered": 17871,
+        "email_read": 1639,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2014-09-13T14:43:48Z",
+    "newsletter": {
+        "email_sent": 20427,
+        "email_delivered": 18283,
+        "email_read": 3007,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2014-12-22T09:30:43Z",
+    "newsletter": {
+        "email_sent": 22009,
+        "email_delivered": 14169,
+        "email_read": 660,
+        "email_complaints": 0
+    }
+}, {
+    "date": "2014-11-20T12:56:16Z",
+    "newsletter": {
+        "email_sent": 21371,
+        "email_delivered": 14696,
+        "email_read": 3069,
+        "email_complaints": 26
+    }
+}, {
+    "date": "2014-07-16T09:45:14Z",
+    "newsletter": {
+        "email_sent": 22208,
+        "email_delivered": 15392,
+        "email_read": 2751,
+        "email_complaints": 36
+    }
+}, {
+    "date": "2014-10-30T01:50:01Z",
+    "newsletter": {
+        "email_sent": 21642,
+        "email_delivered": 15764,
+        "email_read": 1899,
+        "email_complaints": 38
+    }
+}, {
+    "date": "2015-04-18T11:58:44Z",
+    "newsletter": {
+        "email_sent": 21554,
+        "email_delivered": 7853,
+        "email_read": 3243,
+        "email_complaints": 23
+    }
+}, {
+    "date": "2015-02-26T03:08:05Z",
+    "newsletter": {
+        "email_sent": 21641,
+        "email_delivered": 15986,
+        "email_read": 3485,
+        "email_complaints": 14
+    }
+}, {
+    "date": "2014-08-18T22:41:46Z",
+    "newsletter": {
+        "email_sent": 22359,
+        "email_delivered": 21933,
+        "email_read": 2552,
+        "email_complaints": 33
+    }
+}, {
+    "date": "2015-05-27T14:56:39Z",
+    "newsletter": {
+        "email_sent": 21480,
+        "email_delivered": 19147,
+        "email_read": 2309,
+        "email_complaints": 21
+    }
+}, {
+    "date": "2015-02-11T23:33:45Z",
+    "newsletter": {
+        "email_sent": 22883,
+        "email_delivered": 5502,
+        "email_read": 2720,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2014-11-18T04:26:24Z",
+    "newsletter": {
+        "email_sent": 21536,
+        "email_delivered": 7557,
+        "email_read": 1294,
+        "email_complaints": 5
+    }
+}, {
+    "date": "2014-11-28T16:38:37Z",
+    "newsletter": {
+        "email_sent": 21095,
+        "email_delivered": 22725,
+        "email_read": 2864,
+        "email_complaints": 15
+    }
+}]

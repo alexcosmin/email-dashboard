@@ -1,0 +1,17 @@
+<section>
+    <ul class="nav nav-pills center-pills">
+        <li ng-class="{ active:tab.isSet(1) }">
+            <a href ng-click="tab.setTab(1)">Charts</a>
+        </li>
+        <li ng-class="{ active:tab.isSet(2) }">
+            <a href ng-click="tab.setTab(2)">Tables</a>
+        </li>
+    </ul>
+
+    <!--  Email charts Tab's Content  -->
+    <email-charts ng-show="tab.isSet(1)" ></email-charts>
+
+    <!--  Email tables Tab's Content  -->
+    <email-tables ng-show="tab.isSet(2)"></email-tables>
+
+</section>
