@@ -32,4 +32,18 @@
             templateUrl: "toOrganize/email-tables.html"
         };
     });
+
+    app.directive("chartsPresentationOptions", function() {
+       return {
+           restrict: 'E',
+           templateUrl: "toOrganize/charts-presentation-options.html",
+           controller: function() {
+               this.checkboxDays = true;
+               this.checkboxWeeks = true;
+               this.checkboxMonths = false;
+               this.checkboxOverview = false;
+           },
+           controllerAs: "optionsCtrl"
+       }
+    });
 })();

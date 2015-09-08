@@ -1,22 +1,7 @@
 <div>
-    <div class="checkbox">
-        <label class="active">
-            <input type="checkbox" checked>Show email distribution over days
-        </label>
-    </div>
-    <div class="checkbox">
-        <label class="active">
-            <input type="checkbox" checked>Show email distribution over weeks
-        </label>
-    </div>
-    <div class="checkbox">
-        <label>
-            <input type="checkbox">Show email distribution over months
-        </label>
-    </div>
-    <div class="checkbox">
-        <label>
-            <input type="checkbox">Show email overview %
-        </label>
-    </div>
+    <charts-presentation-options></charts-presentation-options>
+    <h3 ng-show="optionsCtrl.checkboxDays">Some days text</h3>
+    <h3 ng-show="optionsCtrl.checkboxWeeks">Some weeks text</h3>
+    <h3 ng-show="optionsCtrl.checkboxMonths">Some months text</h3>
+    <h3 ng-show="optionsCtrl.checkboxOverview">Some overview text</h3>
 </div>
