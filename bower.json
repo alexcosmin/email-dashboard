@@ -7,8 +7,9 @@
   "private": true,
   "dependencies": {
     "angular": "~1.4.0",
-    "angular-route": "~1.4.0",
+    "angular-chart.js": "~0.8.3",
     "angular-loader": "~1.4.0",
-    "angular-mocks": "~1.4.0"
+    "angular-mocks": "~1.4.0",
+    "angular-route": "~1.4.0"
   }
 }

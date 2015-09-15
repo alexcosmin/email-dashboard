@@ -8,6 +8,7 @@
   <meta name="description" content="Email Dashboard Assignment">
   <!-- Bootstrap -->
   <link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
+  <link rel="stylesheet" type="text/css" href="bower_components/angular-chart.js/dist/angular-chart.css">
   <link rel="stylesheet" type="text/css" href="app.css">
 </head>
 <body ng-controller="DashboardController as dashCtrl">
@@ -21,11 +22,11 @@
 </div>
 
 <!--NOPE------------->
-<!--<div class="list-group" class="container">
-  <div class="list-group-item" ng-repeat="someEmail in dashCtrl.emails">
-    <h3>{{someEmail.date | date:'medium'}}</h3>
-  </div>
-</div>-->
+<!--<div class="list-group" class="container">-->
+  <!--<div class="list-group-item" ng-repeat="someEmail in dashCtrl.emailsTest">-->
+    <!--<h3>{{someEmail.date | date:'medium'}}</h3>-->
+  <!--</div>-->
+<!--</div>-->
 <!---NOPE------------->
 
 
@@ -41,8 +42,13 @@
   <div>Angular still works if: v<span app-version></span></div>-->
 
   <script src="bower_components/angular/angular.js"></script>
+  <script src="bower_components/Chart.js/Chart.min.js"></script>
+  <script src="bower_components/angular-chart.js/dist/angular-chart.js"></script>
+  <script src="bower_components/jquery/dist/jquery.min.js"></script>
+  <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
   <script src="app.js"></script>
   <script src="toOrganize/email-tabs.js"></script>
+
 
   <script src="bower_components/angular-route/angular-route.js"></script>
   <!--<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>-->

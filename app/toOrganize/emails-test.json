@@ -1,0 +1,41 @@
+[{
+    "date": "2015-06-04T22:13:18Z",
+    "newsletter": {
+        "email_sent": 20304,
+        "email_delivered": 9081,
+        "email_read": 1387,
+        "email_complaints": 40
+    }
+}, {
+    "date": "2015-06-04T12:20:32Z",
+    "newsletter": {
+        "email_sent": 22116,
+        "email_delivered": 5081,
+        "email_read": 1192,
+        "email_complaints": 39
+    }
+}, {
+    "date": "2015-06-03T10:53:03Z",
+    "newsletter": {
+        "email_sent": 20592,
+        "email_delivered": 19494,
+        "email_read": 686,
+        "email_complaints": 20
+    }
+}, {
+    "date": "2015-06-03T23:02:14Z",
+    "newsletter": {
+        "email_sent": 21164,
+        "email_delivered": 9416,
+        "email_read": 774,
+        "email_complaints": 32
+    }
+}, {
+    "date": "2015-06-01T22:13:18Z",
+    "newsletter": {
+        "email_sent": 3212,
+        "email_delivered": 3211,
+        "email_read": 123,
+        "email_complaints": 23
+    }
+}]

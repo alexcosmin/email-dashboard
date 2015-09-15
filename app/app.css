@@ -4,6 +4,20 @@
   display: flex;
   justify-content: center;
 }
+.horizontal-line {
+  /*border-color: #000000;*/
+  border-width: 2px 0;
+}
+.dropdown-margin {
+  margin-bottom: 20px;
+}
+
+/* http://stackoverflow.com/a/24008735/2616185 */
+.form-control-inline {
+  min-width: 0;
+  width: auto;
+  display: inline;
+}
 
 /*.menu {
   list-style: none;
