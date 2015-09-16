@@ -179,7 +179,7 @@
                 //    console.log("Points clicked");
                 //};
 
-                //Weeeks --------------------------------------------------------
+                //Weeks --------------------------------------------------------
                 var getWeekNumber = function(d) {
                     // Copy date so don't modify original
                     d = new Date(+d);
@@ -207,11 +207,11 @@
                     return new Date(year, actualMonth, day);
                 };
 
-                //Build array of objects from 'sortedUniqueObjects' with date as '2015 W 31'
-                //Replace 'date' field with week representation '2015 W 31'
-                var sortedObjectsWeeks = [];
+                //Build array of objects from 'sortedUniqueObjects' with date as '2015 Week 31'
+                //Replace 'date' field with week representation '2015 Week 31'
+                var sortedObjectsWeeks = JSON.parse(JSON.stringify(sortedUniqueObjects)); //Deep copy http://stackoverflow.com/a/9886013/2616185
                 for (i = 0; i < sortedUniqueObjects.length; i++) {
-                    sortedObjectsWeeks[i] = sortedUniqueObjects[i];
+                    //sortedObjectsWeeks[i] = sortedUniqueObjects[i];
                     var dateObj = convertStringToDate(sortedObjectsWeeks[i].date);
                     var weekRepresentation = getWeekNumber(dateObj);
                     sortedObjectsWeeks[i].date = weekRepresentation[0] + " Week " + weekRepresentation[1];
@@ -308,7 +308,113 @@
                     splitEmailsReadWeeks[0],
                     splitEmailsComplaintsWeeks[0]
                 ];
-                //Weeeks --------------------------------------------------------
+                //Weeks --------------------------------------------------------
+
+                //Months --------------------------------------------------------
+
+                //Format date as 'Jul 2015'
+                var formatDateMonthAndYear = function(dateInstance) {
+                    var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+                    return monthNames[dateInstance.getMonth()] + " " + dateInstance.getFullYear();
+                };
+
+                //Build array of objects from 'sortedUniqueObjects' with date as 'Jul 2015'
+                //Replace 'date' field with month representation 'Jul 2015'
+                var sortedObjectsMonths = JSON.parse(JSON.stringify(sortedUniqueObjects)); //Deep copy http://stackoverflow.com/a/9886013/2616185
+                //var sortedObjectsMonths = [];
+                for (i = 0; i < sortedUniqueObjects.length; i++) {
+                    //sortedObjectsMonths[i] = sortedUniqueObjects[i];
+                    var dateObj = convertStringToDate(sortedObjectsMonths[i].date);
+                    sortedObjectsMonths[i].date = formatDateMonthAndYear(dateObj);
+                    //console.log(sortedObjectsMonths[i].date);
+                }
+
+                //Removing date duplicates by months and merging email values -> 13 objects - 13 months
+                var seenMonths = {};
+                for (var i = 0; i < sortedObjectsMonths.length; i++) {
+                    var cur = sortedObjectsMonths[i];
+                    if (cur.date in seenMonths) {
+                        var seen_cur = seenMonths[cur.date];
+                        seen_cur.newsletter.email_sent += cur.newsletter.email_sent;
+                        seen_cur.newsletter.email_delivered += cur.newsletter.email_delivered;
+                        seen_cur.newsletter.email_read += cur.newsletter.email_read;
+                        seen_cur.newsletter.email_complaints += cur.newsletter.email_complaints;
+                    } else {
+                        seenMonths[cur.date] = cur;
+                    }
+                }
+                var sortedUniqueObjectsMonths = [];
+                for (var k in seenMonths) {
+                    sortedUniqueObjectsMonths.push(seenMonths[k]);
+                }
+
+                //Test - should be 13
+                console.log("Unique months: " + sortedUniqueObjectsMonths.length);
+
+                //Creating arrays with each field
+                var sortedUniqueDatesMonths = [];
+                var emailsSentMonths = [];
+                var emailsDeliveredMonths = [];
+                var emailsReadMonths = [];
+                var emailsComplaintsMonths = [];
+
+                for (i = 0; i < sortedUniqueObjectsMonths.length; i++) {
+                    sortedUniqueDatesMonths.push(sortedUniqueObjectsMonths[i].date);
+                    emailsSentMonths.push(sortedUniqueObjectsMonths[i].newsletter.email_sent);
+                    emailsDeliveredMonths.push(sortedUniqueObjectsMonths[i].newsletter.email_delivered);
+                    emailsReadMonths.push(sortedUniqueObjectsMonths[i].newsletter.email_read);
+                    emailsComplaintsMonths.push(sortedUniqueObjectsMonths[i].newsletter.email_complaints);
+                }
+
+                //Splitting into sub-arrays of 13 each to be consistent with days and weeks section
+                $scope.splitSortedUniqueDatesFormControlMonths = [];
+                var splitSortedUniqueDatesMonths = [];
+                var splitEmailsSentMonths = [];
+                var splitEmailsDeliveredMonths = [];
+                var splitEmailsReadMonths = [];
+                var splitEmailsComplaintsMonths = [];
+
+                var i,j,chunkSize = 13;
+                var counter = 0;
+                for (i=0,j=sortedUniqueObjectsMonths.length; i<j; i+=chunkSize) {
+                    splitSortedUniqueDatesMonths.push(sortedUniqueDatesMonths.slice(i,i+chunkSize));
+                    var lastEntry = splitSortedUniqueDatesMonths[counter].length;
+                    var formControlEntry = splitSortedUniqueDatesMonths[counter][0] + " - " + splitSortedUniqueDatesMonths[counter][lastEntry-1];
+                    //console.log(formControlEntry);
+                    $scope.splitSortedUniqueDatesFormControlMonths.push(formControlEntry);
+                    splitEmailsSentMonths.push(emailsSentMonths.slice(i,i+chunkSize));
+                    splitEmailsDeliveredMonths.push(emailsDeliveredMonths.slice(i,i+chunkSize));
+                    splitEmailsReadMonths.push(emailsReadMonths.slice(i,i+chunkSize));
+                    splitEmailsComplaintsMonths.push(emailsComplaintsMonths.slice(i,i+chunkSize));
+
+                    counter++;
+                }
+
+                //console.log("Chunks: " + counting);
+                $scope.selectedRangeMonthsChanged = function(){
+                    console.log("Months range selected: " + $scope.selectedMonthsRange);
+                    var indexSelectedRange = $scope.splitSortedUniqueDatesFormControlMonths.indexOf($scope.selectedMonthsRange);
+                    console.log("Months index of range: " + indexSelectedRange);
+                    //Refresh the chat with new data
+                    $scope.labelsMonths = splitSortedUniqueDatesMonths[indexSelectedRange];
+                    $scope.dataMonths = [
+                        splitEmailsSentMonths[indexSelectedRange],
+                        splitEmailsDeliveredMonths[indexSelectedRange],
+                        splitEmailsReadMonths[indexSelectedRange],
+                        splitEmailsComplaintsMonths[indexSelectedRange]
+                    ];
+                }
+
+                //Setup months chart
+                $scope.labelsMonths = splitSortedUniqueDatesMonths[0];
+                $scope.seriesMonths = ['Sent', 'Delivered', 'Read', 'Complaints'];
+                $scope.dataMonths = [
+                    splitEmailsSentMonths[0],
+                    splitEmailsDeliveredMonths[0],
+                    splitEmailsReadMonths[0],
+                    splitEmailsComplaintsMonths[0]
+                ];
+                //Months --------------------------------------------------------
             },
             controllerAs: "chartsCtrl"
         };
@@ -328,7 +434,7 @@
            controller: function() {
                this.checkboxDays = true;
                this.checkboxWeeks = true;
-               this.checkboxMonths = false;
+               this.checkboxMonths = true;
                this.checkboxOverview = false;
            },
            controllerAs: "optionsCtrl"

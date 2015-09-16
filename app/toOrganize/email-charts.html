@@ -1,5 +1,6 @@
 <div>
     <charts-presentation-options></charts-presentation-options>
+    <!-- Days -->
     <div ng-show="optionsCtrl.checkboxDays">
         <h3 class="text-center headline-margin">Email distribution over days</h3>
         <!--  Select date range for days -->
@@ -38,7 +39,27 @@
         </canvas>
         <!--Chart weeks-->
     </div>
+    <!-- Months -->
+    <div ng-show="optionsCtrl.checkboxMonths">
+        <hr class="horizontal-line">
+        <h3 class="text-center headline-margin">Email distribution over months</h3>
+        <!--  Select date range for months -->
+        <div class="pull-right" >
+            <p class="text-right">Choose a date range:</p>
+            <select class="form-control form-control-inline"
+                    ng-init="selectedMonthsRange = selectedMonthsRange || splitSortedUniqueDatesFormControlMonths[0]"
+                    ng-model="selectedMonthsRange"
+                    ng-options="range for range in splitSortedUniqueDatesFormControlMonths"
+                    ng-change="selectedRangeMonthsChanged()">
+            </select>
+        </div>
+        <!--Chart months-->
+        <canvas id="lineMonths" class="chart chart-line" chart-data="dataMonths" chart-labels="labelsMonths" chart-legend="true"
+                chart-series="seriesMonths" >
+        </canvas>
+        <!--Chart months-->
+    </div>
 
-    <h3 ng-show="optionsCtrl.checkboxMonths">Some months text</h3>
+    <!--<h3 ng-show="optionsCtrl.checkboxMonths">Some months text</h3>-->
     <h3 ng-show="optionsCtrl.checkboxOverview">Some overview text</h3>
 </div>
