@@ -37,15 +37,20 @@
         <!--  Select date range -->
         <div class="pull-right" >
             <p class="text-right">Choose a date range:</p>
-            <select class="form-control form-control-inline" >
-                <option>23/01/14 - 23/07/15</option>
-                <option>23/01/15 - 23/07/16</option>
-                <option>23/01/16 - 23/07/17</option>
-                <option>23/01/17 - 23/07/18</option>
-                <option>23/01/18 - 23/07/19</option>
+
+            <!--<select class="form-control form-control-inline">-->
+                <!--<option ng-repeat="range in splitSortedUniqueDatesFormControl">{{range}}</option>-->
+            <!--</select>-->
+
+            <select class="form-control form-control-inline"
+                    ng-init="selectedRange = selectedRange || splitSortedUniqueDatesFormControl[0]"
+                    ng-model="selectedRange"
+                    ng-options="range for range in splitSortedUniqueDatesFormControl"
+                    ng-change="selectedRangeChanged()">
             </select>
         </div>
         <!--chart-->
+
         <canvas id="line" class="chart chart-line" chart-data="data" chart-labels="labels" chart-legend="true"
                 chart-series="series" chart-click="onClick" >
         </canvas>

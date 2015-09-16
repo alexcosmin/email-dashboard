@@ -27,6 +27,8 @@
 
                 this.emailDatesSorted = $scope.dashCtrl.emails;
 
+                //this.splitSortedUniqueDatesFormControl = [];
+
                 //Sorting array of objects based on 'date'
                 var object_date_sort_asc = function (obj1, obj2) {
                     if (obj1.date > obj2.date) return 1;
@@ -90,14 +92,16 @@
                 };
 
                 //Testing
+                console.log("There are now: " + sortedUniqueObjects.length);
+
                 var sortedUniqueDates = [];
                 var emailsSent = [];
                 var emailsDelivered = [];
                 var emailsRead = [];
                 var emailsComplaints = [];
-                console.log("There are now: " + sortedUniqueObjects.length);
-                for (i = 0; i < 25; i++) {
-                //for (i = 0; i < sortedUniqueObjects.length; i++) {
+
+                //for (i = 0; i < 25; i++) {
+                for (i = 0; i < sortedUniqueObjects.length; i++) {
                     //console.log(sortedUniqueObjects[i]);
                     sortedUniqueObjects[i].date = formatMyDate(new Date(sortedUniqueObjects[i].date));
                     //console.log(sortedUniqueObjects[i]);
@@ -108,11 +112,50 @@
                     emailsComplaints.push(sortedUniqueObjects[i].newsletter.email_complaints);
                 }
 
+                //Splitting into sub-arrays of 25 each
+                $scope.splitSortedUniqueDatesFormControl = [];
+                var splitSortedUniqueDates = [];
+                var splitEmailsSent = [];
+                var splitEmailsDelivered = [];
+                var splitEmailsRead = [];
+                var splitEmailsComplaints = [];
+                
+                var i,j,chunkSize = 25;
+                var counter = 0;
+                for (i=0,j=sortedUniqueObjects.length; i<j; i+=chunkSize) {
+                    splitSortedUniqueDates.push(sortedUniqueDates.slice(i,i+chunkSize));
+                    var lastEntry = splitSortedUniqueDates[counter].length;
+                    var formControlEntry = splitSortedUniqueDates[counter][0] + " - " + splitSortedUniqueDates[counter][lastEntry-1];
+                    console.log(formControlEntry);
+                    $scope.splitSortedUniqueDatesFormControl.push(formControlEntry);
+                    splitEmailsSent.push(emailsSent.slice(i,i+chunkSize));
+                    splitEmailsDelivered.push(emailsDelivered.slice(i,i+chunkSize));
+                    splitEmailsRead.push(emailsRead.slice(i,i+chunkSize));
+                    splitEmailsComplaints.push(emailsComplaints.slice(i,i+chunkSize));
+
+                    counter++;
+                }
+                //console.log("Chunks: " + counting);
+                //-----------------------------
+                $scope.selectedRangeChanged = function(){
+                    console.log("Range selected: " + $scope.selectedRange);
+                    var indexSelectedRange = $scope.splitSortedUniqueDatesFormControl.indexOf($scope.selectedRange);
+                    console.log("Index of range: " + indexSelectedRange);
+                    //Refresh the chat with new data
+                    $scope.labels = splitSortedUniqueDates[indexSelectedRange];
+                    $scope.data = [
+                        splitEmailsSent[indexSelectedRange],
+                        splitEmailsDelivered[indexSelectedRange],
+                        splitEmailsRead[indexSelectedRange],
+                        splitEmailsComplaints[indexSelectedRange]
+                    ];
+                }
 
 
                 //Chart setup
                 //$scope.labels = ["January", "February", "March", "April", "May", "June", "July"];
-                $scope.labels = sortedUniqueDates;
+                //$scope.labels = sortedUniqueDates;
+                $scope.labels = splitSortedUniqueDates[0];
                 $scope.series = ['Sent', 'Delivered', 'Read', 'Complaints'];
                 //$scope.data = [
                 //    [65, 59, 80, 250, 56, 55, 40],
@@ -120,11 +163,17 @@
                 //    [32, 24, 32, 12, 54, 12, 86],
                 //    [28, 48, 40, 19, 12, 63, 63]
                 //];
+                //$scope.data = [
+                //    emailsSent,
+                //    emailsDelivered,
+                //    emailsRead,
+                //    emailsComplaints
+                //];
                 $scope.data = [
-                    emailsSent,
-                    emailsDelivered,
-                    emailsRead,
-                    emailsComplaints
+                    splitEmailsSent[0],
+                    splitEmailsDelivered[0],
+                    splitEmailsRead[0],
+                    splitEmailsComplaints[0]
                 ];
                 //$scope.onClick = function(points, evt) {
                 //    //console.log(points, evt);
