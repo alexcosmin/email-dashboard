@@ -415,6 +415,40 @@
                     splitEmailsComplaintsMonths[0]
                 ];
                 //Months --------------------------------------------------------
+
+                //Overall---------------
+                //Depends on months implementation
+                var totalSent = 0, totalDelivered = 0, totalRead = 0, totalComplaints = 0;
+                for (i = 0; i < sortedUniqueObjectsMonths.length; i++) {
+                    totalSent += emailsSentMonths[i];
+                    totalDelivered += emailsDeliveredMonths[i];
+                    totalRead += emailsReadMonths[i];
+                    totalComplaints += emailsComplaintsMonths[i];
+                }
+                var totalOverall = totalSent + totalDelivered + totalRead + totalComplaints;
+
+                console.log("Total sent: " + totalSent);
+                console.log("Total delivered: " + totalDelivered);
+                console.log("Total read: " + totalRead);
+                console.log("Total complaints: " + totalComplaints);
+
+                var sentPercentage = ((totalSent/totalOverall) * 100).toFixed(2);
+                var deliveredPercentage = ((totalDelivered/totalOverall) * 100).toFixed(2);
+                var readPercentage = ((totalRead/totalOverall) * 100).toFixed(2);
+                var complaintsPercentage = ((totalComplaints/totalOverall) * 100).toFixed(2);
+
+                //Formatting tooltip to display with %
+                $scope.optionsOverall = {
+                    tooltipTemplate  : function (label) {
+                        return label.label  + ': ' + label.value.toString() + '%';
+                    }
+                };
+
+                //Setup overall chart
+                $scope.labelsOverall = ['Sent', 'Delivered', 'Read', 'Complaints'];
+                //$scope.dataOverall = [totalSent, totalDelivered, totalRead, totalComplaints];
+                $scope.dataOverall = [sentPercentage, deliveredPercentage, readPercentage, complaintsPercentage];
+                //Overall---------------
             },
             controllerAs: "chartsCtrl"
         };
@@ -433,9 +467,9 @@
            templateUrl: "toOrganize/charts-presentation-options.html",
            controller: function() {
                this.checkboxDays = true;
-               this.checkboxWeeks = true;
-               this.checkboxMonths = true;
-               this.checkboxOverview = false;
+               this.checkboxWeeks = false;
+               this.checkboxMonths = false;
+               this.checkboxOverview = true;
            },
            controllerAs: "optionsCtrl"
        }

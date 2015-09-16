@@ -59,7 +59,13 @@
         </canvas>
         <!--Chart months-->
     </div>
-
-    <!--<h3 ng-show="optionsCtrl.checkboxMonths">Some months text</h3>-->
-    <h3 ng-show="optionsCtrl.checkboxOverview">Some overview text</h3>
+    <!-- Overall -->
+    <div ng-show="optionsCtrl.checkboxOverview">
+        <hr class="horizontal-line">
+        <h3 class="text-center headline-margin headline-margin-bottom">Email distribution overview in percentage</h3>
+        <!--Chart overall-->
+        <canvas id="pieOverall" class="chart chart-pie" chart-data="dataOverall" chart-labels="labelsOverall" chart-legend="true" chart-options="optionsOverall">
+        </canvas>
+        <!--Chart overall-->
+    </div>
 </div>

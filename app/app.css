@@ -23,6 +23,10 @@
   margin-top: 50px;
 }
 
+.headline-margin-bottom {
+  margin-bottom: 50px;
+}
+
 /*.menu {
   list-style: none;
   border-bottom: 0.1em solid black;
