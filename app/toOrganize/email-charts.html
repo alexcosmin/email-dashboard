@@ -1,47 +1,10 @@
 <div>
     <charts-presentation-options></charts-presentation-options>
     <div ng-show="optionsCtrl.checkboxDays">
-        <h3 class="text-center">Email distribution over days</h3>
-        <!--<p class="text-right">Choose a date range:</p>-->
-        <!--<div class="dropdown text-right dropdown-margin">
-            <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-                Date range
-                <span class="caret"></span>
-            </button>
-            <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenu1">
-                <li><a href="#">Action</a></li>
-                <li><a href="#">Another action</a></li>
-                <li><a href="#">Something else here</a></li>
-                <li><a href="#">Separated link</a></li>
-            </ul>
-        </div>-->
-
-        <!--  Review Form -->
-        <!--<h4>Submit a Review</h4>
-        <fieldset class="form-group">
-            <select ng-model="reviewCtrl.review.stars" class="form-control" ng-options="stars for stars in [5,4,3,2,1]" title="Stars">
-                <option value>Rate the Product</option>
-            </select>
-        </fieldset>
-        <fieldset class="form-group">
-            <textarea ng-model="reviewCtrl.review.body" class="form-control" placeholder="Write a short review of the product..." title="Review"></textarea>
-        </fieldset>
-        <fieldset class="form-group">
-            <input ng-model="reviewCtrl.review.author" type="email" class="form-control" placeholder="jimmyDean@example.org" title="Email" />
-        </fieldset>
-        <fieldset class="form-group">
-            <input type="submit" class="btn btn-primary pull-right" value="Submit Review" />
-        </fieldset>-->
-        <!--  Review Form -->
-
-        <!--  Select date range -->
+        <h3 class="text-center headline-margin">Email distribution over days</h3>
+        <!--  Select date range for days -->
         <div class="pull-right" >
             <p class="text-right">Choose a date range:</p>
-
-            <!--<select class="form-control form-control-inline">-->
-                <!--<option ng-repeat="range in splitSortedUniqueDatesFormControl">{{range}}</option>-->
-            <!--</select>-->
-
             <select class="form-control form-control-inline"
                     ng-init="selectedRange = selectedRange || splitSortedUniqueDatesFormControl[0]"
                     ng-model="selectedRange"
@@ -49,13 +12,33 @@
                     ng-change="selectedRangeChanged()">
             </select>
         </div>
-        <!--chart-->
-
-        <canvas id="line" class="chart chart-line" chart-data="data" chart-labels="labels" chart-legend="true"
-                chart-series="series" chart-click="onClick" >
+        <!--Chart days-->
+        <canvas id="lineDays" class="chart chart-line" chart-data="data" chart-labels="labels" chart-legend="true"
+                chart-series="series" >
         </canvas>
+        <!--Chart days-->
     </div>
-    <h3 ng-show="optionsCtrl.checkboxWeeks">Some weeks text</h3>
+    <!-- Weeks -->
+    <div ng-show="optionsCtrl.checkboxWeeks">
+        <hr class="horizontal-line">
+        <h3 class="text-center headline-margin">Email distribution over weeks</h3>
+        <!--  Select date range for weeks -->
+        <div class="pull-right" >
+            <p class="text-right">Choose a date range:</p>
+            <select class="form-control form-control-inline"
+                    ng-init="selectedWeeksRange = selectedWeeksRange || splitSortedUniqueDatesFormControlWeeks[0]"
+                    ng-model="selectedWeeksRange"
+                    ng-options="range for range in splitSortedUniqueDatesFormControlWeeks"
+                    ng-change="selectedRangeWeeksChanged()">
+            </select>
+        </div>
+        <!--Chart weeks-->
+        <canvas id="lineWeeks" class="chart chart-line" chart-data="dataWeeks" chart-labels="labelsWeeks" chart-legend="true"
+                chart-series="seriesWeeks" >
+        </canvas>
+        <!--Chart weeks-->
+    </div>
+
     <h3 ng-show="optionsCtrl.checkboxMonths">Some months text</h3>
     <h3 ng-show="optionsCtrl.checkboxOverview">Some overview text</h3>
 </div>
