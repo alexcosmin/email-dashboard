@@ -84,5 +84,29 @@
     <div ng-show="optionsCtrlTables.checkboxOverview">
         <hr class="horizontal-line">
         <h3 class="text-center headline-margin headline-margin-bottom">Email distribution overview in percentage</h3>
+        <div class="table-responsive">
+            <table class="table table-hover table-striped table-bordered">
+                <thead>
+                <tr>
+                    <th>From date</th>
+                    <th>To date</th>
+                    <th>Sent</th>
+                    <th>Delivered</th>
+                    <th>Read</th>
+                    <th>Complaints</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>{{fromDateOverview}}</td>
+                    <td>{{toDateOverview}}</td>
+                    <td>{{sentPercentageOverviewCopy}}</td>
+                    <td>{{deliveredPercentageOverviewCopy}}</td>
+                    <td>{{readPercentageOverviewCopy}}</td>
+                    <td>{{complaintsPercentageOverviewCopy}}</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
     </div>
 </div>

@@ -439,6 +439,11 @@
                 var deliveredPercentage = ((totalDelivered/totalOverall) * 100).toFixed(2);
                 var readPercentage = ((totalRead/totalOverall) * 100).toFixed(2);
                 var complaintsPercentage = ((totalComplaints/totalOverall) * 100).toFixed(2);
+                $scope.sentPercentageOverview = sentPercentage;
+                $scope.deliveredPercentageOverview = deliveredPercentage;
+                $scope.readPercentageOverview = readPercentage;
+                $scope.complaintsPercentageOverview = complaintsPercentage;
+
 
                 //Formatting tooltip to display with %
                 $scope.optionsOverall = {
@@ -466,6 +471,13 @@
                 $scope.formattedDaysArrayCopy = $scope.formattedDaysArray;
                 $scope.formattedWeeksArrayCopy = $scope.formattedWeeksArray;
                 $scope.formattedMonthsArrayCopy = $scope.formattedMonthsArray;
+                $scope.fromDateOverview = $scope.formattedDaysArrayCopy[0].date;
+                $scope.toDateOverview = $scope.formattedDaysArrayCopy[$scope.formattedDaysArrayCopy.length - 1].date;
+                $scope.sentPercentageOverviewCopy = $scope.sentPercentageOverview + " %";
+                $scope.deliveredPercentageOverviewCopy = $scope.deliveredPercentageOverview + " %";
+                $scope.readPercentageOverviewCopy = $scope.readPercentageOverview + " %";
+                $scope.complaintsPercentageOverviewCopy = $scope.complaintsPercentageOverview + " %";
+
                 console.log("Rows in days table: " + $scope.formattedDaysArrayCopy.length);
                 console.log("Rows in weeks table: " + $scope.formattedWeeksArrayCopy.length);
                 console.log("Rows in months table: " + $scope.formattedMonthsArrayCopy.length);
