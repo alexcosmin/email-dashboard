@@ -2,7 +2,7 @@
   "name": "email-dashboard",
   "description": "GAN Integrity Solutions assignment",
   "version": "1.0.0",
-  "homepage": "change this to my Angular repo",
+  "homepage": "https://github.com/alexcosmin/email-dashboard",
   "license": "MIT",
   "private": true,
   "dependencies": {

@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "description": "GAN Integrity Solutions assignment",
-  "repository": "change this to my Angular repo",
+  "repository": "https://github.com/alexcosmin/email-dashboard",
   "license": "MIT",
   "devDependencies": {
     "bower": "^1.3.1",
