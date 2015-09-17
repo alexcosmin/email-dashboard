@@ -29,16 +29,38 @@
     <!-- Weeks -->
     <div ng-show="optionsCtrlTables.checkboxWeeks">
         <hr class="horizontal-line">
-        <h3 class="text-center headline-margin">Email distribution over weeks</h3>
+        <h3 class="text-center headline-margin headline-margin-bottom">Email distribution over weeks</h3>
+        <div class="table-responsive">
+            <table class="table table-hover table-striped table-bordered">
+                <thead>
+                <tr>
+                    <th>Week</th>
+                    <th>Sent</th>
+                    <th>Delivered</th>
+                    <th>Read</th>
+                    <th>Complaints</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr ng-repeat="dateInfo in formattedWeeksArrayCopy">
+                    <td>{{dateInfo.date}}</td>
+                    <td>{{dateInfo.newsletter.email_sent}}</td>
+                    <td>{{dateInfo.newsletter.email_delivered}}</td>
+                    <td>{{dateInfo.newsletter.email_read}}</td>
+                    <td>{{dateInfo.newsletter.email_complaints}}</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
     </div>
     <!-- Months -->
     <div ng-show="optionsCtrlTables.checkboxMonths">
         <hr class="horizontal-line">
-        <h3 class="text-center headline-margin">Email distribution over months</h3>
+        <h3 class="text-center headline-margin headline-margin-bottom">Email distribution over months</h3>
     </div>
     <!-- Overall -->
     <div ng-show="optionsCtrlTables.checkboxOverview">
         <hr class="horizontal-line">
-        <h3 class="text-center headline-margin">Email distribution overview in percentage</h3>
+        <h3 class="text-center headline-margin headline-margin-bottom">Email distribution overview in percentage</h3>
     </div>
 </div>

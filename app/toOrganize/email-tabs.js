@@ -260,6 +260,7 @@
                     emailsReadWeeks.push(sortedUniqueObjectsWeeks[i].newsletter.email_read);
                     emailsComplaintsWeeks.push(sortedUniqueObjectsWeeks[i].newsletter.email_complaints);
                 }
+                $scope.formattedWeeksArray = sortedUniqueObjectsWeeks;
 
                 //Splitting into sub-arrays of 27 each (because total 53)
                 $scope.splitSortedUniqueDatesFormControlWeeks = [];
@@ -462,7 +463,9 @@
             controller: function($scope) {
                 //Tables magic goes here
                 $scope.formattedDaysArrayCopy = $scope.formattedDaysArray;
+                $scope.formattedWeeksArrayCopy = $scope.formattedWeeksArray;
                 console.log("Rows in days table: " + $scope.formattedDaysArrayCopy.length);
+                console.log("Rows in weeks table: " + $scope.formattedWeeksArrayCopy.length);
             },
             controllerAs: "tablesCtrl"
         };
