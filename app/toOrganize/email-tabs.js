@@ -6,7 +6,7 @@
             restrict: "E",
             templateUrl: "toOrganize/email-tabs.html",
             controller: function() {
-                this.tab = 2;
+                this.tab = 1;
 
                 this.isSet = function(checkTab) {
                     return this.tab === checkTab;
@@ -506,7 +506,7 @@
             templateUrl: "toOrganize/tables-presentation-options.html",
             controller: function() {
                 this.checkboxDays = false;
-                this.checkboxWeeks = true;
+                this.checkboxWeeks = false;
                 this.checkboxMonths = true;
                 this.checkboxOverview = true;
             },
