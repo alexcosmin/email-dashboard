@@ -57,6 +57,28 @@
     <div ng-show="optionsCtrlTables.checkboxMonths">
         <hr class="horizontal-line">
         <h3 class="text-center headline-margin headline-margin-bottom">Email distribution over months</h3>
+        <div class="table-responsive">
+            <table class="table table-hover table-striped table-bordered">
+                <thead>
+                <tr>
+                    <th>Month</th>
+                    <th>Sent</th>
+                    <th>Delivered</th>
+                    <th>Read</th>
+                    <th>Complaints</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr ng-repeat="dateInfo in formattedMonthsArrayCopy">
+                    <td>{{dateInfo.date}}</td>
+                    <td>{{dateInfo.newsletter.email_sent}}</td>
+                    <td>{{dateInfo.newsletter.email_delivered}}</td>
+                    <td>{{dateInfo.newsletter.email_read}}</td>
+                    <td>{{dateInfo.newsletter.email_complaints}}</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
     </div>
     <!-- Overall -->
     <div ng-show="optionsCtrlTables.checkboxOverview">
