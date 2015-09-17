@@ -506,9 +506,9 @@
             templateUrl: "toOrganize/tables-presentation-options.html",
             controller: function() {
                 this.checkboxDays = true;
-                this.checkboxWeeks = false;
-                this.checkboxMonths = false;
-                this.checkboxOverview = false;
+                this.checkboxWeeks = true;
+                this.checkboxMonths = true;
+                this.checkboxOverview = true;
             },
             controllerAs: "optionsCtrlTables"
         }

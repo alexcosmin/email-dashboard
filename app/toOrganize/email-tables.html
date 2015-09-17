@@ -4,7 +4,7 @@
     <div ng-show="optionsCtrlTables.checkboxDays">
         <h3 class="text-center headline-margin headline-margin-bottom">Email distribution over days</h3>
         <div class="table-responsive">
-            <table class="table table-hover table-striped">
+            <table st-table="formattedDaysArrayCopy" class="table table-hover table-striped">
                 <thead>
                     <tr>
                         <th>Day</th>
@@ -23,6 +23,13 @@
                         <td>{{dateInfo.newsletter.email_complaints}}</td>
                     </tr>
                 </tbody>
+                <tfoot>
+                <tr>
+                    <td colspan="5" class="text-center">
+                        <div st-pagination="" st-items-by-page="10" st-displayed-pages="7"></div>
+                    </td>
+                </tr>
+                </tfoot>
             </table>
         </div>
     </div>
@@ -31,7 +38,7 @@
         <hr class="horizontal-line">
         <h3 class="text-center headline-margin headline-margin-bottom">Email distribution over weeks</h3>
         <div class="table-responsive">
-            <table class="table table-hover table-striped">
+            <table st-table="formattedWeeksArrayCopy" class="table table-hover table-striped">
                 <thead>
                 <tr>
                     <th>Week</th>
@@ -50,6 +57,13 @@
                     <td>{{dateInfo.newsletter.email_complaints}}</td>
                 </tr>
                 </tbody>
+                <tfoot>
+                <tr>
+                    <td colspan="5" class="text-center">
+                        <div st-pagination="" st-items-by-page="10" st-displayed-pages="7"></div>
+                    </td>
+                </tr>
+                </tfoot>
             </table>
         </div>
     </div>
@@ -58,7 +72,7 @@
         <hr class="horizontal-line">
         <h3 class="text-center headline-margin headline-margin-bottom">Email distribution over months</h3>
         <div class="table-responsive">
-            <table class="table table-hover table-striped">
+            <table st-table="formattedMonthsArrayCopy" class="table table-hover table-striped">
                 <thead>
                 <tr>
                     <th>Month</th>
@@ -77,6 +91,13 @@
                     <td>{{dateInfo.newsletter.email_complaints}}</td>
                 </tr>
                 </tbody>
+                <tfoot>
+                <tr>
+                    <td colspan="5" class="text-center">
+                        <div st-pagination="" st-items-by-page="10" st-displayed-pages="7"></div>
+                    </td>
+                </tr>
+                </tfoot>
             </table>
         </div>
     </div>
