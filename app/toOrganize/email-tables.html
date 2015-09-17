@@ -15,26 +15,12 @@
                      </tr>
                 </thead>
                 <tbody>
-                    <tr>
-                        <td>23/05/1992</td>
-                        <td>200</td>
-                        <td>100</td>
-                        <td>50</td>
-                        <td>30</td>
-                    </tr>
-                    <tr>
-                        <td>24/05/1992</td>
-                        <td>300</td>
-                        <td>200</td>
-                        <td>150</td>
-                        <td>130</td>
-                    </tr>
-                    <tr>
-                        <td>25/06/2008</td>
-                        <td>400</td>
-                        <td>300</td>
-                        <td>250</td>
-                        <td>230</td>
+                    <tr ng-repeat="dateInfo in formattedDaysArrayCopy">
+                        <td>{{dateInfo.date}}</td>
+                        <td>{{dateInfo.newsletter.email_sent}}</td>
+                        <td>{{dateInfo.newsletter.email_delivered}}</td>
+                        <td>{{dateInfo.newsletter.email_read}}</td>
+                        <td>{{dateInfo.newsletter.email_complaints}}</td>
                     </tr>
                 </tbody>
             </table>

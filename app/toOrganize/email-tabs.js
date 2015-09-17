@@ -110,6 +110,7 @@
                     emailsRead.push(sortedUniqueObjects[i].newsletter.email_read);
                     emailsComplaints.push(sortedUniqueObjects[i].newsletter.email_complaints);
                 }
+                $scope.formattedDaysArray = sortedUniqueObjects;
 
                 //Splitting into sub-arrays of 25 each
                 $scope.splitSortedUniqueDatesFormControl = [];
@@ -460,7 +461,8 @@
             templateUrl: "toOrganize/email-tables.html",
             controller: function($scope) {
                 //Tables magic goes here
-
+                $scope.formattedDaysArrayCopy = $scope.formattedDaysArray;
+                console.log("Rows in days table: " + $scope.formattedDaysArrayCopy.length);
             },
             controllerAs: "tablesCtrl"
         };
@@ -485,9 +487,9 @@
             restrict: 'E',
             templateUrl: "toOrganize/tables-presentation-options.html",
             controller: function() {
-                this.checkboxDays = true;
-                this.checkboxWeeks = false;
-                this.checkboxMonths = false;
+                this.checkboxDays = false;
+                this.checkboxWeeks = true;
+                this.checkboxMonths = true;
                 this.checkboxOverview = true;
             },
             controllerAs: "optionsCtrlTables"
