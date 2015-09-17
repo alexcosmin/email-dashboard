@@ -1,7 +1,7 @@
 'use strict';
 
 (function() {
-  var app = angular.module('emailDashboardApp', ['chart.js', 'smart-table', 'dashboard-directives']);
+  var app = angular.module('emailDashboardApp', ['chart.js', 'smart-table', 'nav-options-directive', 'charts-directives', 'tables-directives']);
 
   app.controller('DashboardController',['$http', function($http){
     var dashboard = this;

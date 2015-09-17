@@ -1,25 +1,7 @@
 (function() {
-    var app = angular.module('dashboard-directives', []);
+    var app = angular.module('charts-directives', []);
 
-    app.directive("emailTabs", function() {
-        return {
-            restrict: "E",
-            templateUrl: "toOrganize/email-tabs.html",
-            controller: function() {
-                this.tab = 1;
-
-                this.isSet = function(checkTab) {
-                    return this.tab === checkTab;
-                };
-                this.setTab = function(activeTab) {
-                    this.tab = activeTab;
-                };
-            },
-            controllerAs: "tab"
-        };
-    });
-
-    app.directive("emailCharts", function() {
+    app.directive("chartsBody", function() {
         return {
             restrict: 'E',
             templateUrl: "components/charts/charts-body.html",
@@ -400,55 +382,17 @@
         };
     });
 
-    app.directive("emailTables", function() {
-        return {
-            restrict: 'E',
-            templateUrl: "components/tables/tables-body.html",
-            controller: function($scope) {
-                //Tables magic goes here
-                $scope.formattedDaysArrayCopy = $scope.formattedDaysArray;
-                $scope.formattedWeeksArrayCopy = $scope.formattedWeeksArray;
-                $scope.formattedMonthsArrayCopy = $scope.formattedMonthsArray;
-                $scope.fromDateOverview = $scope.formattedDaysArrayCopy[0].date;
-                $scope.toDateOverview = $scope.formattedDaysArrayCopy[$scope.formattedDaysArrayCopy.length - 1].date;
-                $scope.sentPercentageOverviewCopy = $scope.sentPercentageOverview + " %";
-                $scope.deliveredPercentageOverviewCopy = $scope.deliveredPercentageOverview + " %";
-                $scope.readPercentageOverviewCopy = $scope.readPercentageOverview + " %";
-                $scope.complaintsPercentageOverviewCopy = $scope.complaintsPercentageOverview + " %";
-
-                console.log("Rows in days table: " + $scope.formattedDaysArrayCopy.length);
-                console.log("Rows in weeks table: " + $scope.formattedWeeksArrayCopy.length);
-                console.log("Rows in months table: " + $scope.formattedMonthsArrayCopy.length);
-            },
-            controllerAs: "tablesCtrl"
-        };
-    });
-
     app.directive("chartsPresentationOptions", function() {
-       return {
-           restrict: 'E',
-           templateUrl: "components/charts/charts-presentation-options.html",
-           controller: function() {
-               this.checkboxDays = true;
-               this.checkboxWeeks = true;
-               this.checkboxMonths = true;
-               this.checkboxOverview = true;
-           },
-           controllerAs: "optionsCtrl"
-       }
-    });
-
-    app.directive("tablesPresentationOptions", function() {
         return {
             restrict: 'E',
-            templateUrl: "components/tables/tables-presentation-options.html",
+            templateUrl: "components/charts/charts-presentation-options.html",
             controller: function() {
                 this.checkboxDays = true;
                 this.checkboxWeeks = true;
                 this.checkboxMonths = true;
                 this.checkboxOverview = true;
             },
-            controllerAs: "optionsCtrlTables"
+            controllerAs: "optionsCtrl"
         }
     });
 })();
