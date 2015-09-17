@@ -1,3 +1,22 @@
 <div>
-    <h3>Tables go here</h3>
+    <tables-presentation-options></tables-presentation-options>
+    <!-- Days -->
+    <div ng-show="optionsCtrlTables.checkboxDays">
+        <h3 class="text-center headline-margin">Email distribution over days</h3>
+    </div>
+    <!-- Weeks -->
+    <div ng-show="optionsCtrlTables.checkboxWeeks">
+        <hr class="horizontal-line">
+        <h3 class="text-center headline-margin">Email distribution over weeks</h3>
+    </div>
+    <!-- Months -->
+    <div ng-show="optionsCtrlTables.checkboxMonths">
+        <hr class="horizontal-line">
+        <h3 class="text-center headline-margin">Email distribution over months</h3>
+    </div>
+    <!-- Overall -->
+    <div ng-show="optionsCtrlTables.checkboxOverview">
+        <hr class="horizontal-line">
+        <h3 class="text-center headline-margin">Email distribution overview in percentage</h3>
+    </div>
 </div>
