@@ -2,7 +2,43 @@
     <tables-presentation-options></tables-presentation-options>
     <!-- Days -->
     <div ng-show="optionsCtrlTables.checkboxDays">
-        <h3 class="text-center headline-margin">Email distribution over days</h3>
+        <h3 class="text-center headline-margin headline-margin-bottom">Email distribution over days</h3>
+        <div class="table-responsive">
+            <table class="table table-hover table-striped table-bordered">
+                <thead>
+                    <tr>
+                        <th>Day</th>
+                        <th>Sent</th>
+                        <th>Delivered</th>
+                        <th>Read</th>
+                        <th>Complaints</th>
+                     </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>23/05/1992</td>
+                        <td>200</td>
+                        <td>100</td>
+                        <td>50</td>
+                        <td>30</td>
+                    </tr>
+                    <tr>
+                        <td>24/05/1992</td>
+                        <td>300</td>
+                        <td>200</td>
+                        <td>150</td>
+                        <td>130</td>
+                    </tr>
+                    <tr>
+                        <td>25/06/2008</td>
+                        <td>400</td>
+                        <td>300</td>
+                        <td>250</td>
+                        <td>230</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
     </div>
     <!-- Weeks -->
     <div ng-show="optionsCtrlTables.checkboxWeeks">

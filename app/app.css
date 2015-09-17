@@ -27,6 +27,10 @@
   margin-bottom: 50px;
 }
 
+.table td, th{
+  text-align: center;
+}
+
 /*.menu {
   list-style: none;
   border-bottom: 0.1em solid black;

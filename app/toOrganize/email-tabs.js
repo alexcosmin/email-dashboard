@@ -457,7 +457,12 @@
     app.directive("emailTables", function() {
         return {
             restrict: 'E',
-            templateUrl: "toOrganize/email-tables.html"
+            templateUrl: "toOrganize/email-tables.html",
+            controller: function($scope) {
+                //Tables magic goes here
+
+            },
+            controllerAs: "tablesCtrl"
         };
     });
 
