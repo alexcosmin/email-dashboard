@@ -6,7 +6,7 @@
             restrict: "E",
             templateUrl: "toOrganize/email-tabs.html",
             controller: function() {
-                this.tab = 2;
+                this.tab = 1;
 
                 this.isSet = function(checkTab) {
                     return this.tab === checkTab;
@@ -22,12 +22,9 @@
     app.directive("emailCharts", function() {
         return {
             restrict: 'E',
-            templateUrl: "toOrganize/email-charts.html",
+            templateUrl: "components/charts/charts-body.html",
             controller: function($scope) {
-
                 this.emailDatesSorted = $scope.dashCtrl.emails;
-
-                //this.splitSortedUniqueDatesFormControl = [];
 
                 //Sorting array of objects based on 'date'
                 var object_date_sort_asc = function (obj1, obj2) {
@@ -35,23 +32,12 @@
                     if (obj1.date < obj2.date) return -1;
                     return 0;
                 };
-
-                //console.log("Initial array emailDatesSorted: ");
-                //for (var i = 0; i < this.emailDatesSorted.length; i++) {
-                //    console.log(this.emailDatesSorted[i].date);
-                //}
                 this.emailDatesSorted.sort(object_date_sort_asc);
-                //console.log("Sorted array emailDatesSorted: ");
-                //for (var i = 0; i < this.emailDatesSorted.length; i++) {
-                //    console.log(this.emailDatesSorted[i].date);
-                //}
 
                 //Resetting the hours
                 for (var i = 0; i < this.emailDatesSorted.length; i++) {
                     var now = new Date(this.emailDatesSorted[i].date);
-                    //var now_utc = new Date(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(),  now.getUTCHours(), now.getUTCMinutes(), now.getUTCSeconds());
                     var now_utc = new Date(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate());
-                    //now_utc.setHours(0,0,0,0);
                     this.emailDatesSorted[i].date = now_utc.toString();
                 }
 
@@ -91,7 +77,6 @@
                     return day + "/" + month + "/" + year;
                 };
 
-                //Testing
                 console.log("Unique days: " + sortedUniqueObjects.length);
 
                 var sortedUniqueDates = [];
@@ -101,9 +86,7 @@
                 var emailsComplaints = [];
 
                 for (i = 0; i < sortedUniqueObjects.length; i++) {
-                    //console.log(sortedUniqueObjects[i]);
                     sortedUniqueObjects[i].date = formatMyDate(new Date(sortedUniqueObjects[i].date));
-                    //console.log(sortedUniqueObjects[i]);
                     sortedUniqueDates.push(sortedUniqueObjects[i].date);
                     emailsSent.push(sortedUniqueObjects[i].newsletter.email_sent);
                     emailsDelivered.push(sortedUniqueObjects[i].newsletter.email_delivered);
@@ -126,7 +109,6 @@
                     splitSortedUniqueDates.push(sortedUniqueDates.slice(i,i+chunkSize));
                     var lastEntry = splitSortedUniqueDates[counter].length;
                     var formControlEntry = splitSortedUniqueDates[counter][0] + " - " + splitSortedUniqueDates[counter][lastEntry-1];
-                    //console.log(formControlEntry);
                     $scope.splitSortedUniqueDatesFormControl.push(formControlEntry);
                     splitEmailsSent.push(emailsSent.slice(i,i+chunkSize));
                     splitEmailsDelivered.push(emailsDelivered.slice(i,i+chunkSize));
@@ -135,13 +117,12 @@
 
                     counter++;
                 }
-                //console.log("Chunks: " + counting);
-                //-----------------------------
+
                 $scope.selectedRangeChanged = function(){
                     console.log("Days range selected: " + $scope.selectedRange);
                     var indexSelectedRange = $scope.splitSortedUniqueDatesFormControl.indexOf($scope.selectedRange);
                     console.log("Days index of range: " + indexSelectedRange);
-                    //Refresh the chat with new data
+                    //Refresh the chart with new data
                     $scope.labels = splitSortedUniqueDates[indexSelectedRange];
                     $scope.data = [
                         splitEmailsSent[indexSelectedRange],
@@ -151,36 +132,17 @@
                     ];
                 }
 
-
-                //Chart setup
-                //$scope.labels = ["January", "February", "March", "April", "May", "June", "July"];
-                //$scope.labels = sortedUniqueDates;
+                //Days chart setup
                 $scope.labels = splitSortedUniqueDates[0];
                 $scope.series = ['Sent', 'Delivered', 'Read', 'Complaints'];
-                //$scope.data = [
-                //    [65, 59, 80, 250, 56, 55, 40],
-                //    [28, 48, 40, 19, 86, 27, 90],
-                //    [32, 24, 32, 12, 54, 12, 86],
-                //    [28, 48, 40, 19, 12, 63, 63]
-                //];
-                //$scope.data = [
-                //    emailsSent,
-                //    emailsDelivered,
-                //    emailsRead,
-                //    emailsComplaints
-                //];
                 $scope.data = [
                     splitEmailsSent[0],
                     splitEmailsDelivered[0],
                     splitEmailsRead[0],
                     splitEmailsComplaints[0]
                 ];
-                //$scope.onClick = function(points, evt) {
-                //    //console.log(points, evt);
-                //    console.log("Points clicked");
-                //};
 
-                //Weeks --------------------------------------------------------
+                //Weeks
                 var getWeekNumber = function(d) {
                     // Copy date so don't modify original
                     d = new Date(+d);
@@ -198,13 +160,11 @@
 
                 //convert date from string dd/mm/yy to Date object
                 var convertStringToDate = function(dateString) {
-                    //var dateString = splitSortedUniqueDates[0][0];
                     var yy = dateString.substr(6,2);
                     var year  = (yy < 90) ? '20' + yy : '19' + yy;
                     var month = dateString.substr(3,2);
                     var actualMonth = month - 1;
                     var day = dateString.substr(0,2);
-                    //var dateFromString = new Date(year, actualMonth, day);
                     return new Date(year, actualMonth, day);
                 };
 
@@ -212,7 +172,6 @@
                 //Replace 'date' field with week representation '2015 Week 31'
                 var sortedObjectsWeeks = JSON.parse(JSON.stringify(sortedUniqueObjects)); //Deep copy http://stackoverflow.com/a/9886013/2616185
                 for (i = 0; i < sortedUniqueObjects.length; i++) {
-                    //sortedObjectsWeeks[i] = sortedUniqueObjects[i];
                     var dateObj = convertStringToDate(sortedObjectsWeeks[i].date);
                     var weekRepresentation = getWeekNumber(dateObj);
                     sortedObjectsWeeks[i].date = weekRepresentation[0] + " Week " + weekRepresentation[1];
@@ -237,14 +196,7 @@
                     sortedUniqueObjectsWeeks.push(seenWeeks[k]);
                 }
 
-                //Test - should be 53
                 console.log("Unique weeks: " + sortedUniqueObjectsWeeks.length);
-
-                //Check no. of weeks between 2 dates
-                //var firstDate = new Date(2014, 6, 7);
-                //var secondDate = new Date(2015, 6, 12);
-                //var weeks = Math.round((secondDate-firstDate)/ 604800000);
-                //console.log("Weeks in between: " + weeks);
 
                 //Creating arrays with each field
                 var sortedUniqueDatesWeeks = [];
@@ -276,22 +228,19 @@
                     splitSortedUniqueDatesWeeks.push(sortedUniqueDatesWeeks.slice(i,i+chunkSize));
                     var lastEntry = splitSortedUniqueDatesWeeks[counter].length;
                     var formControlEntry = splitSortedUniqueDatesWeeks[counter][0] + " - " + splitSortedUniqueDatesWeeks[counter][lastEntry-1];
-                    //console.log(formControlEntry);
                     $scope.splitSortedUniqueDatesFormControlWeeks.push(formControlEntry);
                     splitEmailsSentWeeks.push(emailsSentWeeks.slice(i,i+chunkSize));
                     splitEmailsDeliveredWeeks.push(emailsDeliveredWeeks.slice(i,i+chunkSize));
                     splitEmailsReadWeeks.push(emailsReadWeeks.slice(i,i+chunkSize));
                     splitEmailsComplaintsWeeks.push(emailsComplaintsWeeks.slice(i,i+chunkSize));
-
                     counter++;
                 }
 
-                //console.log("Chunks: " + counting);
                 $scope.selectedRangeWeeksChanged = function(){
                     console.log("Weeks range selected: " + $scope.selectedWeeksRange);
                     var indexSelectedRange = $scope.splitSortedUniqueDatesFormControlWeeks.indexOf($scope.selectedWeeksRange);
                     console.log("Weeks index of range: " + indexSelectedRange);
-                    //Refresh the chat with new data
+                    //Refresh the chart with new data
                     $scope.labelsWeeks = splitSortedUniqueDatesWeeks[indexSelectedRange];
                     $scope.dataWeeks = [
                         splitEmailsSentWeeks[indexSelectedRange],
@@ -310,9 +259,8 @@
                     splitEmailsReadWeeks[0],
                     splitEmailsComplaintsWeeks[0]
                 ];
-                //Weeks --------------------------------------------------------
 
-                //Months --------------------------------------------------------
+                //Months
 
                 //Format date as 'Jul 2015'
                 var formatDateMonthAndYear = function(dateInstance) {
@@ -323,12 +271,9 @@
                 //Build array of objects from 'sortedUniqueObjects' with date as 'Jul 2015'
                 //Replace 'date' field with month representation 'Jul 2015'
                 var sortedObjectsMonths = JSON.parse(JSON.stringify(sortedUniqueObjects)); //Deep copy http://stackoverflow.com/a/9886013/2616185
-                //var sortedObjectsMonths = [];
                 for (i = 0; i < sortedUniqueObjects.length; i++) {
-                    //sortedObjectsMonths[i] = sortedUniqueObjects[i];
                     var dateObj = convertStringToDate(sortedObjectsMonths[i].date);
                     sortedObjectsMonths[i].date = formatDateMonthAndYear(dateObj);
-                    //console.log(sortedObjectsMonths[i].date);
                 }
 
                 //Removing date duplicates by months and merging email values -> 13 objects - 13 months
@@ -350,7 +295,6 @@
                     sortedUniqueObjectsMonths.push(seenMonths[k]);
                 }
 
-                //Test - should be 13
                 console.log("Unique months: " + sortedUniqueObjectsMonths.length);
 
                 //Creating arrays with each field
@@ -383,22 +327,19 @@
                     splitSortedUniqueDatesMonths.push(sortedUniqueDatesMonths.slice(i,i+chunkSize));
                     var lastEntry = splitSortedUniqueDatesMonths[counter].length;
                     var formControlEntry = splitSortedUniqueDatesMonths[counter][0] + " - " + splitSortedUniqueDatesMonths[counter][lastEntry-1];
-                    //console.log(formControlEntry);
                     $scope.splitSortedUniqueDatesFormControlMonths.push(formControlEntry);
                     splitEmailsSentMonths.push(emailsSentMonths.slice(i,i+chunkSize));
                     splitEmailsDeliveredMonths.push(emailsDeliveredMonths.slice(i,i+chunkSize));
                     splitEmailsReadMonths.push(emailsReadMonths.slice(i,i+chunkSize));
                     splitEmailsComplaintsMonths.push(emailsComplaintsMonths.slice(i,i+chunkSize));
-
                     counter++;
                 }
 
-                //console.log("Chunks: " + counting);
                 $scope.selectedRangeMonthsChanged = function(){
                     console.log("Months range selected: " + $scope.selectedMonthsRange);
                     var indexSelectedRange = $scope.splitSortedUniqueDatesFormControlMonths.indexOf($scope.selectedMonthsRange);
                     console.log("Months index of range: " + indexSelectedRange);
-                    //Refresh the chat with new data
+                    //Refresh the chart with new data
                     $scope.labelsMonths = splitSortedUniqueDatesMonths[indexSelectedRange];
                     $scope.dataMonths = [
                         splitEmailsSentMonths[indexSelectedRange],
@@ -417,9 +358,8 @@
                     splitEmailsReadMonths[0],
                     splitEmailsComplaintsMonths[0]
                 ];
-                //Months --------------------------------------------------------
 
-                //Overall---------------
+                //Overall
                 //Depends on months implementation
                 var totalSent = 0, totalDelivered = 0, totalRead = 0, totalComplaints = 0;
                 for (i = 0; i < sortedUniqueObjectsMonths.length; i++) {
@@ -454,9 +394,7 @@
 
                 //Setup overall chart
                 $scope.labelsOverall = ['Sent', 'Delivered', 'Read', 'Complaints'];
-                //$scope.dataOverall = [totalSent, totalDelivered, totalRead, totalComplaints];
                 $scope.dataOverall = [sentPercentage, deliveredPercentage, readPercentage, complaintsPercentage];
-                //Overall---------------
             },
             controllerAs: "chartsCtrl"
         };
@@ -465,7 +403,7 @@
     app.directive("emailTables", function() {
         return {
             restrict: 'E',
-            templateUrl: "toOrganize/email-tables.html",
+            templateUrl: "components/tables/tables-body.html",
             controller: function($scope) {
                 //Tables magic goes here
                 $scope.formattedDaysArrayCopy = $scope.formattedDaysArray;
@@ -489,7 +427,7 @@
     app.directive("chartsPresentationOptions", function() {
        return {
            restrict: 'E',
-           templateUrl: "toOrganize/charts-presentation-options.html",
+           templateUrl: "components/charts/charts-presentation-options.html",
            controller: function() {
                this.checkboxDays = true;
                this.checkboxWeeks = true;
@@ -503,7 +441,7 @@
     app.directive("tablesPresentationOptions", function() {
         return {
             restrict: 'E',
-            templateUrl: "toOrganize/tables-presentation-options.html",
+            templateUrl: "components/tables/tables-presentation-options.html",
             controller: function() {
                 this.checkboxDays = true;
                 this.checkboxWeeks = true;
