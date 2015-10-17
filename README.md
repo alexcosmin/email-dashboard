@@ -14,4 +14,8 @@ The app has been tested with Chrome v.45 on OS X Yosemite.
 
 The app has been deployed to Firebase hosting and it's live [here](https://blazing-fire-6089.firebaseapp.com/).
 
+####Purpose
+
+The purpose of this project was to learn how to display charts and tables with pagination from a JSON data set, while using AngularJS.
+
 
